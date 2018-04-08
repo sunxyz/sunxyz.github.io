@@ -16,16 +16,21 @@
   <meta http-equiv="window-target" content="_top" />
   
   
-  <title>归档: 2016 | sunxyz [小生活更有趣]</title>
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://sunxyz.cn/archives/2016/index.html">
+  <title>hexo 入坑经验 | sunxyz [小生活更有趣]</title>
+  <meta name="description" content="hexo是什么？官网是这样介绍的：  Hexo is a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.  翻译一下：  Hexo是">
+<meta name="keywords" content="hexo,node,github">
+<meta property="og:type" content="article">
+<meta property="og:title" content="hexo 入坑经验">
+<meta property="og:url" content="http://sunxyz.cn/2017/12/01/hexo 入坑经验/index.html">
 <meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="hexo是什么？官网是这样介绍的：  Hexo is a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.  翻译一下：  Hexo是">
 <meta property="og:locale" content="default">
+<meta property="og:updated_time" content="2018-04-08T08:52:06.442Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hexo">
+<meta name="twitter:title" content="hexo 入坑经验">
+<meta name="twitter:description" content="hexo是什么？官网是这样介绍的：  Hexo is a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.  翻译一下：  Hexo是">
   <!-- Canonical links -->
-  <link rel="canonical" href="http://sunxyz.cn/archives/2016/index.html">
+  <link rel="canonical" href="http://sunxyz.cn/2017/12/01/hexo 入坑经验/index.html">
   
     <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
   
@@ -293,48 +298,159 @@
   
   
 <main class="main" role="main">
-  	<article class="content article article-archives article-type-list" itemscope="">
-	    <header class="article-header">
-	      <h1 itemprop="title">归档: 2016</h1>
-	      <p class="text-muted">共 1 篇文章</p>
-	    </header>
-	    <div class="article-body">
-	      
-  
-  
+  <div class="content">
+  <article id="post-hexo 入坑经验" class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
     
-    
+    <div class="article-header">
       
+        
+  
+    <h1 class="article-title" itemprop="name">
+      hexo 入坑经验
+    </h1>
+  
+
       
-      <section class="panel panel-default b-no">
-        <div class="panel-heading" role="tab">
-          <h3 class="panel-title">
-            <a data-toggle="collapse" href="#collapse2016" aria-expanded="true">
-              <i class="icon icon-calendar-plus text-active"></i><i class="icon icon-calendar-minus text"></i>
-              2016
-            </a>
-            <!-- <a href="/archives/2016" class="archive-year">2016</a> -->
-          </h3>
-        </div>
-        <div id="collapse2016" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading2016">
-        <div class="panel-body">
-          <div class="collection">
+      <div class="article-meta">
+        <span class="article-date">
+    <i class="icon icon-calendar-check"></i>
+	<a href="/2017/12/01/hexo 入坑经验/" class="article-date">
+	  <time datetime="2017-12-01T09:30:29.000Z" itemprop="datePublished">2017-12-01</time>
+	</a>
+</span>
+        
+  <span class="article-category">
+    <i class="icon icon-folder"></i>
+    <a class="article-category-link" href="/categories/hexo/">hexo</a>
+  </span>
+
+        
+  <span class="article-tag">
+    <i class="icon icon-tags"></i>
+	<a class="article-tag-link" href="/tags/github/">github</a>, <a class="article-tag-link" href="/tags/hexo/">hexo</a>, <a class="article-tag-link" href="/tags/node/">node</a>
+  </span>
+
+
+        
+
+        <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2017/12/01/hexo 入坑经验/#comments" class="article-comment-link">评论</a></span>
+        
+      </div>
+    </div>
+    <div class="article-entry markdown-body" itemprop="articleBody">
+      
+        <h2 id="hexo是什么？"><a href="#hexo是什么？" class="headerlink" title="hexo是什么？"></a>hexo是什么？</h2><p>官网是这样介绍的：</p>
+<blockquote>
+<p>Hexo is a fast, simple and powerful blog framework. You write posts in Markdown (or other languages) and Hexo generates static files with a beautiful theme in seconds.</p>
+</blockquote>
+<p>翻译一下：</p>
+<blockquote>
+<p>Hexo是一个快速，简单而强大的博客框架。 您可以使用Markdown（或其他语言）编写文章，Hexo可以在几秒钟内生成具有美丽主题的静态文件。</p>
+</blockquote>
+<p>大白话：</p>
+<blockquote>
+<p>将Markdown编写的文章生成漂亮的静态网站 ， 加上github page就完美了</p>
+</blockquote>
+<h2 id="如何安装hexo"><a href="#如何安装hexo" class="headerlink" title="如何安装hexo:"></a>如何安装hexo:</h2><p><a href="/2017/11/28/hexo+github/">hexo+github 搭建个人博客 简明教程</a></p>
+<h2 id="开始写作"><a href="#开始写作" class="headerlink" title="开始写作:"></a>开始写作:</h2><p>我使用的是马克飞象的客户端</p>
+<p>在写文章正文之前需要添加Meta信息：<br>Hexo默认的文件头只有title、date、tags属性，生成的html会缺少Meta信息，不利于搜索引擎收录。建议自行在文件头中添加keywords和description属性。categories属性可自行选择是否添加。<br>文件头格式为：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: ##文章标题</span><br><span class="line">date: ##时间，格式为 YYYY-MM-DD HH:mm:ss</span><br><span class="line">categories: ##分类</span><br><span class="line">tags: ##标签，多标签格式为 [tag1,tag2,...]</span><br><span class="line">keywords: ##文章关键词，多关键词格式为 keyword1,keywords2,...</span><br><span class="line">description: ##文章描述</span><br><span class="line">---</span><br><span class="line">正文</span><br></pre></td></tr></table></figure>
+<h2 id="预览效果"><a href="#预览效果" class="headerlink" title="预览效果:"></a>预览效果:</h2><p>使用如下命令：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure></p>
+<p>然后打开 <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a> 即可</p>
+<h2 id="如何发布页面："><a href="#如何发布页面：" class="headerlink" title="如何发布页面："></a>如何发布页面：</h2><p>起初的时候是使用 hexo 的 命令</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>
+<p>后来发现总是覆盖掉线上已有的文件 于是果断使用git GUI 来解决这个问题 现在变成了三步走：</p>
+<ul>
+<li><p>使用 hexo命令来生成静态页面</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g</span><br></pre></td></tr></table></figure>
+</li>
+<li><p>将 生成的页面复制到git项目中去</p>
+</li>
+<li>使用git GUI 进行推送<br>选中修改与新增文件 stage changed=&gt; commit =&gt; push</li>
+</ul>
+<h2 id="主题选择"><a href="#主题选择" class="headerlink" title="主题选择:"></a>主题选择:</h2><p>一个开源项目最重要的要素是什么?</p>
+<p>我的答案是: 以我选择的主题为例 <a href="https://blog.viosey.com/" target="_blank" rel="noopener">示例</a>+<a href="https://material.viosey.com/docs/#/" target="_blank" rel="noopener">文档</a> 文档 文档 （逃）</p>
+<p><a href="https://hexo.io/themes/" target="_blank" rel="noopener">获得更多主题</a></p>
+<h2 id="扩展阅读："><a href="#扩展阅读：" class="headerlink" title="扩展阅读："></a>扩展阅读：</h2><p><a href="http://wowubuntu.com/markdown/" target="_blank" rel="noopener">了解Markdown 的常用语法</a></p>
+<p><a href="https://wizardforcel.gitbooks.io/markdown-simple-world/0.html" target="_blank" rel="noopener">Markdown + Gitbook</a></p>
+<p><a href="http://www.jianshu.com/p/189fd945f38f" target="_blank" rel="noopener">搭建个人博客-hexo+github详细完整步骤</a></p>
+
+      
+    </div>
+    <div class="article-footer">
+      <blockquote class="mt-2x">
+  <ul class="post-copyright list-unstyled">
+    
+    <li class="post-copyright-link hidden-xs">
+      <strong>本文链接：</strong>
+      <a href="http://sunxyz.cn/2017/12/01/hexo 入坑经验/" title="hexo 入坑经验" target="_blank" rel="external">http://sunxyz.cn/2017/12/01/hexo 入坑经验/</a>
+    </li>
+    
+    <li class="post-copyright-license">
+      <strong>版权声明： </strong> 本博客所有文章除特别声明外，均采用 <a href="http://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="external">CC BY 4.0 CN协议</a> 许可协议。转载请注明出处！
+    </li>
+  </ul>
+</blockquote>
+
+
+<div class="panel panel-default panel-badger">
+  <div class="panel-body">
+    <figure class="media">
+      <div class="media-left">
+        <a href="https://github.com/sunxyz" target="_blank" class="img-burn thumb-sm visible-lg">
+          <img src="/images/avatar.jpg" class="img-rounded w-full" alt="">
+        </a>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading"><a href="https://github.com/sunxyz" target="_blank"><span class="text-dark">yangrd</span><small class="ml-1x">Java Developer &amp; Designer</small></a></h3>
+        <div>90后 javaer 热爱生活 喜欢读书 拥抱开源。</div>
+      </div>
+    </figure>
+  </div>
+</div>
+
+
+    </div>
+  </article>
+  
+    
+  <section id="comments">
+  	
+       
+    <div id="uyan_frame"></div>
+
+    
+  </section>
+
+
+  
+</div>
+
+  <nav class="bar bar-footer clearfix" data-stick-bottom>
+  <div class="bar-inner">
+  
+  <ul class="pager pull-left">
     
     
-<a href="/2016/04/10/愿与君常伴/" class="collection-item" target="_blank" itemprop="url">
-  <time datetime="2016-04-10T08:36:36.000Z" itemprop="datePublished">2016-04-10</time>
-  <span>&nbsp;&nbsp;&nbsp;</span> 愿与君常伴
-</a>
-
-
+    <li class="next">
+      <a href="/2017/11/28/hexo+github/" title="hexo+github 搭建个人博客 简明教程"><span>下一篇&nbsp;&nbsp;</span><i class="icon icon-angle-right" aria-hidden="true"></i></a>
+    </li>
+    
+    
+  </ul>
   
   
-    </div></div></div></section>
+  
+  <div class="bar-right">
+    
+    <div class="share-component" data-sites="weibo,qq,wechat,facebook,twitter" data-mobile-sites="weibo,qq,qzone"></div>
+    
+  </div>
+  </div>
+</nav>
   
 
-	    </div>
-  	</article>
-  	 	
+
 </main>
 
   <footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
@@ -391,6 +507,12 @@ window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
 
 
     
+    
+        
+    
+    <script defer type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=[object Object]"></script>
+
+
     
     
 
