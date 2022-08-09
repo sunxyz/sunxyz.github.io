@@ -131,6 +131,12 @@
           <div class="contact-form-title">
             <h5>输入网址</h5>
           </div>
+          <div style="text-align: center;">
+            <div>订阅推荐</div>
+            <ul style="padding-inline-start: 0;">
+              <li style="display: inline-block;padding:10px" v-for="item in items" ><a href="#" v-text="item.name" @click="()=>{rssUrl=item.url;follow()}"></a></li>
+            </ul>
+          </div>
           <div class="contact-form-input">
   
               <div class="form-group">
@@ -353,6 +359,16 @@
       websiteFollows:[],
       unfollowId:undefined,
       show:true,
+      items:[
+        {name:'知乎热榜',url:'https://rsshub.app/zhihu/hotlist'},
+        {name:'微博热搜榜',url:'https://rsshub.app/weibo/search/hot'},
+        {name:'V2EX-最热主题',url:'https://rsshub.app/v2ex/topics/hot'},
+        {name:'美团技术团队',url:'https://rsshub.app/meituan/tech/home'},
+        {name:'阮一峰的网络日志',url:'https://www.ruanyifeng.com/blog/atom.xml'},
+        {name:'深空彼岸 - 笔趣阁',url:'https://rsshub.app/biquge/http://www.biqugse.com/88513/'},
+        {name:'夜的命名术 - 笔趣阁',url:'https://rsshub.app/biquge/http://www.biqugse.com/87289/'},
+        
+      ]
     },
     methods:{
       follow(){
