@@ -1,526 +1,483 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
-  <meta name="renderer" content="webkit">
-  <meta http-equiv="Cache-Control" content="no-transform" />
-  <meta http-equiv="Cache-Control" content="no-siteapp" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="format-detection" content="telephone=no,email=no,adress=no">
-  <!-- Color theme for statusbar -->
-  <meta name="theme-color" content="#000000" />
-  <!-- 强制页面在当前窗口以独立页面显示,防止别人在框架里调用页面 -->
-  <meta http-equiv="window-target" content="_top" />
-  
-  
-  <title>sunxyz [小生活更有趣]</title>
-  <meta property="og:type" content="website">
-<meta property="og:title" content="Hexo">
-<meta property="og:url" content="http://sunxyz.cn/index.html">
-<meta property="og:site_name" content="Hexo">
-<meta property="og:locale" content="default">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Hexo">
-  <!-- Canonical links -->
-  <link rel="canonical" href="http://sunxyz.cn/index.html">
-  
-    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
-  
-  
-    <link rel="icon" href="/favicon.png" type="image/x-icon">
-  
-  <!-- font-awesome CSS -->
-  <!-- <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
-  <link rel="stylesheet" href="/css/style.css">
-  
-    
-    
+	<meta name="generator" content="Hugo 0.101.0" />
+  <meta charset="utf-8" />
+  <title>webfollow</title>
 
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="/plugins/slick/slick.css" />
+  <link rel="stylesheet" href="/plugins/slick/slick-theme.css" />
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="/plugins/font-awesome/css/font-awesome.min.css" />
+
+  <!-- Magnific Popup -->
+  <link rel="stylesheet" href="/plugins/magnafic-popup/magnific-popup.css" />
+
+  <!-- Stylesheets -->
+  
+  <link href="/scss/style.min.css" rel="stylesheet" />
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
+  
+  <script  src="/plugins/vue/vue.min.js"></script>
+  <script  src="/plugins/axios/axios.min.js"></script>
+  <script>
+    var BaseURL = window.location.host.includes('localhost')?'http://localhost:8080':'http://api.webfollow.cc:8086'
+    axios.defaults.baseURL = BaseURL
+    
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?392ac0df04b6b46eb9cc5a38c42b8004";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 </head>
 
+<body>
+  <nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container">
+    <a href="/" class="navbar-brand">
+      <img src="/images/logo.png" alt="site-logo">
+    </a>
+    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbarCollapse">
+      <span class="navbar-toggler-icon"></span>
+      <span class="navbar-toggler-icon"></span>
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-<body class="main-center" itemscope itemtype="http://schema.org/WebPage">
-  <header class="header" itemscope itemtype="http://schema.org/WPHeader">
-  <div class="slimContent">
-    <div class="navbar-header">
-      
-      
-      <div class="profile-block text-center">
-        <a id="avatar" href="https://github.com/sunxyz" target="_blank">
-          <img class="img-circle img-rotate" src="/images/avatar.jpg" width="200" height="200">
-        </a>
-        <h2 id="name" class="hidden-xs hidden-sm">yangrd</h2>
-        <h3 id="title" class="hidden-xs hidden-sm hidden-md">Java Developer &amp; Designer</h3>
-        <small id="location" class="text-muted hidden-xs hidden-sm"><i class="icon icon-map-marker"></i> Jinan, China</small>
+    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+      <ul class="nav navbar-nav main-navigation my-0 mx-auto">
+        
+        
+        <li class="nav-item">
+          <a href="/#home"
+            class="nav-link text-dark text-sm-center p-2 scroll">主页</a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/#use"
+            class="nav-link text-dark text-sm-center p-2 scroll">使用</a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/#explore"
+            class="nav-link text-dark text-sm-center p-2 scroll">探索</a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/#start"
+            class="nav-link text-dark text-sm-center p-2 scroll">快速开始</a>
+        </li>
+        
+      </ul>
+      <div class="navbar-nav">
+        <a href="/start" class="btn btn-primary btn-zoom hire_button">免费使用</a>
       </div>
-      
-      <div class="search" id="search-form-wrap">
-
-    <form class="search-form sidebar-form">
-        <div class="input-group">
-            <input type="text" class="search-form-input form-control" placeholder="搜索" />
-            <span class="input-group-btn">
-                <button type="submit" class="search-form-submit btn btn-flat" onclick="return false;"><i class="icon icon-search"></i></button>
-            </span>
-        </div>
-    </form>
-    <div class="ins-search">
-  <div class="ins-search-mask"></div>
-  <div class="ins-search-container">
-    <div class="ins-input-wrapper">
-      <input type="text" class="ins-search-input" placeholder="想要查找什么..." x-webkit-speech />
-      <button type="button" class="close ins-close ins-selectable" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-    </div>
-    <div class="ins-section-wrapper">
-      <div class="ins-section-container"></div>
     </div>
   </div>
-</div>
-
-
-</div>
-      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-    </div>
-    <nav id="main-navbar" class="collapse navbar-collapse" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation">
-      <ul class="nav navbar-nav main-nav">
-        
-        
-        
-        <li class="menu-item menu-item-home">
-          <a href="/.">
-            
-            <i class="icon icon-home-fill"></i>
-            
-            <span class="menu-title">首页</span>
-          </a>
-        </li>
-        
-        
-        
-        <li class="menu-item menu-item-archives">
-          <a href="/archives">
-            
-            <i class="icon icon-archives-fill"></i>
-            
-            <span class="menu-title">归档</span>
-          </a>
-        </li>
-        
-        
-        
-        <li class="menu-item menu-item-categories">
-          <a href="/categories">
-            
-            <i class="icon icon-folder"></i>
-            
-            <span class="menu-title">分类</span>
-          </a>
-        </li>
-        
-        
-        
-        <li class="menu-item menu-item-tags">
-          <a href="/tags">
-            
-            <i class="icon icon-tags"></i>
-            
-            <span class="menu-title">标签</span>
-          </a>
-        </li>
-        
-        
-        
-        <li class="menu-item menu-item-repository">
-          <a href="/repository">
-            
-            <i class="icon icon-project"></i>
-            
-            <span class="menu-title">项目</span>
-          </a>
-        </li>
-        
-        
-        
-        <li class="menu-item menu-item-books">
-          <a href="/books">
-            
-            <i class="icon icon-book-fill"></i>
-            
-            <span class="menu-title">书单</span>
-          </a>
-        </li>
-        
-      </ul>
-      
-	
-    <ul class="social-links">
-    	
-        <li><a href="https://github.com/sunxyz" target="_blank" title="Github" data-toggle=tooltip data-placement=top><i class="icon icon-github"></i></a></li>
-        
-        <li><a href="http://weibo.com/yangrd" target="_blank" title="Weibo" data-toggle=tooltip data-placement=top><i class="icon icon-weibo"></i></a></li>
-        
-        <li><a href="/atom.xml" target="_blank" title="Rss" data-toggle=tooltip data-placement=top><i class="icon icon-rss"></i></a></li>
-        
-    </ul>
-
-    </nav>
-  </div>
-</header>
-
-  
-    <aside class="sidebar" itemscope itemtype="http://schema.org/WPSideBar">
-  <div class="slimContent">
+</nav>
+  <div id="content">
     
-      <div class="widget">
-    <h3 class="widget-title">公告</h3>
-    <div class="widget-body">
-        <div id="board">
-            <div class="content">
-                <h3>Sunxyz</h3><p>小生活更有趣</p>
+
+
+
+<section class="hero" id="home">
+  <div class="hero_background-svg">
+    <svg viewBox="0 0 1437 1180">
+      <path fill="#f1f6f9" d="M0 0h1377l60 1010a120 120 0 01-120 120L0 1180z" data-name="Path 1350" />
+    </svg>
+  </div>
+  <div class="hero_footer-svg">
+    <img src="images/hero/figure-svg.svg" alt="" />
+  </div>
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-6">
+        <div class="hero_content">
+          <div class="hero_blob">
+            <svg viewBox="0 0 550 550">
+              <defs>
+                <linearGradient id="a" x1=".069" x2=".753" y1=".116" y2=".858" gradientUnits="objectBoundingBox">
+                  <stop offset="0" stop-color="#fff" />
+                  <stop offset="1" stop-color="#fff" stop-opacity=".012" />
+                </linearGradient>
+              </defs>
+              <g data-name="blob-shape (3)">
+                <path class="blob" fill="url(#a)"
+                  d="M455.4 151.1c43.1 36.7 73.4 92.8 60.8 136.3-12.7 43.5-68.1 74.4-111.3 119.4-43.1 45-74 104.1-109.8 109-35.9 5-76.7-44.2-111.8-89.2-35.2-45-64.7-85.8-70.8-132.6-6-46.8 11.6-99.6 46.7-136.3 35.2-36.6 88-57.2 142.4-58.8 54.5-1.7 110.6 15.6 153.8 52.2z" />
+              </g>
+            </svg>
+          </div>
+          <div class="mb-5">
+            <span class="top-title pre-line">定制属于你的专属信息</span>
+            <h1 id="少即是多">少即是多</h1>
+<p>网上信息浩如云烟，分散在各处，如何解决信息过载，一个邮箱即可。
+          </div>
+          <a type="button" class="btn btn-lg btn-primary btn-zoom"
+            href="/start">免费使用</a>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="hero_figure">
+          <div class="figure-svg">
+            <img src="images/hero/figure-svg.svg" alt="figure-svg" />
+          </div>
+          <img src="/images/hero/email_lists.png" alt="hero-image" style='
+                  -webkit-mask: url(/images/hero/hero-mask-svg.png);
+                  -webkit-mask-repeat: no-repeat;
+                  /* -webkit-mask-size: contain; */
+                  /* -webkit-mask-position: center center; */
+                ' />
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="section service" id="use">
+    <div class="service__background">
+        <svg viewBox="0 0 1283 1126">
+            <path fill="#f1f6f9" d="M100 0h1183v1126l-1183-80A100 100 0 010 946V100A100 100 0 01100 0z"
+                data-name="Path 1369" />
+        </svg>
+    </div>
+    <div class="service__background_shape">
+        <svg viewBox="0 0 550 550">
+            <defs>
+                <linearGradient id="b" x1="0.209" y1="0.085" x2="1.071" y2="1.164" gradientUnits="objectBoundingBox">
+                    <stop offset="0" stop-color="#f1f6f9" />
+                    <stop offset="1" stop-color="#f1f6f9" stop-opacity="0" />
+                </linearGradient>
+            </defs>
+            <g data-name="blob-shape (3)">
+                <path class="blob" fill="url(#b)"
+                    d="M455.4 151.1c43.1 36.7 73.4 92.8 60.8 136.3-12.7 43.5-68.1 74.4-111.3 119.4-43.1 45-74 104.1-109.8 109-35.9 5-76.7-44.2-111.8-89.2-35.2-45-64.7-85.8-70.8-132.6-6-46.8 11.6-99.6 46.7-136.3 35.2-36.6 88-57.2 142.4-58.8 54.5-1.7 110.6 15.6 153.8 52.2z" />
+            </g>
+        </svg>
+    </div>
+
+    <div class="service__background_pattern">
+        <img src="images/service/background-pattern.svg" alt="background-pattern">
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                <div class="service__header mb-5">
+                    <span class="top-title pre-line">使用</span>
+                    <h2 id="开始使用">开始使用</h2>
+<p>关注rss, webfollow过滤后送达你的邮箱.
+                </div>
             </div>
         </div>
-    </div>
-</div>
-
-    
-      
-  <div class="widget">
-    <h3 class="widget-title">分类</h3>
-    <div class="widget-body">
-      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/docker/">docker</a><span class="category-list-count">1</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/hexo/">hexo</a><span class="category-list-count">2</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/诗/">诗</a><span class="category-list-count">1</span></li></ul>
-    </div>
-  </div>
-
-
-    
-      
-  <div class="widget">
-    <h3 class="widget-title">标签</h3>
-    <div class="widget-body">
-      <ul class="tag-list"><li class="tag-list-item"><a class="tag-list-link" href="/tags/docker/">docker</a><span class="tag-list-count">1</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/github/">github</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/hexo/">hexo</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/node/">node</a><span class="tag-list-count">2</span></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/诗/">诗</a><span class="tag-list-count">1</span></li></ul>
-    </div>
-  </div>
-
-
-    
-      
-  <div class="widget">
-    <h3 class="widget-title">标签云</h3>
-    <div class="widget-body tagcloud">
-      <a href="/tags/docker/" style="font-size: 13px;">docker</a> <a href="/tags/github/" style="font-size: 14px;">github</a> <a href="/tags/hexo/" style="font-size: 14px;">hexo</a> <a href="/tags/node/" style="font-size: 14px;">node</a> <a href="/tags/诗/" style="font-size: 13px;">诗</a>
-    </div>
-  </div>
-
-    
-      
-  <div class="widget">
-    <h3 class="widget-title">归档</h3>
-    <div class="widget-body">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/06/">June 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/12/">December 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/11/">November 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/04/">April 2016</a><span class="archive-list-count">1</span></li></ul>
-    </div>
-  </div>
-
-
-    
-      
-  <div class="widget">
-    <h3 class="widget-title">最新文章</h3>
-    <div class="widget-body">
-      <ul class="recent-post-list list-unstyled no-thumbnail">
-        
-          <li>
-            
-            <div class="item-inner">
-              <p class="item-category">
-                <a class="category-link" href="/categories/docker/">docker</a>
-              </p>
-              <p class="item-title">
-                <a href="/2018/06/22/docker-command/" class="title">docker 命令</a>
-              </p>
-              <p class="item-date">
-                <time datetime="2018-06-22T02:22:39.000Z" itemprop="datePublished">2018-06-22</time>
-              </p>
+        <div class="row">
+            <div class="col-12">
+                <div class="service__slider">
+                    
+                    
+                    <div class="service__slider_item">
+                        <div class="service__slider_item-icon">
+                            <div class="icon-background">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
+                                    viewBox="0 0 122.457 109.702">
+                                    <path fill="#f1f6f9"
+                                        d="M49.855527 9.984102c-4.337424-.815024-8.766002-1.633779-13.152776-1.113889-8.196034.975107-15.344329 6.696991-19.41555 13.879649s-5.363288 15.655094-5.187042 23.907191c.156996 7.385448 1.479849 14.875357 4.972905 21.38465s9.337384 11.961229 16.458344 13.922244c4.833752 1.331211 10.056683 1.044827 14.74081 2.829827 7.560693 2.881382 12.209757 10.489626 19.01235 14.870016a25.650039 25.650039 0 0024.16316 1.698928c8.342551-3.846451 14.03857-12.107291 16.641338-20.918947s2.471077-18.187687 1.756125-27.346305c-.843101-10.912846-3.01686-22.783019-11.354287-29.869462-6.037066-5.130853-14.208558-6.772976-21.995428-8.235353z"
+                                        data-name="Path 1354" />
+                                </svg>
+                            </div>
+                            <div class="icon">
+                                <img src=" /images/service/ui-ux.svg " alt="ui-ux">
+                            </div>
+                        </div>
+                        <div class="mt-5">
+                            <h4 id="关注rss">关注rss</h4>
+<p>这是一切的开始，只需要关注你喜欢的rss源，其他的交给webfollow.
+                        </div>
+                    </div>
+                    
+                    <div class="service__slider_item">
+                        <div class="service__slider_item-icon">
+                            <div class="icon-background">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
+                                    viewBox="0 0 122.457 109.702">
+                                    <path fill="#f1f6f9"
+                                        d="M49.855527 9.984102c-4.337424-.815024-8.766002-1.633779-13.152776-1.113889-8.196034.975107-15.344329 6.696991-19.41555 13.879649s-5.363288 15.655094-5.187042 23.907191c.156996 7.385448 1.479849 14.875357 4.972905 21.38465s9.337384 11.961229 16.458344 13.922244c4.833752 1.331211 10.056683 1.044827 14.74081 2.829827 7.560693 2.881382 12.209757 10.489626 19.01235 14.870016a25.650039 25.650039 0 0024.16316 1.698928c8.342551-3.846451 14.03857-12.107291 16.641338-20.918947s2.471077-18.187687 1.756125-27.346305c-.843101-10.912846-3.01686-22.783019-11.354287-29.869462-6.037066-5.130853-14.208558-6.772976-21.995428-8.235353z"
+                                        data-name="Path 1354" />
+                                </svg>
+                            </div>
+                            <div class="icon">
+                                <img src=" /images/service/web.svg " alt="ui-ux">
+                            </div>
+                        </div>
+                        <div class="mt-5">
+                            <h4 id="优先级">优先级</h4>
+<p>通过设置优先级可以帮助你从浩如云烟的信息中将优质的内容优先呈现给你.
+                        </div>
+                    </div>
+                    
+                    <div class="service__slider_item">
+                        <div class="service__slider_item-icon">
+                            <div class="icon-background">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
+                                    viewBox="0 0 122.457 109.702">
+                                    <path fill="#f1f6f9"
+                                        d="M49.855527 9.984102c-4.337424-.815024-8.766002-1.633779-13.152776-1.113889-8.196034.975107-15.344329 6.696991-19.41555 13.879649s-5.363288 15.655094-5.187042 23.907191c.156996 7.385448 1.479849 14.875357 4.972905 21.38465s9.337384 11.961229 16.458344 13.922244c4.833752 1.331211 10.056683 1.044827 14.74081 2.829827 7.560693 2.881382 12.209757 10.489626 19.01235 14.870016a25.650039 25.650039 0 0024.16316 1.698928c8.342551-3.846451 14.03857-12.107291 16.641338-20.918947s2.471077-18.187687 1.756125-27.346305c-.843101-10.912846-3.01686-22.783019-11.354287-29.869462-6.037066-5.130853-14.208558-6.772976-21.995428-8.235353z"
+                                        data-name="Path 1354" />
+                                </svg>
+                            </div>
+                            <div class="icon">
+                                <img src=" /images/service/creative.svg " alt="ui-ux">
+                            </div>
+                        </div>
+                        <div class="mt-5">
+                            <h4 id="限制数量">限制数量</h4>
+<p>webfollow的精华，太多的信息和太多的信息一样，解决信息过载，少即是多.
+                        </div>
+                    </div>
+                    
+                    <div class="service__slider_item">
+                        <div class="service__slider_item-icon">
+                            <div class="icon-background">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
+                                    viewBox="0 0 122.457 109.702">
+                                    <path fill="#f1f6f9"
+                                        d="M49.855527 9.984102c-4.337424-.815024-8.766002-1.633779-13.152776-1.113889-8.196034.975107-15.344329 6.696991-19.41555 13.879649s-5.363288 15.655094-5.187042 23.907191c.156996 7.385448 1.479849 14.875357 4.972905 21.38465s9.337384 11.961229 16.458344 13.922244c4.833752 1.331211 10.056683 1.044827 14.74081 2.829827 7.560693 2.881382 12.209757 10.489626 19.01235 14.870016a25.650039 25.650039 0 0024.16316 1.698928c8.342551-3.846451 14.03857-12.107291 16.641338-20.918947s2.471077-18.187687 1.756125-27.346305c-.843101-10.912846-3.01686-22.783019-11.354287-29.869462-6.037066-5.130853-14.208558-6.772976-21.995428-8.235353z"
+                                        data-name="Path 1354" />
+                                </svg>
+                            </div>
+                            <div class="icon">
+                                <img src=" /images/service/branding.svg " alt="ui-ux">
+                            </div>
+                        </div>
+                        <div class="mt-5">
+                            <h4 id="呈现形式">呈现形式</h4>
+<p>缩略和详情两种模式供你选择，你的专属信息即将呈现，更多主题后续陆续上架.
+                        </div>
+                    </div>
+                    
+                    <div class="service__slider_item">
+                        <div class="service__slider_item-icon">
+                            <div class="icon-background">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="122.457" height="109.702"
+                                    viewBox="0 0 122.457 109.702">
+                                    <path fill="#f1f6f9"
+                                        d="M49.855527 9.984102c-4.337424-.815024-8.766002-1.633779-13.152776-1.113889-8.196034.975107-15.344329 6.696991-19.41555 13.879649s-5.363288 15.655094-5.187042 23.907191c.156996 7.385448 1.479849 14.875357 4.972905 21.38465s9.337384 11.961229 16.458344 13.922244c4.833752 1.331211 10.056683 1.044827 14.74081 2.829827 7.560693 2.881382 12.209757 10.489626 19.01235 14.870016a25.650039 25.650039 0 0024.16316 1.698928c8.342551-3.846451 14.03857-12.107291 16.641338-20.918947s2.471077-18.187687 1.756125-27.346305c-.843101-10.912846-3.01686-22.783019-11.354287-29.869462-6.037066-5.130853-14.208558-6.772976-21.995428-8.235353z"
+                                        data-name="Path 1354" />
+                                </svg>
+                            </div>
+                            <div class="icon">
+                                <img src=" /images/service/ui-ux.svg " alt="ui-ux">
+                            </div>
+                        </div>
+                        <div class="mt-5">
+                            <h4 id="送达邮箱">送达邮箱</h4>
+<p>这里是你的专属信息，也是阅读的新开始，你关注的通过webfollow只需一个邮箱即可.
+                        </div>
+                    </div>
+                    
+                </div>
             </div>
-          </li>
-          
-          <li>
-            
-            <div class="item-inner">
-              <p class="item-category">
-                <a class="category-link" href="/categories/hexo/">hexo</a>
-              </p>
-              <p class="item-title">
-                <a href="/2017/12/01/hexo 入坑经验/" class="title">hexo 入坑经验</a>
-              </p>
-              <p class="item-date">
-                <time datetime="2017-12-01T09:30:29.000Z" itemprop="datePublished">2017-12-01</time>
-              </p>
-            </div>
-          </li>
-          
-          <li>
-            
-            <div class="item-inner">
-              <p class="item-category">
-                <a class="category-link" href="/categories/hexo/">hexo</a>
-              </p>
-              <p class="item-title">
-                <a href="/2017/11/28/hexo+github/" class="title">hexo+github 搭建个人博客 简明教程</a>
-              </p>
-              <p class="item-date">
-                <time datetime="2017-11-28T02:30:29.000Z" itemprop="datePublished">2017-11-28</time>
-              </p>
-            </div>
-          </li>
-          
-          <li>
-            
-            <div class="item-inner">
-              <p class="item-category">
-                <a class="category-link" href="/categories/诗/">诗</a>
-              </p>
-              <p class="item-title">
-                <a href="/2016/04/10/愿与君常伴/" class="title">愿与君常伴</a>
-              </p>
-              <p class="item-date">
-                <time datetime="2016-04-10T08:36:36.000Z" itemprop="datePublished">2016-04-10</time>
-              </p>
-            </div>
-          </li>
-          
-      </ul>
-    </div>
-  </div>
-  
-
-    
-  </div>
-</aside>
-
-  
-  <main class="main" role="main">
-  
-  <div class="content article-list">
-    
-      <article class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2018/06/22/docker-command/">docker 命令</a>
-    </h1>
-  
-
-  </div>
-  
-  <p class="article-meta">
-    <span class="article-date">
-    <i class="icon icon-calendar-check"></i>
-	<a href="/2018/06/22/docker-command/" class="article-date">
-	  <time datetime="2018-06-22T02:22:39.000Z" itemprop="datePublished">Jun 22</time>
-	</a>
-</span>
-    
-  <span class="article-category">
-    <i class="icon icon-folder"></i>
-    <a class="article-category-link" href="/categories/docker/">docker</a>
-  </span>
-
-    
-  <span class="article-tag">
-    <i class="icon icon-tags"></i>
-	<a class="article-tag-link" href="/tags/docker/">docker</a>
-  </span>
-
-
-    <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2018/06/22/docker-command/#comments" class="article-comment-link">评论</a></span>
-    
-  </p>
-</article>
-
-    
-      <article class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2017/12/01/hexo 入坑经验/">hexo 入坑经验</a>
-    </h1>
-  
-
-  </div>
-  
-  <p class="article-meta">
-    <span class="article-date">
-    <i class="icon icon-calendar-check"></i>
-	<a href="/2017/12/01/hexo 入坑经验/" class="article-date">
-	  <time datetime="2017-12-01T09:30:29.000Z" itemprop="datePublished">Dec 1</time>
-	</a>
-</span>
-    
-  <span class="article-category">
-    <i class="icon icon-folder"></i>
-    <a class="article-category-link" href="/categories/hexo/">hexo</a>
-  </span>
-
-    
-  <span class="article-tag">
-    <i class="icon icon-tags"></i>
-	<a class="article-tag-link" href="/tags/github/">github</a>, <a class="article-tag-link" href="/tags/hexo/">hexo</a>, <a class="article-tag-link" href="/tags/node/">node</a>
-  </span>
-
-
-    <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2017/12/01/hexo 入坑经验/#comments" class="article-comment-link">评论</a></span>
-    
-  </p>
-</article>
-
-    
-      <article class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2017/11/28/hexo+github/">hexo+github 搭建个人博客 简明教程</a>
-    </h1>
-  
-
-  </div>
-  
-  <p class="article-meta">
-    <span class="article-date">
-    <i class="icon icon-calendar-check"></i>
-	<a href="/2017/11/28/hexo+github/" class="article-date">
-	  <time datetime="2017-11-28T02:30:29.000Z" itemprop="datePublished">Nov 28</time>
-	</a>
-</span>
-    
-  <span class="article-category">
-    <i class="icon icon-folder"></i>
-    <a class="article-category-link" href="/categories/hexo/">hexo</a>
-  </span>
-
-    
-  <span class="article-tag">
-    <i class="icon icon-tags"></i>
-	<a class="article-tag-link" href="/tags/github/">github</a>, <a class="article-tag-link" href="/tags/hexo/">hexo</a>, <a class="article-tag-link" href="/tags/node/">node</a>
-  </span>
-
-
-    <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2017/11/28/hexo+github/#comments" class="article-comment-link">评论</a></span>
-    
-  </p>
-</article>
-
-    
-      <article class="article article-type-post" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2016/04/10/愿与君常伴/">愿与君常伴</a>
-    </h1>
-  
-
-  </div>
-  
-  <p class="article-meta">
-    <span class="article-date">
-    <i class="icon icon-calendar-check"></i>
-	<a href="/2016/04/10/愿与君常伴/" class="article-date">
-	  <time datetime="2016-04-10T08:36:36.000Z" itemprop="datePublished">Apr 10</time>
-	</a>
-</span>
-    
-  <span class="article-category">
-    <i class="icon icon-folder"></i>
-    <a class="article-category-link" href="/categories/诗/">诗</a>
-  </span>
-
-    
-  <span class="article-tag">
-    <i class="icon icon-tags"></i>
-	<a class="article-tag-link" href="/tags/诗/">诗</a>
-  </span>
-
-
-    <span class="post-comment"><i class="icon icon-comment"></i> <a href="/2016/04/10/愿与君常伴/#comments" class="article-comment-link">评论</a></span>
-    
-  </p>
-</article>
-
-    
-  </div>
-
-   
-</main>
-
-  <footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
-	
-	
-    <ul class="social-links">
-    	
-        <li><a href="https://github.com/sunxyz" target="_blank" title="Github" data-toggle=tooltip data-placement=top><i class="icon icon-github"></i></a></li>
-        
-        <li><a href="http://weibo.com/yangrd" target="_blank" title="Weibo" data-toggle=tooltip data-placement=top><i class="icon icon-weibo"></i></a></li>
-        
-        <li><a href="/atom.xml" target="_blank" title="Rss" data-toggle=tooltip data-placement=top><i class="icon icon-rss"></i></a></li>
-        
-    </ul>
-
-    <div class="copyright">
-    	
-        <div class="publishby">
-        	Theme by <a href="https://github.com/cofess" target="_blank"> cofess </a>base on <a href="https://github.com/cofess/hexo-theme-pure" target="_blank">pure</a>.
         </div>
     </div>
-</footer>
-  <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-<script>
-window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')
-</script>
-<script src="/js/plugin.min.js"></script>
-<script src="/js/application.js"></script>
-  
-    
-    
-    
-        <script>
-(function (window) {
-    var INSIGHT_CONFIG = {
-        TRANSLATION: {
-            POSTS: '文章',
-            PAGES: '页面',
-            CATEGORIES: '分类',
-            TAGS: '标签',
-            UNTITLED: '(未命名)',
-        },
-        ROOT_URL: '/',
-        CONTENT_URL: '/content.json',
-    };
-    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
-})(window);
-</script>
-<script src="/js/insight.js"></script>
-    
-    
-    
-        
+</section>
 
 
-    
-    
-    
 
 
+
+<section class="section portfolio" id="explore">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-6 offset-lg-3">
+        <div class="portfolio__header mb-5">
+          <span class="top-title">探索</span>
+          <h2 id="探索更多的网站发现你喜欢的rss信息源">探索更多的网站，发现你喜欢的rss信息源</h2>
+
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <div class="portfolio-item-grid">
+          
+          <div class="portfolio-item">
+            <img src="images/portfolio/rss-resource.jpg" class="portfolio-item-thumb" alt="portfolio-thumb" />
+            <div class="portfolio-item-content">
+              <span>RSS Source是一个由Issei设计的订阅源数据库网站。</span>
+              <h3 class="mb-0">
+                <a class="text-dark" href="https://rss-source.com/">rss-source</a>
+              </h3>
+              <a class="see-more-btn" href="https://rss-source.com/">前往</a>
+            </div>
+          </div>
+          
+          <div class="portfolio-item">
+            <img src="images/portfolio/feeddd.jpg" class="portfolio-item-thumb" alt="portfolio-thumb" />
+            <div class="portfolio-item-content">
+              <span>所有信息回到你的掌控</span>
+              <h3 class="mb-0">
+                <a class="text-dark" href="https://feeddd.org">feeddd</a>
+              </h3>
+              <a class="see-more-btn" href="https://feeddd.org">前往</a>
+            </div>
+          </div>
+          
+          <div class="portfolio-item">
+            <img src="images/portfolio/rsshub.jpg" class="portfolio-item-thumb" alt="portfolio-thumb" />
+            <div class="portfolio-item-content">
+              <span>RSSHub 是一个开源、简单易用、易于扩展的 RSS 生成器，可以给任何奇奇怪怪的内容生成 RSS 订阅源。RSSHub 借助于开源社区的力量快速发展中，目前已适配数百家网站的上千项内容</span>
+              <h3 class="mb-0">
+                <a class="text-dark" href="https://docs.rsshub.app/">rsshub</a>
+              </h3>
+              <a class="see-more-btn" href="https://docs.rsshub.app/">前往</a>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  </div>
+  <section class="footer" id="start">
+	<div class="footer__background_shape">
+		<svg viewBox="0 0 1920 79">
+			<path d="M0 0h1920v79L0 0z" data-name="Path 1450" />
+		</svg>
+	</div>
+	<div class="container">
+		
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="footer__cta">
+					<div class="shape-1">
+						<svg xmlns="http://www.w3.org/2000/svg" width="357" height="315.029" viewBox="0 0 357 315.029">
+							<path data-name="Path 1449"
+								d="M76.1-157.222C91.746-135.8 87.2-94.273 99.993-61.945c12.7 32.328 42.661 55.459 39.248 73.282-3.318 17.823-40.007 30.337-65.6 43.325-25.5 12.988-39.912 26.545-60.01 42.566-20.1 16.116-46.074 34.6-63.328 27.682-17.349-6.921-25.976-39.153-59.915-59.82s-93.1-29.768-105.325-51.478 22.373-56.028 43.609-93.949c21.331-37.921 29.2-79.35 53.563-96.793 24.459-17.444 65.414-10.9 103.9-6.921 38.396 3.982 74.326 5.404 89.965 26.829z"
+								transform="translate(217.489 188.626)" />
+						</svg>
+					</div>
+					<div class="shape-2">
+						<svg xmlns="http://www.w3.org/2000/svg" width="357" height="315.029" viewBox="0 0 357 315.029">
+							<path data-name="Path 1449"
+								d="M76.1-157.222C91.746-135.8 87.2-94.273 99.993-61.945c12.7 32.328 42.661 55.459 39.248 73.282-3.318 17.823-40.007 30.337-65.6 43.325-25.5 12.988-39.912 26.545-60.01 42.566-20.1 16.116-46.074 34.6-63.328 27.682-17.349-6.921-25.976-39.153-59.915-59.82s-93.1-29.768-105.325-51.478 22.373-56.028 43.609-93.949c21.331-37.921 29.2-79.35 53.563-96.793 24.459-17.444 65.414-10.9 103.9-6.921 38.396 3.982 74.326 5.404 89.965 26.829z"
+								transform="translate(217.489 188.626)" />
+						</svg>
+					</div>
+					<div class="text-light footer__cta_content">
+						<span>快速开始</span>
+						<h2 class="mb-0">开始webfollow使用吧</h2>
+					</div>
+					<div class="footer__cta_action">
+						<a class="btn btn-light btn-zoom" href="/start">开始订阅信息</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row footer__widget">
+			<div class="col-lg-4">
+				<div class="footer__widget_logo mb-5">
+					<img src="/images/foot-logo.png" alt="widget-logo">
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="text-light footer__widget_sitemap mb-5">
+					<h4 class="base-font">网站导航</h4>
+					<ul class="unstyle-list small">
+						
+						
+						<li class="mb-2"><a class="text-light" href="/">主页</a></li>
+						
+						<li class="mb-2"><a class="text-light" href="/start">快速开始</a></li>
+						
+					</ul>
+				</div>
+			</div>
+			<div class="col-lg-4">
+				<div class="text-light footer__widget_address mb-5">
+					<h4 class="base-font">Address</h4>
+					
+					<ul class="fa-ul small">
+						<li class="mb-2"><a class="text-light" href="tel:"><span class="fa-li"><i
+										class="fa fa-phone"></i></span></a></li>
+						<li class="mb-2"><a class="text-light" href="mailto:webfollow@163.com"><span class="fa-li"><i
+										class="fa fa-envelope"></i></span>webfollow@163.com</a></li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="row footer__footer">
+			<div class="col-lg-6">
+				<div class="footer__footer_copy text-light">
+					<p> ©2022 webfollow </p>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="footer__footer_social">
+					<ul class="unstyle-list">
+						
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<script src="https://maps.googleapis.com/maps/api/js?key=&libraries=geometry"></script>
+<script src="/plugins/jQuery/jquery.min.js"></script>
+<script src="/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="/plugins/slick/slick.min.js"></script>
+<script src="/plugins/waypoint/jquery.waypoints.min.js"></script>
+<script src="/plugins/magnafic-popup/jquery.magnific-popup.min.js"></script>
+<script src="/plugins/tweenmax/TweenMax.min.js"></script>
+<script src="/plugins/imagesloaded/imagesloaded.min.js"></script>
+<script src="/plugins/masonry/masonry.min.js"></script>
+
+<script src="/js/form-handler.min.js"></script>
+
+<script src="/js/script.min.js"></script>
 
 </body>
+
 </html>
