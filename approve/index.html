@@ -133,7 +133,7 @@
 </section>
 
 <script>
-	axios.get('/api/auth/approve'+window.location.search).then((result) => {
+	axios.post('/api/auth/approve'+window.location.search).then((result) => {
 		document.getElementById('msg').innerText = result.data
 	}).catch((err) => {
 		document.getElementById('msg').innerText = '认证失败，请稍后重试'
