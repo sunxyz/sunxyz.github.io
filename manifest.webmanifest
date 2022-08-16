@@ -1,1 +1,1 @@
-{"name":"WebFollow","short_name":"WebFollow","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"少即是多，定制您的专属信息","theme_color":"#000","icons":[{"src":"favicon.png","sizes":"64x64","type":"image/png"}]}
+{"name":"WebFollow","short_name":"WebFollow","start_url":"/","display":"fullscreen","background_color":"#fff","lang":"en","scope":"/","description":"少即是多，定制您的专属信息","icons":[{"src":"logo.svg","sizes":"192x192","type":"image/png"},{"src":"logo.svg","sizes":"512x512","type":"image/png"}]}
