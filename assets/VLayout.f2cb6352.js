@@ -1,0 +1,1 @@
+import{y as n,z as d,A as c,B as m,d as p}from"./index.3ac046ec.js";const L=n({name:"VLayout",props:d(),setup(a,s){let{slots:e}=s;const{layoutClasses:o,layoutStyles:l,getLayoutItem:u,items:r,layoutRef:y}=c(a);return m(()=>{var t;return p("div",{ref:y,class:o.value,style:l.value},[(t=e.default)==null?void 0:t.call(e)])}),{getLayoutItem:u,items:r}}});export{L as V};
