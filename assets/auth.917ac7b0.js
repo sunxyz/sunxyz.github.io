@@ -1,0 +1,1 @@
+import{y as n}from"./index.759447ea.js";function a(t){return n.post("/auth",null,{params:t})}function u(t){return n.get("/auth/token",{params:t})}function r(t){return n.post("/auth/approve",null,{params:t})}export{a,r as b,u as g};
