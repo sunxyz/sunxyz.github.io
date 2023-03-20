@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>WebFollow</title>
+  <meta name="description" content="Don't refresh, don't wait for new information to find you, new rss reader">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <!-- 谷歌浏览器 -->
+  <meta name="theme-color" content="#fff">
+  <!-- iOS Safari -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="icon" type="image" href="favicon.ico" />
+  <link rel="apple-touch-icon" href="/favicon.png" sizes="180x180">
+  <link rel="mask-icon" href="/favicon.png">
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0K11ELSEVB"></script>
+  <script>
+    if (!window.location.host.includes("local")) {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-0K11ELSEVB');
+    }
+  </script>
+  <script>
+    if (!window.location.host.includes("local")) {
+      var _hmt = _hmt || [];
+      (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?392ac0df04b6b46eb9cc5a38c42b8004";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    }
+  </script>
+  <script src="/sw.js"></script>
+  <script type="module" crossorigin src="/assets/index.8bf4e5c6.js"></script>
+  <link rel="stylesheet" href="/assets/index.770d7748.css">
+<link rel="manifest" href="/manifest.webmanifest"></head>
+
+<body>
+  <div id="app"></div>
+  
+</body>
+
+</html>
