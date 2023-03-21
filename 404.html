@@ -19,7 +19,7 @@
   <script>
     if (!window.location.host.includes("local")) {
       window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
+      function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
       gtag('config', 'G-0K11ELSEVB');
@@ -36,14 +36,12 @@
       })();
     }
   </script>
-  <script src="https://static.webfollow.cc/sw.js"></script>
-  <script type="module" crossorigin src="https://static.webfollow.cc/assets/index.c2573c65.js"></script>
-  <link rel="stylesheet" href="https://static.webfollow.cc/assets/index.82eaa87f.css">
-  <link rel="manifest" href="https://static.webfollow.cc/manifest.webmanifest">
+  <script src="/sw.js"></script>
 </head>
 
 <body>
   <div id="app"></div>
+  <script type="module" src="/src/main.js"></script>
 </body>
 
 </html>
