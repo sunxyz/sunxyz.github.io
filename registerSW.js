@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://static.webfollow.cc/sw.js', { scope: 'https://static.webfollow.cc/' })})}
