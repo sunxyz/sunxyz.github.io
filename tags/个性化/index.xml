@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个性化 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%B8%AA%E6%80%A7%E5%8C%96/</link>
+    <description>Recent content in 个性化 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%B8%AA%E6%80%A7%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parentivity</title>
+      <link>https://aihub.bitmagic.space/post/parentivity/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/parentivity/</guid>
+      <description>个性化的建议，活动和学习模块。集成 GPT-3 以获得实时反馈。聊天功能，无缝使用。注重隐私，安全和保密。</description>
+    </item>
+    
+    <item>
+      <title>To Teach AI</title>
+      <link>https://aihub.bitmagic.space/post/to-teach-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/to-teach-ai/</guid>
+      <description>在人工智能的帮助下，在几秒钟内为您和您的班级创造个性化的学习体验。</description>
+    </item>
+    
+  </channel>
+</rss>

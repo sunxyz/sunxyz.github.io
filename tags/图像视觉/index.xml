@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图像视觉 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%9B%BE%E5%83%8F%E8%A7%86%E8%A7%89/</link>
+    <description>Recent content in 图像视觉 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%9B%BE%E5%83%8F%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magic Studio</title>
+      <link>https://aihub.bitmagic.space/post/magic-studio/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/magic-studio/</guid>
+      <description>使用他们的 AI 图像编辑工具在几秒钟内创建令人惊叹的视觉效果。删除不需要的东西，切换背景或放大图片 – 所有这些都没有Photoshop或Illustrator。用文字创建图片或让 AI 为您创建令人惊叹的个人资料图片 – 这太棒了！</description>
+    </item>
+    
+  </channel>
+</rss>

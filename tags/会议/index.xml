@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>会议 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BC%9A%E8%AE%AE/</link>
+    <description>Recent content in 会议 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BC%9A%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fireflies.ai</title>
+      <link>https://aihub.bitmagic.space/post/fireflies-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fireflies-ai/</guid>
+      <description>用于会议的 AI 助手 记录、转录和搜索语音对话。</description>
+    </item>
+    
+    <item>
+      <title>Laxis</title>
+      <link>https://aihub.bitmagic.space/post/laxis/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/laxis/</guid>
+      <description>Laxis 智能地捕获对话，使您的会议更加高效和愉快。简单的转录和个性化模板可帮助您从会议中提取见解、行动项和关键报价。</description>
+    </item>
+    
+    <item>
+      <title>Mindgrasp</title>
+      <link>https://aihub.bitmagic.space/post/mindgrasp/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mindgrasp/</guid>
+      <description>Mindgrasp 立即创建准确的笔记并回答来自任何文档、PDF、YouTube 视频、缩放会议、网络研讨会录制、播客等的问题！</description>
+    </item>
+    
+    <item>
+      <title>Noty.ai</title>
+      <link>https://aihub.bitmagic.space/post/noty-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/noty-ai/</guid>
+      <description>人工智能会议助手将谷歌会议转化为行动、任务和后续行动。功能包括：实时转录和一键突出显示。AI 摘要和会议智能。自动跟进。</description>
+    </item>
+    
+    <item>
+      <title>Vizard</title>
+      <link>https://aihub.bitmagic.space/post/vizard/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/vizard/</guid>
+      <description>让内容营销人员轻松创建具有专业外观的网络研讨会录像、会议录音和客户推荐。任何人都可以将现有视频资产重新用于高转化率内容。节省高达 80% 的视频制作时间和预算。无需编辑经验。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>医疗医学 on Aihub</title>
+    <link>https://aihub.bitmagic.space/series/%E5%8C%BB%E7%96%97%E5%8C%BB%E5%AD%A6/</link>
+    <description>Recent content in 医疗医学 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/series/%E5%8C%BB%E7%96%97%E5%8C%BB%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cradle</title>
+      <link>https://aihub.bitmagic.space/post/cradle/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/cradle/</guid>
+      <description>Cradle 使用强大的预测算法和 AI 设计建议，帮助生物学家在创纪录的时间内设计改进的蛋白质。</description>
+    </item>
+    
+    <item>
+      <title>Glass.health</title>
+      <link>https://aihub.bitmagic.space/post/glass-health/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/glass-health/</guid>
+      <description>有效的问题表述，也称为诊断性单行词，包括相关的人口统计学、相关病史或流行病学危险因素、疾病的持续时间和速度，以及关键体征和症状以及关键数据（实验室、影像学、体格检查数据）。如果可能，应将体征、症状和数据合并到临床综合征的描述中。</description>
+    </item>
+    
+    <item>
+      <title>Lunit</title>
+      <link>https://aihub.bitmagic.space/post/lunit/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lunit/</guid>
+      <description>Lunit是一家上市公司，开发有助于征服癌症的医疗AI软件。对于癌症，生存通常取决于它被发现的早期程度，而Lunit的癌症筛查AI帮助医生更早地发现它。Lunit INSIGHT可以检测异常放射学结果，胸部X射线的准确率高达97-99%。其中许多异常是人眼看不见的，如果没有Lunit的帮助，医生会错过。 Lunit SCOPE使用AI来预测治疗反应，以帮助医生就如何治疗患者做出明智的决定。</description>
+    </item>
+    
+    <item>
+      <title>Whisper AI</title>
+      <link>https://aihub.bitmagic.space/post/whisper-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/whisper-ai/</guid>
+      <description>这是一个人工智能驱动的助听器。借助人工智能，它可以学习并适应不同的听力情况，例如嘈杂的购物市场或家庭聚会。它提供从新功能到声音处理的定期软件升级。</description>
+    </item>
+    
+  </channel>
+</rss>

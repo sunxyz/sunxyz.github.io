@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>知识图谱 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/</link>
+    <description>Recent content in 知识图谱 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>思知OwnThink</title>
+      <link>https://aihub.bitmagic.space/post/%E6%80%9D%E7%9F%A5ownthink/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E6%80%9D%E7%9F%A5ownthink/</guid>
+      <description>ownthink致力于最大的中文开放知识图谱，目前已经对两千五百多万实体进行了融合，拥有亿级别的实体属性关系，知识还在不断更新中。 数据集包含： 歧义关系（mention -&amp;gt; entity） 全部知识（entity -&amp;gt; knowledge） 属性值（entity&amp;amp;attribute -&amp;gt; value） 知识图谱可视化检索：https://www.ownthink.com/knowledge.html 知识图谱数据使用方式见主页：https://www.ownthink.com/ 说明文档：https://www.ownthink.com/docs/kg/ 医疗知识图谱：http://www.openkg.cn/dataset/medical</description>
+    </item>
+    
+  </channel>
+</rss>

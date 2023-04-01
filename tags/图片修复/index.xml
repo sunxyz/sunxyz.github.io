@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图片修复 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%9B%BE%E7%89%87%E4%BF%AE%E5%A4%8D/</link>
+    <description>Recent content in 图片修复 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%9B%BE%E7%89%87%E4%BF%AE%E5%A4%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bg.Eraser</title>
+      <link>https://aihub.bitmagic.space/post/bg-eraser/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/bg-eraser/</guid>
+      <description>强大的AI修复和图片清理技术。在几秒钟内删除不需要的对象和水印。</description>
+    </item>
+    
+    <item>
+      <title>Nostalgia Photo</title>
+      <link>https://aihub.bitmagic.space/post/nostalgia-photo/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/nostalgia-photo/</guid>
+      <description>怀旧照片通过最新的尖端人工智能使旧照片栩栩如生。只需单击几下即可获得最大分辨率和几美分。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图像合成 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%9B%BE%E5%83%8F%E5%90%88%E6%88%90/</link>
+    <description>Recent content in 图像合成 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%9B%BE%E5%83%8F%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generated Photos</title>
+      <link>https://aihub.bitmagic.space/post/generated-photos/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/generated-photos/</guid>
+      <description>使用完全由 AI 生成的照片增强您的创意作品。通过我们排序和标记的应用程序查找模型图像，或通过 API 集成图像。</description>
+    </item>
+    
+  </channel>
+</rss>

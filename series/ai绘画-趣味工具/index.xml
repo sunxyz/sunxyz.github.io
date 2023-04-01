@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI绘画 趣味工具 on Aihub</title>
+    <link>https://aihub.bitmagic.space/series/ai%E7%BB%98%E7%94%BB-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in AI绘画 趣味工具 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/series/ai%E7%BB%98%E7%94%BB-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scribble Diffusion</title>
+      <link>https://aihub.bitmagic.space/post/scribble-diffusion/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/scribble-diffusion/</guid>
+      <description>您可以绘制一些内容并按下按钮将其转换为精致的图像。还有一个视频教程可以帮助人们学习如何构建类似的应用程序</description>
+    </item>
+    
+  </channel>
+</rss>

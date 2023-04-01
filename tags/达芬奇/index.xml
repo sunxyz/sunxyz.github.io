@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>达芬奇 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%BE%BE%E8%8A%AC%E5%A5%87/</link>
+    <description>Recent content in 达芬奇 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%BE%BE%E8%8A%AC%E5%A5%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DaVinciFace</title>
+      <link>https://aihub.bitmagic.space/post/davinciface/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/davinciface/</guid>
+      <description>唯一能从你的照片创建达芬奇风格肖像的 AI。</description>
+    </item>
+    
+  </channel>
+</rss>

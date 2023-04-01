@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据库 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+    <description>Recent content in 数据库 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avanty</title>
+      <link>https://aihub.bitmagic.space/post/avanty/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/avanty/</guid>
+      <description>再也不会浪费宝贵的数据分析师时间在编写无聊的 SQL 查询上。Avanty 是一款由 AI 驱动的数据查询 + 商业智能工具，让每个人都能更快、更低成本地从数据中获得见解。</description>
+    </item>
+    
+  </channel>
+</rss>

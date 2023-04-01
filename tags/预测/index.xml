@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>预测 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E9%A2%84%E6%B5%8B/</link>
+    <description>Recent content in 预测 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E9%A2%84%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Predict AI</title>
+      <link>https://aihub.bitmagic.space/post/predict-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/predict-ai/</guid>
+      <description>Predict 是一种 AI 工具，可预测客户对注意力和认知等创意资产的反应，准确率为 95%。它建立在行业领先的眼动追踪数据库之上，并通过神经科学方法进行验证。</description>
+    </item>
+    
+    <item>
+      <title>Spatial</title>
+      <link>https://aihub.bitmagic.space/post/spatial/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/spatial/</guid>
+      <description>通过实时社交媒体细分系统预测和影响客户行为。它根据人们的社交、移动和网络活动以及描述某个位置附近社交活动的类型和速度的地点提供细分。</description>
+    </item>
+    
+  </channel>
+</rss>

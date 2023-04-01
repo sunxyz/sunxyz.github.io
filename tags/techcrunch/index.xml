@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechCrunch on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/techcrunch/</link>
+    <description>Recent content in TechCrunch on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/techcrunch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TechCrunch Summary</title>
+      <link>https://aihub.bitmagic.space/post/techcrunch-summary/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/techcrunch-summary/</guid>
+      <description>带有 GPT-3 的新闻摘要器 – 专门用于 TechCrunch 文章。 该项目使用OpenAI GPT-3 API（特别是text-davinci-003）和Vercel Edge函数与流媒体。它获取 Techcrunch 文章中的内容，在提示中将其发送到 GPT-3 API 以通过 Vercel Edge 函数对其进行汇总，然后将响应流式传输回应用程序。</description>
+    </item>
+    
+  </channel>
+</rss>

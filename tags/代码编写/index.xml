@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>代码编写 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E7%BC%96%E5%86%99/</link>
+    <description>Recent content in 代码编写 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E7%BC%96%E5%86%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeSquire</title>
+      <link>https://aihub.bitmagic.space/post/codesquire/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codesquire/</guid>
+      <description>面向数据科学家、工程师和分析师的 AI 代码编写助手。 在键入时获取代码完成和建议。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>格式转换 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/</link>
+    <description>Recent content in 格式转换 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Listnr</title>
+      <link>https://aihub.bitmagic.space/post/listnr/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/listnr/</guid>
+      <description>AI语音生成器具有600 +语言的80 +画外音，在几秒钟内从文本到语音，轻松地以MP3或WAV格式导出您的声音。</description>
+    </item>
+    
+    <item>
+      <title>Play.ht</title>
+      <link>https://aihub.bitmagic.space/post/play-ht/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/play-ht/</guid>
+      <description>AI 驱动的文本到语音生成器。使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 （TTS） 音频。立即将文本转换为自然语音，并下载为MP3和WAV音频文件。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开发插件 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%BC%80%E5%8F%91%E6%8F%92%E4%BB%B6/</link>
+    <description>Recent content in 开发插件 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%BC%80%E5%8F%91%E6%8F%92%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sketch</title>
+      <link>https://aihub.bitmagic.space/post/sketch/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/sketch/</guid>
+      <description>Sketch 是熊猫用户的 AI 代码编写助手，可以理解数据的上下文，大大提高建议的相关性。Sketch 可在几秒钟内使用，不需要向 IDE 添加插件</description>
+    </item>
+    
+  </channel>
+</rss>

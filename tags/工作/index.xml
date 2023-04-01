@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工作 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 工作 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caktus</title>
+      <link>https://aihub.bitmagic.space/post/caktus/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/caktus/</guid>
+      <description>人工智能解决方案，供学生撰写论文、讨论问题、通用编码帮助和专业工作申请帮助。</description>
+    </item>
+    
+  </channel>
+</rss>

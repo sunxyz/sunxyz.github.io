@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>变声器 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%8F%98%E5%A3%B0%E5%99%A8/</link>
+    <description>Recent content in 变声器 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%8F%98%E5%A3%B0%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Altered</title>
+      <link>https://aihub.bitmagic.space/post/altered/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/altered/</guid>
+      <description>独特的技术允许您将声音更改为我们精心策划的任何产品组合或自定义声音，并创建引人注目的专业语音表演</description>
+    </item>
+    
+    <item>
+      <title>Cleanvoice AI</title>
+      <link>https://aihub.bitmagic.space/post/cleanvoice-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/cleanvoice-ai/</guid>
+      <description>Cleanvoice是一种人工智能，可以从播客或录音中删除填充声音，口吃和嘴巴声音</description>
+    </item>
+    
+    <item>
+      <title>Voicemod</title>
+      <link>https://aihub.bitmagic.space/post/voicemod/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/voicemod/</guid>
+      <description>Voicemod一个有趣和可怕的语音转换器应用程序。语音转换器和修饰符，具有使您听起来像女孩或机器人的效果</description>
+    </item>
+    
+  </channel>
+</rss>

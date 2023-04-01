@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>海豹 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%B5%B7%E8%B1%B9/</link>
+    <description>Recent content in 海豹 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%B5%B7%E8%B1%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Playground AI</title>
+      <link>https://aihub.bitmagic.space/post/playground-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/playground-ai/</guid>
+      <description>游乐场AI是一个免费使用的在线AI图像创建者。使用它来创建艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。</description>
+    </item>
+    
+  </channel>
+</rss>

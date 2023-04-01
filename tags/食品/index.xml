@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>食品 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E9%A3%9F%E5%93%81/</link>
+    <description>Recent content in 食品 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E9%A3%9F%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChefGPT</title>
+      <link>https://aihub.bitmagic.space/post/chefgpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/chefgpt/</guid>
+      <description>ChefGPT.xyz 根据可用的成分提供人工智能驱动的食谱建议。您可以选择您拥有的食材、您拥有的厨房工具、您有多少时间、您的烹饪技能水平以及不同的“厨师模式”，例如美食模式和全包模式，允许用户自定义他们的食谱。</description>
+    </item>
+    
+    <item>
+      <title>Recipes By AI</title>
+      <link>https://aihub.bitmagic.space/post/recipes-by-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/recipes-by-ai/</guid>
+      <description>输入配料列表（有或没有数量），您的个人AI厨师将仅使用这些食材提出量身定制的食谱</description>
+    </item>
+    
+    <item>
+      <title>唤醒食物</title>
+      <link>https://aihub.bitmagic.space/post/%E5%94%A4%E9%86%92%E9%A3%9F%E7%89%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E5%94%A4%E9%86%92%E9%A3%9F%E7%89%A9/</guid>
+      <description>基于数据可视化为您提供1781种食物的多达100种食物营养成分 介绍：食物营养成分与科学食疗方案 – 唤醒食物 基于数据可视化为您提供1781种食物的多达100种食物营养成分 利用大数据与人工智能算法为您提供诉求与疾病的科学食疗方案</description>
+    </item>
+    
+  </channel>
+</rss>

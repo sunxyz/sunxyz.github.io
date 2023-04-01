@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网页 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%BD%91%E9%A1%B5/</link>
+    <description>Recent content in 网页 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%BD%91%E9%A1%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InstaSalesAI</title>
+      <link>https://aihub.bitmagic.space/post/instasalesai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/instasalesai/</guid>
+      <description>InstaSalesAI是用于Instagram营销的AI工具的集合。您可以使用它来生成轮播内容或营销钩子。</description>
+    </item>
+    
+  </channel>
+</rss>

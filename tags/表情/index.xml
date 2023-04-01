@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>表情 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%A1%A8%E6%83%85/</link>
+    <description>Recent content in 表情 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%A1%A8%E6%83%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TweetEmote</title>
+      <link>https://aihub.bitmagic.space/post/tweetemote/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/tweetemote/</guid>
+      <description>AI 驱动的推文助手，可帮助用户撰写富有表现力且引人入胜的推文。还可以通过编写提示并选择情绪来为您想要的任何推文创建智能回复。</description>
+    </item>
+    
+  </channel>
+</rss>

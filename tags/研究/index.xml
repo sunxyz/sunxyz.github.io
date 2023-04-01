@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%A0%94%E7%A9%B6/</link>
+    <description>Recent content in 研究 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%A0%94%E7%A9%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fast.ai</title>
+      <link>https://aihub.bitmagic.space/post/fast-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fast-ai/</guid>
+      <description>fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。</description>
+    </item>
+    
+    <item>
+      <title>Scholarcy</title>
+      <link>https://aihub.bitmagic.space/post/scholarcy/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/scholarcy/</guid>
+      <description>通过阅读由 AI 提供支持的大型文章摘要来节省数百小时。在几秒钟内提取关键事实、数字和参考资料。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ps on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/ps/</link>
+    <description>Recent content in ps on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/ps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flying Dog</title>
+      <link>https://aihub.bitmagic.space/post/flying-dog/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/flying-dog/</guid>
+      <description>将 DALLE 2 和 Stable Diffusion 添加到 Adobe Photoshop。具有多种功能，例如文本到图像，图像到图像，修复和用于外画的新服务器。 您还可以获得经过验证的工作流程来预览和调整图像</description>
+    </item>
+    
+    <item>
+      <title>Getalpaca</title>
+      <link>https://aihub.bitmagic.space/post/getalpaca/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/getalpaca/</guid>
+      <description>alpaca 是一个 Photoshop 插件，用于将 AI 图像生成能力与人类技能相结合。</description>
+    </item>
+    
+  </channel>
+</rss>

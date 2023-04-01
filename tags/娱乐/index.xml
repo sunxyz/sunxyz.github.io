@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>娱乐 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%A8%B1%E4%B9%90/</link>
+    <description>Recent content in 娱乐 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%A8%B1%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WatchNow</title>
+      <link>https://aihub.bitmagic.space/post/watchnow/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/watchnow/</guid>
+      <description>获取个性化的电影和节目推荐。输入您观看和喜欢的电影或节目的标题，以获得更好的推荐</description>
+    </item>
+    
+  </channel>
+</rss>

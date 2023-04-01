@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>语法 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%AF%AD%E6%B3%95/</link>
+    <description>Recent content in 语法 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%AF%AD%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AskCodi</title>
+      <link>https://aihub.bitmagic.space/post/askcodi/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/askcodi/</guid>
+      <description>编写语法、注释和测试。更快。容易。更好。AskCodi牢记开发人员的需求，以避免冗余任务，从而减少开发时间，增加执行时间</description>
+    </item>
+    
+    <item>
+      <title>Linguix</title>
+      <link>https://aihub.bitmagic.space/post/linguix/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/linguix/</guid>
+      <description>Linguix 是面向内容创作者和商业专业人士的 AI 写作助手和语法检查器。他们的 Chrome 扩展程序为您提供句子改写，并在营销人员、销售人员、客户支持代表和人力资源专业人员使用的数百万个网站上实时在线检查语法。写作助手与体式、谷歌云端硬盘、Gmail、HubSpot 和其他商业平台无缝集成，以毫无压力地改善您的写作风格</description>
+    </item>
+    
+  </channel>
+</rss>

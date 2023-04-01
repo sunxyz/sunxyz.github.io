@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magic Form</title>
+      <link>https://aihub.bitmagic.space/post/magic-form/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/magic-form/</guid>
+      <description>使用魔术表单，您只需要提供文本，我们将在 Google 表单中自动为您创建测验。</description>
+    </item>
+    
+    <item>
+      <title>Quizgecko</title>
+      <link>https://aihub.bitmagic.space/post/quizgecko/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/quizgecko/</guid>
+      <description>人工智能驱动的测验问题生成器。使用人工智能制作自己的测验。非常适合教师、电子学习和人力资源专业人士。或者只是生成独特的琐事问题和答案以获得乐趣！ 只需粘贴文本，输入URL，或上传文件并点击生成。从多项选择题、简答题或对/假问题中进行选择。</description>
+    </item>
+    
+  </channel>
+</rss>

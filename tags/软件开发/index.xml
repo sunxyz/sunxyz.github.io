@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件开发 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/</link>
+    <description>Recent content in 软件开发 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OLAMI</title>
+      <link>https://aihub.bitmagic.space/post/olami/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/olami/</guid>
+      <description>OLAMI 是一个提供各项云端 API、管理界面、以及多元机器感知解决方案的人工智能软件开发平台，提供包含自然语言交互技术在内的全方位人机交互解决方案，让开发者或企业能轻松的将人工智能加入至他们的产品中，使其客户享有更完美的用户体验。</description>
+    </item>
+    
+  </channel>
+</rss>

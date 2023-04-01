@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>起名字 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%B5%B7%E5%90%8D%E5%AD%97/</link>
+    <description>Recent content in 起名字 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%B5%B7%E5%90%8D%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Namelix</title>
+      <link>https://aihub.bitmagic.space/post/namelix/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/namelix/</guid>
+      <description>Namelix将使用人工智能生成一个简短的品牌企业名称。也非常适合发现新域名:)</description>
+    </item>
+    
+    <item>
+      <title>Namewizard.ai</title>
+      <link>https://aihub.bitmagic.space/post/namewizard-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/namewizard-ai/</guid>
+      <description>名称向导允许您为您的想法/项目/启动想出一个 AI 生成的名称。 您还可以根据生成的名称浏览可用域。</description>
+    </item>
+    
+    <item>
+      <title>Naming Magic</title>
+      <link>https://aihub.bitmagic.space/post/naming-magic/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/naming-magic/</guid>
+      <description>让 GPT-3 为您的公司或产品集思广益，并找到可用的域名。</description>
+    </item>
+    
+    <item>
+      <title>Namy ai</title>
+      <link>https://aihub.bitmagic.space/post/namy-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/namy-ai/</guid>
+      <description>Namy 是一个简单的工具，可以为您的业务或品牌生成一些域名创意。只需输入有关您的产品或品牌的一些详细信息，然后点击“生成！该工具将为您提供合适的域名列表，并告诉您它们是否已注册。Namy 使用 Namecheap API 来检查哪些域名已经注册</description>
+    </item>
+    
+  </channel>
+</rss>

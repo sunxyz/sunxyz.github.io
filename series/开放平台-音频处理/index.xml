@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>开放平台 音频处理 on Aihub</title>
+    <link>https://aihub.bitmagic.space/series/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</link>
+    <description>Recent content in 开放平台 音频处理 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/series/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>依图语音</title>
+      <link>https://aihub.bitmagic.space/post/%E4%BE%9D%E5%9B%BE%E8%AF%AD%E9%9F%B3/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E4%BE%9D%E5%9B%BE%E8%AF%AD%E9%9F%B3/</guid>
+      <description>供短语音听写、长语音转写、实时语音转写等功能。</description>
+    </item>
+    
+  </channel>
+</rss>

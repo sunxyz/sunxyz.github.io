@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>课程 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%AF%BE%E7%A8%8B/</link>
+    <description>Recent content in 课程 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%AF%BE%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fast.ai</title>
+      <link>https://aihub.bitmagic.space/post/fast-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fast-ai/</guid>
+      <description>fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。</description>
+    </item>
+    
+    <item>
+      <title>LessonPlans.ai</title>
+      <link>https://aihub.bitmagic.space/post/lessonplans-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lessonplans-ai/</guid>
+      <description>LessonPlans 是由教师开发的人工智能课程计划生成器，旨在帮助教师在很短的时间内创建高质量的课程计划。 人工智能生成的课程计划包括每节课的分步指南，使教师可以轻松地在课堂上遵循和实施该计划。它还允许教师定制课程计划以适应他们的教学风格和学生的需求。</description>
+    </item>
+    
+    <item>
+      <title>MindSmith</title>
+      <link>https://aihub.bitmagic.space/post/mindsmith/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mindsmith/</guid>
+      <description>Mindsmith是您创建和共享微型课程的实验室。 世界变化太快，无法依赖笨重、过时的设计软件。无论您是培训团队、教学课程，还是只是需要一种清晰的方式来分享您的知识，都可以使用一套 AI 辅助的直观设计工具，让您的学习者在永不停滞的行业和学科中取得成功。</description>
+    </item>
+    
+  </channel>
+</rss>

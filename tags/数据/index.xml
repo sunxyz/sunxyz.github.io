@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%95%B0%E6%8D%AE/</link>
+    <description>Recent content in 数据 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%95%B0%E6%8D%AE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIHelperBot</title>
+      <link>https://aihub.bitmagic.space/post/aihelperbot/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/aihelperbot/</guid>
+      <description>使用 AI 即时构建 SQL 查询。在没有 SQL 知识的情况下构建 SQL 查询。加入 1000 多个其他人的行列，开始提高您的 SQL 熟练度和工作效率。还支持像MongoDB这样的NoSQL数据库。</description>
+    </item>
+    
+    <item>
+      <title>Ask My Book</title>
+      <link>https://aihub.bitmagic.space/post/ask-my-book/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ask-my-book/</guid>
+      <description>Ask My Book是Gumroad创始人Sahil Lavingia的一项人工智能实验，旨在使他的书更容易理解。您可以使用“问我的书”来提问，并从他的声音中获得答案。</description>
+    </item>
+    
+    <item>
+      <title>Papers GPT</title>
+      <link>https://aihub.bitmagic.space/post/papers-gpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/papers-gpt/</guid>
+      <description>使您能够将任何科学论文输入 GPT，以为其提供深入的定制知识。目前是连接任意数据的最终目标的概念验证UX。</description>
+    </item>
+    
+    <item>
+      <title>Talk To Books</title>
+      <link>https://aihub.bitmagic.space/post/talk-to-books/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/talk-to-books/</guid>
+      <description>一种探索想法和发现书籍的新方式。发表声明或提出问题，使用实验性人工智能浏览书籍中的段落。</description>
+    </item>
+    
+  </channel>
+</rss>

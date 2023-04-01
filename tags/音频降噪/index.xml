@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音频降噪 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E9%9F%B3%E9%A2%91%E9%99%8D%E5%99%AA/</link>
+    <description>Recent content in 音频降噪 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E9%9F%B3%E9%A2%91%E9%99%8D%E5%99%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Podcast</title>
+      <link>https://aihub.bitmagic.space/post/adobe-podcast/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/adobe-podcast/</guid>
+      <description>提供 2 个免费的快速工具来增强内容的音频。增强语音 – 通过消除所有背景噪音和回声来增强语音。 麦克风检查 – 从麦克风解锁高质量的声音。 主要产品承诺提供人工智能驱动的录音和编辑，所有这些都在网络上，并在候补名单上</description>
+    </item>
+    
+    <item>
+      <title>Krisp</title>
+      <link>https://aihub.bitmagic.space/post/krisp/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/krisp/</guid>
+      <description>Krisp 的人工智能解决方案消除了会议的背景噪音和回声，只留下人声。具有噪音和回声消除，小部件，见解和呼叫摘要等功</description>
+    </item>
+    
+  </channel>
+</rss>

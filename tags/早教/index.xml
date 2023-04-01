@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>早教 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%97%A9%E6%95%99/</link>
+    <description>Recent content in 早教 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%97%A9%E6%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ELI5</title>
+      <link>https://aihub.bitmagic.space/post/eli5/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/eli5/</guid>
+      <description>像我五岁一样解释 （ELI5） 是一个使用人工智能简化复杂主题的网站，即使是孩子也能理解它们。用户可以选择一个特定的主题，并选择他们想要的解释有多愚蠢，从“真的很愚蠢”到“真的很聪明”。一些例子是 – “计算机如何工作？”和“生命的意义是什么？”</description>
+    </item>
+    
+  </channel>
+</rss>

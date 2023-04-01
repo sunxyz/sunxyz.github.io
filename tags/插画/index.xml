@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>插画 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%8F%92%E7%94%BB/</link>
+    <description>Recent content in 插画 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%8F%92%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fabled</title>
+      <link>https://aihub.bitmagic.space/post/fabled/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fabled/</guid>
+      <description>终极 AI 故事生成器。 由您创建的故事，由 AI 提供支持。 用一句话 fabled.ai 制作个人插图故事，并丰富了令人惊叹的图像。 免费试用！</description>
+    </item>
+    
+    <item>
+      <title>IllostrationAI</title>
+      <link>https://aihub.bitmagic.space/post/illostrationai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/illostrationai/</guid>
+      <description>创建 AI 生成的插图。以秒为单位的独特性。 我们目前处于公测阶段。注册以获得抢先体验。</description>
+    </item>
+    
+    <item>
+      <title>Illustroke</title>
+      <link>https://aihub.bitmagic.space/post/illustroke/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/illustroke/</guid>
+      <description>来自文本提示的令人惊叹的 SVG 插图 使用我们的文本到 SVG AI 工具创建一些独特的东西。</description>
+    </item>
+    
+    <item>
+      <title>InstaNovel AI</title>
+      <link>https://aihub.bitmagic.space/post/instanovel-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/instanovel-ai/</guid>
+      <description>InstaNovel.ai 使用 GPT-3 和 Dall-E 2 来生成本书的内容。您需要做的就是输入提示并选择视觉样式，将为您生成完整的迷你小说。它是免费使用的，每人限购 1 本书。目前，它仅提供英语版本，但是，将来将添加更多语言。</description>
+    </item>
+    
+    <item>
+      <title>Neural Canvas</title>
+      <link>https://aihub.bitmagic.space/post/neural-canvas/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/neural-canvas/</guid>
+      <description>神经画布是一种数字插图生成器服务，能够为您的漫画、博客文章、电子书、故事、收藏等生成独特的插图。使用它创建自己的 AI 生成的漫画。</description>
+    </item>
+    
+    <item>
+      <title>StoriesForKids</title>
+      <link>https://aihub.bitmagic.space/post/storiesforkids/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/storiesforkids/</guid>
+      <description>一起阅读和创作。 在手机上的几秒钟内将现实生活中的情况变成有趣的故事和插图。</description>
+    </item>
+    
+  </channel>
+</rss>

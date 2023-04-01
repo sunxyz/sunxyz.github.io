@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新闻 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%96%B0%E9%97%BB/</link>
+    <description>Recent content in 新闻 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%96%B0%E9%97%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artifact News</title>
+      <link>https://aihub.bitmagic.space/post/artifact-news/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/artifact-news/</guid>
+      <description>由人工智能驱动的个性化新闻提要。目前处于私人测试阶段，要求用户输入其电话号码才能接收文本邀请链接。</description>
+    </item>
+    
+    <item>
+      <title>Welma</title>
+      <link>https://aihub.bitmagic.space/post/welma/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/welma/</guid>
+      <description>Welma使用AI来简化复杂的句子和段落，使它们易于理解。无论您是在阅读学术论文、新闻文章，还是小说，Welma 都将帮助您理解文本并保留信息。</description>
+    </item>
+    
+  </channel>
+</rss>

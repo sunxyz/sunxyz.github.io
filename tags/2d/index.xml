@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/2d/</link>
+    <description>Recent content in 2D on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaedim</title>
+      <link>https://aihub.bitmagic.space/post/kaedim/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/kaedim/</guid>
+      <description>2D 图像到 3D 模型。使用 AI 在线自动将 2D 转换为 3D</description>
+    </item>
+    
+  </channel>
+</rss>

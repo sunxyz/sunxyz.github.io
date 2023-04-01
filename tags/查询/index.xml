@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>查询 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%9F%A5%E8%AF%A2/</link>
+    <description>Recent content in 查询 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%9F%A5%E8%AF%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phind</title>
+      <link>https://aihub.bitmagic.space/post/phind/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/phind/</guid>
+      <description>使用自然语言搜索任何与开发相关的查询并获得相关结果。您可以根据时间自定义搜索，并可以切换显示链接。</description>
+    </item>
+    
+  </channel>
+</rss>

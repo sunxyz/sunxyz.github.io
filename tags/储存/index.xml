@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>储存 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%82%A8%E5%AD%98/</link>
+    <description>Recent content in 储存 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%82%A8%E5%AD%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contenda</title>
+      <link>https://aihub.bitmagic.space/post/contenda/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/contenda/</guid>
+      <description>一个统一的内容存储库，比代理机构更好、更快地重新调整技术内容的用途</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DALL·E on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/dalle/</link>
+    <description>Recent content in DALL·E on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/dalle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InstaNovel AI</title>
+      <link>https://aihub.bitmagic.space/post/instanovel-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/instanovel-ai/</guid>
+      <description>InstaNovel.ai 使用 GPT-3 和 Dall-E 2 来生成本书的内容。您需要做的就是输入提示并选择视觉样式，将为您生成完整的迷你小说。它是免费使用的，每人限购 1 本书。目前，它仅提供英语版本，但是，将来将添加更多语言。</description>
+    </item>
+    
+    <item>
+      <title>PromptBase</title>
+      <link>https://aihub.bitmagic.space/post/promptbase/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/promptbase/</guid>
+      <description>常用的AI模型中，DALL·E, GPT-3, Midjourney, Stable Diffusion，我们常常需要一些关键词去基于AI提示才能创作，这个工具可以为我们提供智能化的AI工具描述词，以便于我们创作更神器的作品</description>
+    </item>
+    
+  </channel>
+</rss>

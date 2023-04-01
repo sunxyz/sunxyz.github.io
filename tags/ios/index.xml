@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ios on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/ios/</link>
+    <description>Recent content in ios on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Pencil</title>
+      <link>https://aihub.bitmagic.space/post/ai-pencil/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-pencil/</guid>
+      <description>基于人工智能的软件Sketch AI允许用户在强大的工具的帮助下创建令人惊叹的艺术品，导入和导出他们最喜欢的图纸，并将他们的艺术转换为任何媒介或风格。</description>
+    </item>
+    
+    <item>
+      <title>Speechify</title>
+      <link>https://aihub.bitmagic.space/post/speechify/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/speechify/</guid>
+      <description>让格温妮丝·帕特洛（Gwyneth Paltrow）和史努比·狗狗（Snoop Dogg）等名人说出您的文字。 适用于 Chrome、iOS、Android 和 Mac 的文本转语音转换。</description>
+    </item>
+    
+    <item>
+      <title>Vieutopia</title>
+      <link>https://aihub.bitmagic.space/post/vieutopia/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/vieutopia/</guid>
+      <description>经过数千种不同图像和文本组合的测试，这个应用程序允许您将最疯狂的想法转化为创意艺术作品，而无需订阅费用或使用限制</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教育 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%95%99%E8%82%B2/</link>
+    <description>Recent content in 教育 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%95%99%E8%82%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fast.ai</title>
+      <link>https://aihub.bitmagic.space/post/fast-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fast-ai/</guid>
+      <description>fast.ai 是一个专注于深度学习和人工智能的非营利性研究小组。他们的网站上有几个有用的课程。</description>
+    </item>
+    
+    <item>
+      <title>To Teach AI</title>
+      <link>https://aihub.bitmagic.space/post/to-teach-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/to-teach-ai/</guid>
+      <description>在人工智能的帮助下，在几秒钟内为您和您的班级创造个性化的学习体验。</description>
+    </item>
+    
+  </channel>
+</rss>

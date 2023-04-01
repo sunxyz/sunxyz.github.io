@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>代码生成 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90/</link>
+    <description>Recent content in 代码生成 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BlackBox AI</title>
+      <link>https://aihub.bitmagic.space/post/blackbox-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/blackbox-ai/</guid>
+      <description>BlackBox AI 是一个由 AI 驱动的编码助手，因此您的编码速度提高了 10 倍。它使您能够将任何问题转换为代码和功能，例如从任何视频中提取代码和代码自动完成</description>
+    </item>
+    
+    <item>
+      <title>Clippy AI</title>
+      <link>https://aihub.bitmagic.space/post/clippy-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/clippy-ai/</guid>
+      <description>注意：目前失效无法访问 Clippy AI（VS Code Extension）是OpenAI Codex的简单包装器。它允许您向 Codex 发送您当前的文件以及纯文本英语的一些说明。然后，它会在编辑器中打开差异视图，以便您可以轻松查看建议的更改并接受或拒绝它们</description>
+    </item>
+    
+    <item>
+      <title>CodeAssist</title>
+      <link>https://aihub.bitmagic.space/post/codeassist/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codeassist/</guid>
+      <description>CodeAssist（用于Intellij）是一个用于编程的AI助手/聊天机器人/副驾驶。它生成或更改代码，给定要进行的更改的说明。 安装后，您可以通过单击左下角的“CodeAssist”选项卡来打开它。 CodeAssist适用于所有流行的编程语言</description>
+    </item>
+    
+    <item>
+      <title>CodeGeeX</title>
+      <link>https://aihub.bitmagic.space/post/codegeex/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codegeex/</guid>
+      <description>CodeGeeX 是一个具有 13 亿个参数的大规模多语言代码生成模型，在 20 多种语言的大型代码语料库上进行了预训练。CodeGeeX 支持 15+ 种编程语言进行代码生成和翻译</description>
+    </item>
+    
+    <item>
+      <title>Duino Code Generator</title>
+      <link>https://aihub.bitmagic.space/post/duino-code-generator/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/duino-code-generator/</guid>
+      <description>只需单击一下即可为任何 Arduino 兼容板自动生成代码。让 AI 完成艰苦的工作，这样您就可以花更多时间修补</description>
+    </item>
+    
+    <item>
+      <title>Hey, GitHub!</title>
+      <link>https://aihub.bitmagic.space/post/hey-github/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/hey-github/</guid>
+      <description>此工具可让您在不触摸键盘的情况下编写代码。它使用您的语音进行编码，而无需通过与 GitHub 副驾驶交谈来键入</description>
+    </item>
+    
+    <item>
+      <title>Mutable</title>
+      <link>https://aihub.bitmagic.space/post/mutable/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mutable/</guid>
+      <description>使用 AI 快速构建具有生产质量的产品</description>
+    </item>
+    
+    <item>
+      <title>Programminghelper</title>
+      <link>https://aihub.bitmagic.space/post/programminghelper/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/programminghelper/</guid>
+      <description>在 AI 的帮助下更快地编码。 只需键入文本说明即可生成代码。AI 将为您创建代码。立即测试</description>
+    </item>
+    
+    <item>
+      <title>Sketch</title>
+      <link>https://aihub.bitmagic.space/post/sketch/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/sketch/</guid>
+      <description>Sketch 是熊猫用户的 AI 代码编写助手，可以理解数据的上下文，大大提高建议的相关性。Sketch 可在几秒钟内使用，不需要向 IDE 添加插件</description>
+    </item>
+    
+    <item>
+      <title>Spellbox</title>
+      <link>https://aihub.bitmagic.space/post/spellbox/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/spellbox/</guid>
+      <description>适合忙碌程序员的 AI 编码助手。在几秒钟内解决任何 AI 编程或工程问题</description>
+    </item>
+    
+  </channel>
+</rss>

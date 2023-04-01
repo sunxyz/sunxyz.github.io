@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gist on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/gist/</link>
+    <description>Recent content in gist on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/gist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>theGist</title>
+      <link>https://aihub.bitmagic.space/post/thegist/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/thegist/</guid>
+      <description>一键汇总任何 Slack 频道或线程。 Gist 算法会遍历对话，并立即为您创建一个简短的摘要。</description>
+    </item>
+    
+  </channel>
+</rss>

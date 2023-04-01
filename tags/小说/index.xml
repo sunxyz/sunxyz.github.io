@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小说 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%B0%8F%E8%AF%B4/</link>
+    <description>Recent content in 小说 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%B0%8F%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Books</title>
+      <link>https://aihub.bitmagic.space/post/apple-books/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/apple-books/</guid>
+      <description>由文本转语音AI讲述的有声读物现在可以通过Apple的Books获得。 最初仅适用于浪漫和小说书籍，其中列出了两种可用的数字声音：麦迪逊和杰克逊。</description>
+    </item>
+    
+    <item>
+      <title>EndlessVN</title>
+      <link>https://aihub.bitmagic.space/post/endlessvn/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/endlessvn/</guid>
+      <description>所有的故事都结束了。除了这个。 无尽的视觉小说是一款人工智能叙事游戏，所有资产——图形、音乐、故事和角色——都是在你玩的时候由人工智能生成的。 没有两次通关是相同的。</description>
+    </item>
+    
+  </channel>
+</rss>

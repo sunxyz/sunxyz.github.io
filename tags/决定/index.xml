@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>决定 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%86%B3%E5%AE%9A/</link>
+    <description>Recent content in 决定 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%86%B3%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rationale</title>
+      <link>https://aihub.bitmagic.space/post/rationale/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/rationale/</guid>
+      <description>Rationale是一款帮助企业家和经理做出艰难决定的应用程序。只需输入您的待决决定，他们的 AI 驱动的应用程序就会列出利弊或生成 SWOT 分析来帮助您权衡您的选择</description>
+    </item>
+    
+  </channel>
+</rss>

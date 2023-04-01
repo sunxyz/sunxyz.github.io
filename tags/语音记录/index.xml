@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>语音记录 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%AF%AD%E9%9F%B3%E8%AE%B0%E5%BD%95/</link>
+    <description>Recent content in 语音记录 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%AF%AD%E9%9F%B3%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fireflies.ai</title>
+      <link>https://aihub.bitmagic.space/post/fireflies-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fireflies-ai/</guid>
+      <description>用于会议的 AI 助手 记录、转录和搜索语音对话。</description>
+    </item>
+    
+  </channel>
+</rss>

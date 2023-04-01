@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adobe on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/adobe/</link>
+    <description>Recent content in Adobe on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/adobe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Firefly-创意文本转图像</title>
+      <link>https://aihub.bitmagic.space/post/adobe-firefly-%E5%88%9B%E6%84%8F%E6%96%87%E6%9C%AC%E8%BD%AC%E5%9B%BE%E5%83%8F/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/adobe-firefly-%E5%88%9B%E6%84%8F%E6%96%87%E6%9C%AC%E8%BD%AC%E5%9B%BE%E5%83%8F/</guid>
+      <description>3月21日 Adobe 发布Firefly；Adobe Firefly 能够根据文本提示词创建图像，并提供数百种风格可以对结果进行调整，帮助创意专业人士和艺术家、设计师提供更多的创作灵感。 Adobe Firefly 将提供新的创作方式，能够显著改善创意工作流程。Firefly 是 Adobe 过去 40 年来图像生产技术的自然延伸，旨在让人们能够按照他们的想象精确地将自己的想法变为现实。 Firefly 可以在 Web 上访问，并支持电脑上的 Chrome、Safari 和 Edge 浏览器，但是目前还不支持平板电脑或移动设备。而且，现在 Firefly 仅支持英文提示，将来会支持更多语言提示词。 申请内测资格：https://firefly.adobe.com/</description>
+    </item>
+    
+  </channel>
+</rss>

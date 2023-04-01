@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>语音克隆 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/</link>
+    <description>Recent content in 语音克隆 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FakeYou</title>
+      <link>https://aihub.bitmagic.space/post/fakeyou/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fakeyou/</guid>
+      <description>使用FakeYou将文本转换为语音，并与您喜欢的角色一起说东西。还可以获得您自己的语音克隆，以用于音乐，视频，抽搐奖励以及您想要的任何内容。</description>
+    </item>
+    
+    <item>
+      <title>Resemble</title>
+      <link>https://aihub.bitmagic.space/post/resemble/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/resemble/</guid>
+      <description>具有语音克隆功能的AI语音生成器，用于文本到语音转换。</description>
+    </item>
+    
+    <item>
+      <title>Uberduck</title>
+      <link>https://aihub.bitmagic.space/post/uberduck/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/uberduck/</guid>
+      <description>它为用户提供了创建具有 5，000 多种富有表现力的声音的画外音以及自定义语音克隆的工具。它还具有用于构建音频应用程序和 AI 生成的说唱的 API。有一个案例研究来演示如何使用它来创建个性化媒体，以及加入即将推出的 Uberbots 平台的候补名单。</description>
+    </item>
+    
+  </channel>
+</rss>

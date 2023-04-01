@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDE on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/ide/</link>
+    <description>Recent content in IDE on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fig AI</title>
+      <link>https://aihub.bitmagic.space/post/fig-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/fig-ai/</guid>
+      <description>Fig是您现有终端的无缝附加组件，与最流行的终端，shell和IDE集成</description>
+    </item>
+    
+    <item>
+      <title>Tabbine</title>
+      <link>https://aihub.bitmagic.space/post/tabbine/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/tabbine/</guid>
+      <description>无论您是团队的一员，还是独自工作的开发人员，Tabnine 都将帮助您更快地编写代码 – 所有这些都在您最喜欢的 IDE 中完成</description>
+    </item>
+    
+  </channel>
+</rss>

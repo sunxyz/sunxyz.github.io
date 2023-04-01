@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TikTok on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/tiktok/</link>
+    <description>Recent content in TikTok on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/tiktok/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audiolabs</title>
+      <link>https://aihub.bitmagic.space/post/audiolabs/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/audiolabs/</guid>
+      <description>将您的播客变成适合 TikTok、YouTube 短视频和卷轴的短视频的平台。吸引新的播客听众并推动业务成果 ?️在短视频平台上发布视频剪辑可以作为听众发现您的库存并收看整集或其他营销目标的“钩子”</description>
+    </item>
+    
+    <item>
+      <title>Clippah</title>
+      <link>https://aihub.bitmagic.space/post/clippah/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/clippah/</guid>
+      <description>使用 Clippah，您可以： •轻松将YouTube视频转换为垂直TikTok •一键将长视频转换为短视频候选人 • 自动为您的 YouTube 视频添加时间戳 • 更多功能即将推出</description>
+    </item>
+    
+    <item>
+      <title>Munch</title>
+      <link>https://aihub.bitmagic.space/post/munch/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/munch/</guid>
+      <description>自动将长视频转换为社交媒体的数据驱动短片。蒙克通过收集 TikTok、IG、YT 和 FB 用户的最大兴趣并将其应用于您的 AI 生成的剪辑来产生曝光和参与度。</description>
+    </item>
+    
+  </channel>
+</rss>

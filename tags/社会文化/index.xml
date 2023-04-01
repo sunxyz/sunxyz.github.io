@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社会文化 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96/</link>
+    <description>Recent content in 社会文化 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WolframAlpha</title>
+      <link>https://aihub.bitmagic.space/post/wolframalpha/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/wolframalpha/</guid>
+      <description>使用 Wolfram 的突破性算法、知识库和 AI 技术计算专家级答案。面向数学，科学和技术，社会与文化和日常生活等科目。</description>
+    </item>
+    
+  </channel>
+</rss>

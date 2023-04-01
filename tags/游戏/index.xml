@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>游戏 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%B8%B8%E6%88%8F/</link>
+    <description>Recent content in 游戏 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%B8%B8%E6%88%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Roguelite</title>
+      <link>https://aihub.bitmagic.space/post/ai-roguelite/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-roguelite/</guid>
+      <description>世界上第一个所有实体都是 AI 生成的，所有游戏机制都是 AI 检测的 RPG。它有人工智能生成的实体，制作食谱，战斗和插图</description>
+    </item>
+    
+    <item>
+      <title>Booom.ai</title>
+      <link>https://aihub.bitmagic.space/post/booom-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/booom-ai/</guid>
+      <description>生成一个有趣的琐事游戏，您可以围绕输入的主题进行游戏。您可以自己玩，也可以和朋友一起玩。</description>
+    </item>
+    
+    <item>
+      <title>DeepMotion</title>
+      <link>https://aihub.bitmagic.space/post/deepmotion/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/deepmotion/</guid>
+      <description>Animate 3D 允许您使用实时身体跟踪将视频转换为 3D 动画，以用于游戏、增强/虚拟现实和其他应用程序</description>
+    </item>
+    
+    <item>
+      <title>EndlessVN</title>
+      <link>https://aihub.bitmagic.space/post/endlessvn/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/endlessvn/</guid>
+      <description>所有的故事都结束了。除了这个。 无尽的视觉小说是一款人工智能叙事游戏，所有资产——图形、音乐、故事和角色——都是在你玩的时候由人工智能生成的。 没有两次通关是相同的。</description>
+    </item>
+    
+    <item>
+      <title>Scenario</title>
+      <link>https://aihub.bitmagic.space/post/scenario/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/scenario/</guid>
+      <description>AI 生成的游戏资产。为您的游戏创建高质量、风格一致的专有资产</description>
+    </item>
+    
+  </channel>
+</rss>

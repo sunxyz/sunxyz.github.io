@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>代码 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81/</link>
+    <description>Recent content in 代码 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI CLI</title>
+      <link>https://aihub.bitmagic.space/post/ai-cli/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-cli/</guid>
+      <description>开源 GPT -3 驱动的 CLI 当前的提示长度为 ~840 个代币，text-davinci-002 的定价为 0.02 美元（1K 代币），即 ~0.017 美元/命令。我们将看看我们是否可以通过微调来改善响应并降低每个命令的成本。</description>
+    </item>
+    
+    <item>
+      <title>AI Reality</title>
+      <link>https://aihub.bitmagic.space/post/ai-reality/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-reality/</guid>
+      <description>AI Reality 是一个平台，使您能够使用 AI 中的文本生成简单的增强现实原型。我们利用稳定扩散和开放AI的力量，在几秒钟内生成AR体验。他们的使命是通过人工智能的友好过程来大规模使用和学习增强现实。</description>
+    </item>
+    
+    <item>
+      <title>Airtest</title>
+      <link>https://aihub.bitmagic.space/post/airtest/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/airtest/</guid>
+      <description>使用 AI 生成单元测试。支持多种语言，包括Typescript和Python。还支持各种测试框架，如摩卡和Jest。</description>
+    </item>
+    
+    <item>
+      <title>Amazon CodeWhisperer</title>
+      <link>https://aihub.bitmagic.space/post/amazon-codewhisperer/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/amazon-codewhisperer/</guid>
+      <description>Amazon CodeWhisperer 是一项由机器学习 （ML） 提供支持的服务，它通过根据开发人员在集成开发环境 （IDE） 中的自然语言和代码中的注释生成代码建议，帮助提高开发人员的工作效率。</description>
+    </item>
+    
+    <item>
+      <title>Amper</title>
+      <link>https://aihub.bitmagic.space/post/amper/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/amper/</guid>
+      <description>Amper 的使命是让任何人能够通过音乐创造性地表达自己，无论他们的背景、专业知识或资源获取情况如何。Amper 构建了由我们的创意 AI 提供支持的工具，以帮助人们创建和定制原创音乐。它们还提供可用于创建自己的产品的 API。</description>
+    </item>
+    
+    <item>
+      <title>AppIcons AI</title>
+      <link>https://aihub.bitmagic.space/post/appicons-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/appicons-ai/</guid>
+      <description>适用于安卓和iOS平台的AI生成的移动应用图标。不需要图像编辑软件或技术技能。可以生成6种不同的设计，并可以选择一种进行裁剪和预览。然后，您可以升级并下载它。</description>
+    </item>
+    
+    <item>
+      <title>AssemblyAI</title>
+      <link>https://aihub.bitmagic.space/post/assemblyai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/assemblyai/</guid>
+      <description>使用最先进的 AI 模型转录和理解音频。自动语音识别 （ASR）、自然语言处理 （NLP） 和 AI 语音转文本。</description>
+    </item>
+    
+    <item>
+      <title>AuthorAI</title>
+      <link>https://aihub.bitmagic.space/post/authorai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/authorai/</guid>
+      <description>在 AuthorAI，我们正在重新构想由 AI 提供支持的创作体验。我们正在探索人工智能技术如何增强创意创作流程，因为它适用于创建应用程序、书籍、博客、网站、数据、设计、报告等。</description>
+    </item>
+    
+    <item>
+      <title>Auto Backend</title>
+      <link>https://aihub.bitmagic.space/post/auto-backend/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/auto-backend/</guid>
+      <description>用一两句话描述您希望后端做什么。您还可以在网站的图库部分浏览其他人创建的应用程序。</description>
+    </item>
+    
+    <item>
+      <title>AutoRegex</title>
+      <link>https://aihub.bitmagic.space/post/autoregex/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/autoregex/</guid>
+      <description>该网站使用 AI 自动生成正则表达式。它还可以将给定的正则表达式翻译成英语。</description>
+    </item>
+    
+    <item>
+      <title>Berri AI</title>
+      <link>https://aihub.bitmagic.space/post/berri-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/berri-ai/</guid>
+      <description>Berri 让您引入数据并在几分钟内启动应用程序（您可以获得用于查询的 API 端点和可共享的 Web 应用程序）以及快速原型（我们提供模板并提供一键式部署以测试此速度非常快）。 我们提供简单的低代码/无代码界面+一流的客户支持（&amp;lt;1小时响应时间）。</description>
+    </item>
+    
+    <item>
+      <title>Buildt</title>
+      <link>https://aihub.bitmagic.space/post/buildt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/buildt/</guid>
+      <description>AI 驱动的搜索，通过搜索代码的功能来查找代码，而不仅仅是它是什么。 一旦你找到了代码库的一部分，他们的人工智能允许你通过描述你想要的东西来进行更改。</description>
+    </item>
+    
+    <item>
+      <title>Censius</title>
+      <link>https://aihub.bitmagic.space/post/censius/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/censius/</guid>
+      <description>Censius 是一个 AI 可观测性平台，可帮助各种规模的组织自信地使其机器学习模型在生产中发挥作用。该公司推出了旗舰AI可观察性平台，有助于为数据科学项目带来问责制和可解释性。全面的 ML 监控解决方案有助于主动监控整个 ML 管道，以检测和修复 ML 问题，例如偏移、偏斜、数据完整性和数据质量问题。</description>
+    </item>
+    
+    <item>
+      <title>Chatbotkit</title>
+      <link>https://aihub.bitmagic.space/post/chatbotkit/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/chatbotkit/</guid>
+      <description>构建高级 AI 聊天机器人的最简单方法。 我们的平台使开发人员和非开发人员都可以轻松构建可以用自然语言与用户交流的聊天机器人。</description>
+    </item>
+    
+    <item>
+      <title>Code Snippets AI</title>
+      <link>https://aihub.bitmagic.space/post/code-snippets-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/code-snippets-ai/</guid>
+      <description>利用 AI 的强大功能构建代码段库。利用 GPT3 的强大功能，与您的团队协作并构建您的安全代码片段库。</description>
+    </item>
+    
+    <item>
+      <title>CodeSquire</title>
+      <link>https://aihub.bitmagic.space/post/codesquire/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codesquire/</guid>
+      <description>面向数据科学家、工程师和分析师的 AI 代码编写助手。 在键入时获取代码完成和建议。</description>
+    </item>
+    
+    <item>
+      <title>CodiumAI</title>
+      <link>https://aihub.bitmagic.space/post/codiumai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codiumai/</guid>
+      <description>在CodiumAI，我们正在重新定义和自动化代码完整性，最初是通过构建一个开发工具，使忙碌的开发人员能够在他们的IDE中以交互方式生成有意义的测试套件。 CodiumAI目前支持Python，JS和TS支持即将推出</description>
+    </item>
+    
+    <item>
+      <title>Convai</title>
+      <link>https://aihub.bitmagic.space/post/convai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/convai/</guid>
+      <description>易于使用的对话式 AI API，用于语音识别、语言理解和生成以及文本到语音转换。设计支持语音的游戏和应用程序。设计基于对话的角色和语音游戏。</description>
+    </item>
+    
+    <item>
+      <title>Cron AI</title>
+      <link>https://aihub.bitmagic.space/post/cron-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/cron-ai/</guid>
+      <description>通过描述您希望它们运行的频率来生成 cron 作业。</description>
+    </item>
+    
+    <item>
+      <title>CSM</title>
+      <link>https://aihub.bitmagic.space/post/csm/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/csm/</guid>
+      <description>Common Sense Machines提供API、接口和开源软件，将多模式输入和体验转换为数字模拟器，用于AI培训和内容创建。我们相信，学习生成世界模型是实现AGI的系统途径，类似于孩子从经验中了解其世界的方式。</description>
+    </item>
+    
+    <item>
+      <title>Dust</title>
+      <link>https://aihub.bitmagic.space/post/dust/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/dust/</guid>
+      <description>设计和部署大型语言模型应用。 快速工程设计，重新构想? 基于多年使用大型语言模型的经验。 只有一个目标，帮助加速他们的部署。</description>
+    </item>
+    
+    <item>
+      <title>Dystr</title>
+      <link>https://aihub.bitmagic.space/post/dystr/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/dystr/</guid>
+      <description>Dystr 帮助机械和电气工程师在没有软件经验的情况下在云中无缝编写和运行代码。该产品允许用户在云就绪环境中编写和运行代码，几乎消除了对Python知识的任何了解，甚至不需要如何配置Google Cloud，Microsoft Azure或Amazon的AWS等云环境。 它包括使用生成式 AI 的自然语言代码操作、触发器和计划任务，以及根据需要预配的远程云环境。这使专注于技术、硬件和制造的工程师能够更快、更高效地进行分析，并自动执行他们原本无法完成的任务。</description>
+    </item>
+    
+    <item>
+      <title>Enzyme</title>
+      <link>https://aihub.bitmagic.space/post/enzyme/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/enzyme/</guid>
+      <description>Enzyme 使大众能够通过一体化平台在 web3 中启动，以发现、部署和管理智能合约，而无需技术知识。在平台上，您可以： 1. 发现： 数百个预先构建且安全审计的智能合约，几乎适用于任何内容，可立即部署。 2. 部署： 链上部署无需区块链经验。目前支持以太坊和多边形。 3. 管理： 轻松管理智能合约的各个方面。即使是进口的。提供公共和私有可共享仪表板。 您还可以将您的合同导入平台并从这里进行管理，为您的数字收藏品构建和运送无代码可定制的销售页面，或者只需在几秒钟内将铸币按钮嵌入您自己的网站。 它是免费开始的 – 部署或导入最多 2 个智能合约。我们提供两个付费计划，以涵盖您的下一个大型 web3 项目，并提供大量附加功能。 如果你们中的任何人最终使用 Enzyme 构建 web3 或者您好奇地查看它 – 请随时加入我们的 discord 或联系我们以获得支持 gm@enzyme.so</description>
+    </item>
+    
+    <item>
+      <title>Gamma.ai</title>
+      <link>https://aihub.bitmagic.space/post/gamma-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gamma-ai/</guid>
+      <description>Gamma.AI 开发了一种人工智能驱动的云DLP，可以一键连接所有云协作应用程序，预打包了开箱即用的ML支持的数据分类配置文件，并提供业界最佳的数据检测</description>
+    </item>
+    
+    <item>
+      <title>GitFluence</title>
+      <link>https://aihub.bitmagic.space/post/gitfluence/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gitfluence/</guid>
+      <description>GitFluence 是一个 AI 驱动的解决方案，可帮助您快速找到正确的命令。立即开始使用 Git 命令生成器并节省时间.</description>
+    </item>
+    
+    <item>
+      <title>Gooey.AI</title>
+      <link>https://aihub.bitmagic.space/post/gooey-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gooey-ai/</guid>
+      <description>用于发现、调整和编写 AI 工作流的低代码平台。提供统一的计费层，使API能够访问最新的生成AI模型（例如OpenAI的GPT3 + DallE，大量稳定扩散图像模型，语音生成器，口型同步，InstructPix2Pix等）以及更多付费API，例如社交资料查找和SEO API。调整工作流，然后立即将其用作您自己的应用程序中的 API。原型 AI 将如何与您自己的网站/应用程序集成。</description>
+    </item>
+    
+    <item>
+      <title>GptDuck</title>
+      <link>https://aihub.bitmagic.space/post/gptduck/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gptduck/</guid>
+      <description>针对任何 Github 存储库的问答。输入一个 Github 存储库，我们会将其下载到服务器并针对代码创建嵌入。存储库必须是公共的、&amp;lt;200 个文件和 &amp;lt;100MB。</description>
+    </item>
+    
+    <item>
+      <title>GPUX.AI</title>
+      <link>https://aihub.bitmagic.space/post/gpux-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gpux-ai/</guid>
+      <description>GPU 一切。运行任何 Docker 化的东西。运行自动缩放推理。 节省成本50-90%。</description>
+    </item>
+    
+    <item>
+      <title>Hacker AI</title>
+      <link>https://aihub.bitmagic.space/post/hacker-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/hacker-ai/</guid>
+      <description>一种 AI，可以入侵您以保护您的应用程序。用于网络安全专业人员和其他编写代码的人。 黑客 AI 检测源代码中的漏洞。免费，免费增值 API 即将发布。由 https://twitter.com/chaignc 制造</description>
+    </item>
+    
+    <item>
+      <title>Helicone</title>
+      <link>https://aihub.bitmagic.space/post/helicone/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/helicone/</guid>
+      <description>只需一行代码即可简化 GPT-3 监控。若要使用，请将基本网址替换为 SDK。将您的 OpenAI 密钥添加到 Valyr 并在仪表板中查看请求。</description>
+    </item>
+    
+    <item>
+      <title>HeyCLI</title>
+      <link>https://aihub.bitmagic.space/post/heycli/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/heycli/</guid>
+      <description>heyCLI 可以通过将自然语言转换为终端命令来帮助您。</description>
+    </item>
+    
+    <item>
+      <title>HTTPie AI</title>
+      <link>https://aihub.bitmagic.space/post/httpie-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/httpie-ai/</guid>
+      <description>使用通俗语言生成 API 请求。HTTPie正在使API变得简单 对于那些构建我们这个时代的工具的人来说是直观的。</description>
+    </item>
+    
+    <item>
+      <title>Juice</title>
+      <link>https://aihub.bitmagic.space/post/juice/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/juice/</guid>
+      <description>果汁允许GPU完全连接到网络。无需设置时间，也无需对底层计算机或堆栈的承诺即可扩展和缩减您的开发 – 只需连接到 GPU，就像它直接插入您的 PCIe 插槽一样。通过标准网络在图形和 ML 任务上的裸机性能！利用 GPU 的自然负载平衡遥测，使 GPU 可在多个客户端和任务之间共享。</description>
+    </item>
+    
+    <item>
+      <title>Kadoa</title>
+      <link>https://aihub.bitmagic.space/post/kadoa/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/kadoa/</guid>
+      <description>Kadoa 是一个由 LLM 驱动的工具，可以理解任何网站的结构并以您想要的格式提取所需的数据。</description>
+    </item>
+    
+    <item>
+      <title>Lablab.ai</title>
+      <link>https://aihub.bitmagic.space/post/lablab-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lablab-ai/</guid>
+      <description>创客社区，使用最先进的现代人工智能进行构建。Lablab.ai 定期举办黑客马拉松，教授如何构建和使用不同的人工智能技术。</description>
+    </item>
+    
+    <item>
+      <title>Laion</title>
+      <link>https://aihub.bitmagic.space/post/laion/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/laion/</guid>
+      <description>LAION作为一个非营利组织，提供数据集、工具和模型来解放机器学习研究。他们鼓励开放的公共教育和通过重用现有的数据集和模型来更环保地使用资源。</description>
+    </item>
+    
+    <item>
+      <title>Lensa</title>
+      <link>https://aihub.bitmagic.space/post/lensa/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lensa/</guid>
+      <description>GitFluence 是一个 AI 驱动的解决方案，可帮助您快速找到正确的命令。立即开始使用 Git 命令生成器并节省时间.</description>
+    </item>
+    
+    <item>
+      <title>Lightning AI</title>
+      <link>https://aihub.bitmagic.space/post/lightning-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lightning-ai/</guid>
+      <description>以闪电般的速度构建模型和全栈 AI 应用。使用 Lightning 应用程序模板构建模型和 AI 驱动的云应用程序，而无需 DIY 基础架构、成本管理、扩展和其他麻烦。</description>
+    </item>
+    
+    <item>
+      <title>Liner.ai</title>
+      <link>https://aihub.bitmagic.space/post/liner-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/liner-ai/</guid>
+      <description>Liner 是一个免费工具，可让您轻松训练 ML 模型。它获取您的训练数据，并为您提供易于集成的 ML 模型。无需编码或机器学习专业知识。</description>
+    </item>
+    
+    <item>
+      <title>MarsAi</title>
+      <link>https://aihub.bitmagic.space/post/marsai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/marsai/</guid>
+      <description>所有开发人员、企业家和技术爱好者请注意：您准备好彻底改变软件开发世界了吗？借助 MarsX，您可以快速轻松地创建高质量的应用程序，而无需重新发明轮子或花费数小时编写复杂的代码。我们的低代码平台允许您专注于项目的独特方面，而我们基于订阅的模型提供对数千名开发人员构建的所有微应用程序的访问。 但这还不是全部！通过构建微应用并将其发布在我们的市场上，您可以产生可持续的收入来源，并将您的职业生涯提升到一个新的水平。借助 MarsX，您可以创建微应用，而不是构建另一个无需营销且无需营销的 SAAS，并由成千上万的用户付费。 加入我们，释放低代码技术、微应用和疯狂生产力的潜力！?</description>
+    </item>
+    
+    <item>
+      <title>Mintlify</title>
+      <link>https://aihub.bitmagic.space/post/mintlify/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mintlify/</guid>
+      <description>构建您一直想要的文档。开箱即用，易于维护，并针对用户参与进行了优化。</description>
+    </item>
+    
+    <item>
+      <title>Mixo.io</title>
+      <link>https://aihub.bitmagic.space/post/mixo-io/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mixo-io/</guid>
+      <description>Mixo 帮助企业家快速启动和验证他们的商业理念。它有一个人工智能驱动的构建器，只需对一个想法的简要描述，就可以在几秒钟内生成任何语言的网站。Mixo 还通过集成的订户管理工具帮助收集客户反馈并增加受众。</description>
+    </item>
+    
+    <item>
+      <title>MixPeek</title>
+      <link>https://aihub.bitmagic.space/post/mixpeek/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mixpeek/</guid>
+      <description>Mixpeek是对象存储（如S3）之上的智能层。使用 NLP，只需一个 GET /search API 调用即可“理解”您的非文本文件。您可以使用一行代码进行设置。</description>
+    </item>
+    
+    <item>
+      <title>Moonbeam Exchange</title>
+      <link>https://aihub.bitmagic.space/post/moonbeam-exchange/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/moonbeam-exchange/</guid>
+      <description>Moonbeam Exchange是一个数据科学平台，利用100多个数据源为整个创新生态系统提供情报和洞察力。</description>
+    </item>
+    
+    <item>
+      <title>move.ai</title>
+      <link>https://aihub.bitmagic.space/post/move-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/move-ai/</guid>
+      <description>使用手机从任何环境中的视频中捕获高质量的运动数据。他们的专利软件使用先进的人工智能、计算机视觉、生物力学和物理学从视频中提取自然的人体运动，自动将数据重定向到您的角色装备。随时随地捕捉运动并直接导出到任何游戏引擎或数字环境中。</description>
+    </item>
+    
+    <item>
+      <title>NocodeBooth</title>
+      <link>https://aihub.bitmagic.space/post/nocodebooth/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/nocodebooth/</guid>
+      <description>NocodeBooth是一个Nocode网络应用程序模板，允许您通过付款和完全响应式设计启动自己的AI图像生成平台。</description>
+    </item>
+    
+    <item>
+      <title>Petals</title>
+      <link>https://aihub.bitmagic.space/post/petals/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/petals/</guid>
+      <description>用于协作运行 BLOOM-176B 等大型语言模型的开源工具 – 您加载模型的一小部分，然后与为其他部分提供服务的人员合作运行推理或微调。</description>
+    </item>
+    
+    <item>
+      <title>Pipeline AI</title>
+      <link>https://aihub.bitmagic.space/post/pipeline-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/pipeline-ai/</guid>
+      <description>适用于 ML 模型的无服务器 GPU 推理 按毫秒付费，用于在生产环境中运行 ML。</description>
+    </item>
+    
+    <item>
+      <title>Pixelicious</title>
+      <link>https://aihub.bitmagic.space/post/pixelicious/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/pixelicious/</guid>
+      <description>在线图像到像素艺术转换器。它允许人们上传他们的图像并将其转换为可用于游戏开发的像素艺术。上传图像后，将对其进行处理，用户可以下载结果。</description>
+    </item>
+    
+    <item>
+      <title>Polymath</title>
+      <link>https://aihub.bitmagic.space/post/polymath/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/polymath/</guid>
+      <description>Polymath使用机器学习将任何音乐库（例如来自Hard-Drive或YouTube）转换为音乐制作样本库。该工具自动将歌曲分成词干（节拍、低音等），将它们量化为相同的速度和节拍网格（例如 120bpm），并分析音乐结构（例如诗句、副歌等）、键（例如 C4、E3 等）和其他信息（音色、响度等）。结果是一个可搜索的示例库，可简化音乐制作人、DJ 和 ML 音频开发人员的工作流程。</description>
+    </item>
+    
+    <item>
+      <title>Profile Picture AI</title>
+      <link>https://aihub.bitmagic.space/post/profile-picture-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/profile-picture-ai/</guid>
+      <description>Codeium 是现代编码超级大国，是一个基于尖端 AI 技术的代码加速工具包。通过轻松集成到编辑器中，您可以专注于成为最好的软件开发人员</description>
+    </item>
+    
+    <item>
+      <title>PromptLayer</title>
+      <link>https://aihub.bitmagic.space/post/promptlayer/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/promptlayer/</guid>
+      <description>提示层 是第一个允许您跟踪和管理 GPT 提示工程的平台。PromptLayer 充当代码和 OpenAI 的 python 库之间的中间件。 PromptLayer 会记录您的所有 OpenAI API 请求，允许您在 PromptLayer 仪表板中搜索和浏览请求历史记录。</description>
+    </item>
+    
+    <item>
+      <title>Retune</title>
+      <link>https://aihub.bitmagic.space/post/retune/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/retune/</guid>
+      <description>使用 GPT-3 创建和货币化微调语言模型的终极工具。使用 re：tune，您可以为任何行业或用例轻松训练和定制自己的 AI 助手，并生成 API 以将其集成到您自己的应用程序中。</description>
+    </item>
+    
+    <item>
+      <title>Riku.ai</title>
+      <link>https://aihub.bitmagic.space/post/riku-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/riku-ai/</guid>
+      <description>使您能够在没有代码的情况下构建 AI 模型。通过集成、API 或公共共享链接使用 AI。适合所有人的无障碍 AI。</description>
+    </item>
+    
+    <item>
+      <title>RTutor</title>
+      <link>https://aihub.bitmagic.space/post/rtutor/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/rtutor/</guid>
+      <description>RTutor 是一个基于 AI 的应用程序，可以快速生成和测试 R 代码。通过对OpenAI的Davinci（ChatGPT的兄弟）的API调用，RTutor将自然语言翻译成R脚本，然后在Shiny平台中执行。可以生成 R Markdown 源文件和 HTML 报告。 在这里查看 github 存储库：https://github.com/gexijin/RTutor</description>
+    </item>
+    
+    <item>
+      <title>RunPod</title>
+      <link>https://aihub.bitmagic.space/post/runpod/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/runpod/</guid>
+      <description>租用云 GPU 每小时 0.2 美元起。在 GPU 上节省超过 80%。使用 Jupyter for PyTorch、Tensorflow 或任何其他 AI 框架，GPU 租赁变得容易。</description>
+    </item>
+    
+    <item>
+      <title>Safurai</title>
+      <link>https://aihub.bitmagic.space/post/safurai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/safurai/</guid>
+      <description>Safurai 是一个基于 AI 的 IDE 扩展，旨在帮助开发人员进行编码、调试和重构。它充当虚拟助手，为软件开发过程中可能出现的任何问题提供解决方案和建议。借助 Safurai，开发人员可以改进其工作流程和代码质量，从而使开发过程更加高效和简化。</description>
+    </item>
+    
+    <item>
+      <title>Sagify</title>
+      <link>https://aihub.bitmagic.space/post/sagify/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/sagify/</guid>
+      <description>一个命令行工具，只需几个简单的步骤即可在 AWS SageMaker 上训练和部署机器学习/深度学习模型！</description>
+    </item>
+    
+    <item>
+      <title>Shumai (Meta)</title>
+      <link>https://aihub.bitmagic.space/post/shumai-meta/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/shumai-meta/</guid>
+      <description>Shumai是一个开源的，快速的，网络连接的，可微分的张量库，用于TypeScript（和JavaScript）。内置包子+手电筒，适合软件工程师和研究人员。</description>
+    </item>
+    
+    <item>
+      <title>Stenography</title>
+      <link>https://aihub.bitmagic.space/post/stenography/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/stenography/</guid>
+      <description>最后。自动记录。</description>
+    </item>
+    
+    <item>
+      <title>SyntheticAIdata</title>
+      <link>https://aihub.bitmagic.space/post/syntheticaidata/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/syntheticaidata/</guid>
+      <description>加速视觉 AI 模型创建。 合成数据是真实世界数据的廉价替代方案，用于训练和改进 AI 模型。为了训练准确的AI模型，需要大量的数据。通过使用逼真的 3D 模型，您可以轻松创建用于 AI 分类和对象检测的合成数据。</description>
+    </item>
+    
+    <item>
+      <title>Tabbine</title>
+      <link>https://aihub.bitmagic.space/post/tabbine/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/tabbine/</guid>
+      <description>无论您是团队的一员，还是独自工作的开发人员，Tabnine 都将帮助您更快地编写代码 – 所有这些都在您最喜欢的 IDE 中完成</description>
+    </item>
+    
+    <item>
+      <title>Teachable Machine</title>
+      <link>https://aihub.bitmagic.space/post/teachable-machine/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/teachable-machine/</guid>
+      <description>可教机器 是一种基于 Web 的工具，使每个人都可以快速、轻松地创建机器学习模型并可以访问。它旨在供教育工作者、艺术家、学生、创新者、各种制造者使用——真的，任何有想法想要探索的人。无需先决条件的机器学习知识。</description>
+    </item>
+    
+    <item>
+      <title>Textomap</title>
+      <link>https://aihub.bitmagic.space/post/textomap/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/textomap/</guid>
+      <description>Textomap 是一个 Web 应用程序和浏览器扩展，使用户能够在几秒钟内从包含位置的任何文本生成交互式地图。没有代码，电子表格或复杂的工具 – 你的话就足够了。</description>
+    </item>
+    
+    <item>
+      <title>Tinq.ai – NLP API</title>
+      <link>https://aihub.bitmagic.space/post/tinq-ai-nlp-api/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/tinq-ai-nlp-api/</guid>
+      <description>一组易于使用和尖端的NLP API。 常用 API：文本生成 – 重写器/释义器摘要器 将快速而强大的文本分析集成到您的应用程序中。从主题分类到情感分析和实体提取，我们都能满足您的需求。让它在几天内发生，而不是几个月！ 文本分析：抄袭检查器;自定义分类器;情绪分析;命名实体识别</description>
+    </item>
+    
+    <item>
+      <title>WAAS</title>
+      <link>https://aihub.bitmagic.space/post/waas/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/waas/</guid>
+      <description>用于OpenAI Whisper的GUI和API</description>
+    </item>
+    
+    <item>
+      <title>Whisper</title>
+      <link>https://aihub.bitmagic.space/post/whisper/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/whisper/</guid>
+      <description>耳语是一种通用语音识别模型。它是在各种音频的大型数据集上进行训练的，也是一个多任务模型，可以执行多语言语音识别以及语音翻译和语言识别。</description>
+    </item>
+    
+  </channel>
+</rss>

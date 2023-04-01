@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习模型 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 学习模型 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lobe</title>
+      <link>https://aihub.bitmagic.space/post/lobe/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lobe/</guid>
+      <description>Lobe 使用免费、易于使用的工具帮助您训练机器学习模型。 它只需向它展示您希望它学习的示例，它就会自动训练可以在您的应用程序中发布的自定义机器学习模型。</description>
+    </item>
+    
+  </channel>
+</rss>

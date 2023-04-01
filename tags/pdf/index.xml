@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pdf on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/pdf/</link>
+    <description>Recent content in pdf on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blakify</title>
+      <link>https://aihub.bitmagic.space/post/blakify/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/blakify/</guid>
+      <description>文本转语音软件，具有超过 800+ 种语音和 90 种语言。将电子书、PDF 和其他培训文档等静态内容变为现实。</description>
+    </item>
+    
+    <item>
+      <title>Chatbase</title>
+      <link>https://aihub.bitmagic.space/post/chatbase/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/chatbase/</guid>
+      <description>只需上传 pdf 并获得指向基于 GPT 的聊天机器人的链接，该聊天机器人可以回答有关它的任何问题。</description>
+    </item>
+    
+    <item>
+      <title>Humata AI</title>
+      <link>https://aihub.bitmagic.space/post/humata-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/humata-ai/</guid>
+      <description>上传 PDF 并从中获取答案。 创建报告的速度提高了 100 倍。理解技术文档的速度提高了 100 倍。分析法律文档的速度提高 100 倍</description>
+    </item>
+    
+    <item>
+      <title>PaperBrain</title>
+      <link>https://aihub.bitmagic.space/post/paperbrain/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/paperbrain/</guid>
+      <description>一个让您访问和理解研究论文的平台。有了纸质摘要和直接的pdf链接，您再也不必为繁琐的下载而苦恼。内置 GPT 助手，以一直为您提供帮助。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>圣经 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%9C%A3%E7%BB%8F/</link>
+    <description>Recent content in 圣经 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%9C%A3%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gita GPT</title>
+      <link>https://aihub.bitmagic.space/post/gita-gpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gita-gpt/</guid>
+      <description>GitaGPT是一个使用人工智能（AI）帮助人们从古印度经文《博伽梵歌》中获得指导的网站。它提供超过71，108 + updesh（精神指导），可以帮助所有年龄和背景的人。</description>
+    </item>
+    
+    <item>
+      <title>TheoAssist</title>
+      <link>https://aihub.bitmagic.space/post/theoassist/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/theoassist/</guid>
+      <description>圣经伴侣， 从要点讲道， 圣经教学， 圣经问答， 祷告协助</description>
+    </item>
+    
+  </channel>
+</rss>

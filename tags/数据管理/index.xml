@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据管理 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 数据管理 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OSS Insight</title>
+      <link>https://aihub.bitmagic.space/post/oss-insight/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/oss-insight/</guid>
+      <description>OSS Insight 的数据资源管理器是一个 GPT 驱动的查询工具，用于 GitHub 实时数据探索。只需用自然语言提出问题，数据探索就会生成 SQL、查询数据并以可视化方式呈现结果。</description>
+    </item>
+    
+  </channel>
+</rss>

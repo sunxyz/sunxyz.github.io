@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/python/</link>
+    <description>Recent content in Python on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodiumAI</title>
+      <link>https://aihub.bitmagic.space/post/codiumai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codiumai/</guid>
+      <description>在CodiumAI，我们正在重新定义和自动化代码完整性，最初是通过构建一个开发工具，使忙碌的开发人员能够在他们的IDE中以交互方式生成有意义的测试套件。 CodiumAI目前支持Python，JS和TS支持即将推出</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI模型 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/ai%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in AI模型 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/ai%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DallE-2</title>
+      <link>https://aihub.bitmagic.space/post/dalle-2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/dalle-2/</guid>
+      <description>在过去的几年里，人工智能（AI）取得了极大的进展，而AI的新产品中有AI图像生成器。这是一种能够将输入的语句转换为图像的工具。文本转图像的AI工具有许多，但最突出的就属DALL-E 2、Stable Diffusion和Midjourney了 DALL-E 2由OpenAI开发，它通过一段文本描述生成图像。其使用超过100亿个参数训练的GPT-3转化器模型，能够解释自然语言输入并生成相应的图像 DALL-E 2主要由两部分组成——将用户输入转换为图像的表示（称为Prior），然后是将这种表示转换为实际的照片（称为Decoder） 其中使用到的文本和图像嵌入来自另一个叫做CLIP（对比语言-图像预训练）的网络，这也是由OpenAI研发的。CLIP是一种神经网络，为输入的图像返回最佳的标题。它所做的事情与DALL-E 2所做的相反——它是将图像转换为文本，而DALL-E 2是将文本转换为图像。引入CLIP的目的是为了学习物体的视觉和文字表示之间的联系 ALL-E 2的工作是训练两个模型。第一个是Prior，接受文本标签并创建CLIP图像嵌入。第二个是Decoder，其接受CLIP图像嵌入并生成图像。模型训练完成之后，推理的流程如下： 输入的文本被转化为使用神经网络的CLIP文本嵌入 使用主成分分析（Principal Component Analysis）降低文本嵌入的维度 使用文本嵌入创建图像嵌入 进入Decoder步骤后，扩散模型被用来将图像嵌入转化为图像 图像被从64×64放大到256×256，最后使用卷积神经网络放大到1024×1024</description>
+    </item>
+    
+    <item>
+      <title>Disco Diffusion</title>
+      <link>https://aihub.bitmagic.space/post/disco-diffusion/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/disco-diffusion/</guid>
+      <description>Disco Diffusion (DD) 是 Stable Diffusion 开源前最受欢迎的 AI 绘画模型之一，它由 Somnai 创建并由 Gandamu 扩充，并建立在 RiversHaveWings、nshepperd 和其他人的工作之上。其优点是出图色彩绚烂恢弘，缺点是生成慢、占用计算资源多。Disco Diffusion 可以在 https://replicate.com/nightmareai/disco-diffusion 体验，国内用户可以试试6pen – AI研究所 (aiyjs.com) 的西瓜模型</description>
+    </item>
+    
+    <item>
+      <title>中国版ChatGPT：MOSS</title>
+      <link>https://aihub.bitmagic.space/post/%E4%B8%AD%E5%9B%BD%E7%89%88chatgptmoss/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E4%B8%AD%E5%9B%BD%E7%89%88chatgptmoss/</guid>
+      <description>2月20日，复旦团队发布国内首个类ChatGPT模型MOSS，当晚不少测试的网友发现，MOSS已经显示服务器流量过载，只能第二天再重试。2月21日，复旦团队在MOSS官网发布公告称：首先非常感谢大家的关注！MOSS还是一个非常不成熟的模型，距离ChatGPT还有很长的路需要走。值得注意的是，MOSS被多方注册商标。 MOSS是《流浪地球》系列电影中的智能量子计算机，是领航员空间站核心智能主机，有自我意识、自我迭代、自我更新的特点。 天眼查App显示，MOSS被多方注册商标，申请人包括科技公司、电商公司、传媒公司以及自然人许某某、谭某某等，国际分类包括科学仪器、灯具空调、运输贮藏等。最近的一枚“MOSS”商标是某科技公司申请于2023年1月，国际分类为手工器械，目前商标状态为申请中。 2023年开年，ChatGPT迅速火遍全球，短短两个月时间月活突破一亿。ChatGPT的大火引发了全球科技巨头的竞赛，国内的“中国版ChatGPT”争夺战也是一触即发。在国内众多大厂中，百度是最早做出明确表态的公司之一，2月初就正式宣布将在3月上线百度版ChatGPT“文心一言”，打响第一枪。基于指令学习技术的类ChatGPT模型在我国能否开发成功，成为业界关注的一个焦点。 2月20日，复旦大学自然语言处理实验室宣布，国内第一个对话式大型语言模型MOSS已由邱锡鹏教授团队发布至公开平台（https://moss.fastnlp.top/），并邀公众参与内测。</description>
+    </item>
+    
+    <item>
+      <title>爱作画</title>
+      <link>https://aihub.bitmagic.space/post/%E7%88%B1%E4%BD%9C%E7%94%BB/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E7%88%B1%E4%BD%9C%E7%94%BB/</guid>
+      <description>在爱作画AIGC开放平台，您可以使用到与开源社区同步的最新开源AI模型，也可以自己上传AI模型或使用其他创作者分享的AI模型进行创作</description>
+    </item>
+    
+  </channel>
+</rss>

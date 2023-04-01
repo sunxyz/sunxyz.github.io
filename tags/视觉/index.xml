@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>视觉 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%A7%86%E8%A7%89/</link>
+    <description>Recent content in 视觉 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face&#43;&#43;旷视</title>
+      <link>https://aihub.bitmagic.space/post/face&#43;&#43;%E6%97%B7%E8%A7%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/face&#43;&#43;%E6%97%B7%E8%A7%86/</guid>
+      <description>Face++ 人工智能开放平台是北京旷视科技有限公司（后称旷视科技）推出的、面向开发者的开放平台。Face++ 以 API 或 SDK 的形式，将领先的、基于深度学习的计算机视觉技术开放给开发者，帮助您的应用更好地读懂世界。</description>
+    </item>
+    
+    <item>
+      <title>Luma AI</title>
+      <link>https://aihub.bitmagic.space/post/luma-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/luma-ai/</guid>
+      <description>以逼真的 3D 方式捕获。无与伦比的照片写实感、反射和细节。 视觉特效的未来就是现在，适合所有人</description>
+    </item>
+    
+    <item>
+      <title>Rosebud</title>
+      <link>https://aihub.bitmagic.space/post/rosebud/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/rosebud/</guid>
+      <description>AI 生成的视觉效果 我们让您轻松获得所需的确切视觉效果。</description>
+    </item>
+    
+    <item>
+      <title>Visily AI</title>
+      <link>https://aihub.bitmagic.space/post/visily-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/visily-ai/</guid>
+      <description>Visily 使具有不同设计背景的团队能够以光速创建令人惊叹的线框和原型。Visily 拥有广泛的人工智能功能，还具有预先设计的模板、原型设计和协作功能，使设计变得简单直观。</description>
+    </item>
+    
+    <item>
+      <title>四维时代</title>
+      <link>https://aihub.bitmagic.space/post/%E5%9B%9B%E7%BB%B4%E6%97%B6%E4%BB%A3/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E5%9B%9B%E7%BB%B4%E6%97%B6%E4%BB%A3/</guid>
+      <description>四维时代致力于人工智能三维数字化技术的研究与应用，以实现“数字万物”为愿景，让数字化飞入寻常百姓家。提供小物体建模、大场景建模、视觉追踪、视觉识别等功能。</description>
+    </item>
+    
+  </channel>
+</rss>

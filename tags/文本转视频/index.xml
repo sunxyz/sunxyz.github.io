@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文本转视频 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%96%87%E6%9C%AC%E8%BD%AC%E8%A7%86%E9%A2%91/</link>
+    <description>Recent content in 文本转视频 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%96%87%E6%9C%AC%E8%BD%AC%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synthesia</title>
+      <link>https://aihub.bitmagic.space/post/synthesia/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/synthesia/</guid>
+      <description>人工智能视频生成平台，只需输入文本即可创建 AI 视频。为电子学习、客户入职等制作引人入胜的视频。无需演员、相机或音频设备。</description>
+    </item>
+    
+    <item>
+      <title>Type Studio</title>
+      <link>https://aihub.bitmagic.space/post/type-studio/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/type-studio/</guid>
+      <description>Type Studio 是一个基于文本的视频编辑器，可获取您的视频并将其自动转录为文本。他们还提供用于视频编辑、字幕、播客、重新调整用途和录制的快速工具。</description>
+    </item>
+    
+  </channel>
+</rss>

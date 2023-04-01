@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>模型 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%A8%A1%E5%9E%8B/</link>
+    <description>Recent content in 模型 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%A8%A1%E5%9E%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perplexity AI</title>
+      <link>https://aihub.bitmagic.space/post/perplexity-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/perplexity-ai/</guid>
+      <description>困惑AI是一个AI搜索引擎。这是一个受OpenAI WebGPT启发的演示，而不是商业产品。他们使用大型语言模型（OpenAI API）和搜索引擎。还可以通过将自然语言转换为SQL代码来回答Twitter图形查询。</description>
+    </item>
+    
+  </channel>
+</rss>

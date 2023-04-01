@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>合同 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%90%88%E5%90%8C/</link>
+    <description>Recent content in 合同 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%90%88%E5%90%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maigon.io</title>
+      <link>https://aihub.bitmagic.space/post/maigon-io/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/maigon-io/</guid>
+      <description>Maigon解决方案包括特定于文档的合同审查模块以及与合同类型无关的API。所有Maigon产品都集成了最新的深度学习技术，以确保最大的准确性和效率。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>元宇宙 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%85%83%E5%AE%87%E5%AE%99/</link>
+    <description>Recent content in 元宇宙 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%85%83%E5%AE%87%E5%AE%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In3D</title>
+      <link>https://aihub.bitmagic.space/post/in3d/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/in3d/</guid>
+      <description>把人变成逼真的化身！在一分钟内为您的元宇宙、游戏或应用程序使用手机摄像头创建的逼真且可自定义的头像</description>
+    </item>
+    
+    <item>
+      <title>The Simulation</title>
+      <link>https://aihub.bitmagic.space/post/the-simulation/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/the-simulation/</guid>
+      <description>模拟是一个以人工智能为中心的元宇宙。由复杂的机器学习、游戏设计、NFT 和 ERC20 代币提供支持</description>
+    </item>
+    
+  </channel>
+</rss>

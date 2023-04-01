@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>虚拟现实 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E/</link>
+    <description>Recent content in 虚拟现实 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepMotion</title>
+      <link>https://aihub.bitmagic.space/post/deepmotion/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/deepmotion/</guid>
+      <description>Animate 3D 允许您使用实时身体跟踪将视频转换为 3D 动画，以用于游戏、增强/虚拟现实和其他应用程序</description>
+    </item>
+    
+    <item>
+      <title>Gemsouls</title>
+      <link>https://aihub.bitmagic.space/post/gemsouls/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gemsouls/</guid>
+      <description>结识、交朋友并创建虚拟角色。肩负着将宝石般的虚拟人类带入生活的使命</description>
+    </item>
+    
+  </channel>
+</rss>

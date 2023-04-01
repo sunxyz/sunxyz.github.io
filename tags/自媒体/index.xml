@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自媒体 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%87%AA%E5%AA%92%E4%BD%93/</link>
+    <description>Recent content in 自媒体 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%87%AA%E5%AA%92%E4%BD%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FeedHive</title>
+      <link>https://aihub.bitmagic.space/post/feedhive/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/feedhive/</guid>
+      <description>使用 FeedHive 的 AI 支持平台大规模创建、安排、发布和轻松管理您的社交媒体内容。拖放调度，自动生成主题标签以及最活跃的时间安排和出色的分析。</description>
+    </item>
+    
+  </channel>
+</rss>

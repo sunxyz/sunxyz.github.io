@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>智能对话 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D/</link>
+    <description>Recent content in 智能对话 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%99%BA%E8%83%BD%E5%AF%B9%E8%AF%9D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小爱</title>
+      <link>https://aihub.bitmagic.space/post/%E5%B0%8F%E7%88%B1/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E5%B0%8F%E7%88%B1/</guid>
+      <description>小爱开放平台基于小米的硬件生态和海量数据，提供全球领先的语音识别、NLP等多项人工智能技术，为开发者提供一站式的人工智能服务</description>
+    </item>
+    
+  </channel>
+</rss>

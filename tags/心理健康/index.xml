@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心理健康 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/</link>
+    <description>Recent content in 心理健康 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Woebot Health</title>
+      <link>https://aihub.bitmagic.space/post/woebot-health/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/woebot-health/</guid>
+      <description>woebot是您的个人心理健康盟友，可帮助您恢复自己的感觉。以临床研究为后盾，由 AI 提供支持。</description>
+    </item>
+    
+  </channel>
+</rss>

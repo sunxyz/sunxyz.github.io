@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>贺卡 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%B4%BA%E5%8D%A1/</link>
+    <description>Recent content in 贺卡 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%B4%BA%E5%8D%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Pickup Lines</title>
+      <link>https://aihub.bitmagic.space/post/ai-pickup-lines/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-pickup-lines/</guid>
+      <description>仅基于关键字的AI生成的取件行！您还可以购买站点上生成的所有取货行的数据库。</description>
+    </item>
+    
+    <item>
+      <title>We Write Cards</title>
+      <link>https://aihub.bitmagic.space/post/we-write-cards/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/we-write-cards/</guid>
+      <description>为任何场合（生日、婚礼、吊唁）创建自定义消息的最简单方法。</description>
+    </item>
+    
+  </channel>
+</rss>

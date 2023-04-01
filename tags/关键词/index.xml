@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关键词 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%85%B3%E9%94%AE%E8%AF%8D/</link>
+    <description>Recent content in 关键词 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%85%B3%E9%94%AE%E8%AF%8D/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CopyMonkey</title>
+      <link>https://aihub.bitmagic.space/post/copymonkey/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/copymonkey/</guid>
+      <description>CopyMonkey 在几秒钟内生成和优化亚马逊列表。人工智能有助于在您的亚马逊列表中放置所有重要关键字，让您在第一页上有机地排名。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%AE%BA%E6%96%87/</link>
+    <description>Recent content in 论文 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caktus</title>
+      <link>https://aihub.bitmagic.space/post/caktus/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/caktus/</guid>
+      <description>人工智能解决方案，供学生撰写论文、讨论问题、通用编码帮助和专业工作申请帮助。</description>
+    </item>
+    
+    <item>
+      <title>Paperade</title>
+      <link>https://aihub.bitmagic.space/post/paperade/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/paperade/</guid>
+      <description>Paperade 是第一个人工智能驱动的工具，可从超过 100 亿篇学术论文和研究中生成商业用例和公司想法。这就像拥有创业理念的博士学位。</description>
+    </item>
+    
+    <item>
+      <title>PaperBrain</title>
+      <link>https://aihub.bitmagic.space/post/paperbrain/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/paperbrain/</guid>
+      <description>一个让您访问和理解研究论文的平台。有了纸质摘要和直接的pdf链接，您再也不必为繁琐的下载而苦恼。内置 GPT 助手，以一直为您提供帮助。</description>
+    </item>
+    
+    <item>
+      <title>Papers GPT</title>
+      <link>https://aihub.bitmagic.space/post/papers-gpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/papers-gpt/</guid>
+      <description>使您能够将任何科学论文输入 GPT，以为其提供深入的定制知识。目前是连接任意数据的最终目标的概念验证UX。</description>
+    </item>
+    
+    <item>
+      <title>Welma</title>
+      <link>https://aihub.bitmagic.space/post/welma/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/welma/</guid>
+      <description>Welma使用AI来简化复杂的句子和段落，使它们易于理解。无论您是在阅读学术论文、新闻文章，还是小说，Welma 都将帮助您理解文本并保留信息。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>纹理 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%BA%B9%E7%90%86/</link>
+    <description>Recent content in 纹理 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%BA%B9%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mirageml</title>
+      <link>https://aihub.bitmagic.space/post/mirageml/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mirageml/</guid>
+      <description>快速生成 3D 设计。只需使用文本来描述您想要的内容，Mirage 的 AI 驱动平台即可生成 3D 网格和纹理</description>
+    </item>
+    
+    <item>
+      <title>Poly</title>
+      <link>https://aihub.bitmagic.space/post/poly/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/poly/</guid>
+      <description>使用 AI 在几秒钟内生成纹理。只需文本提示即可创建无限的高分辨率、完全自定义、商业许可的纹理</description>
+    </item>
+    
+    <item>
+      <title>Ponzu</title>
+      <link>https://aihub.bitmagic.space/post/ponzu/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ponzu/</guid>
+      <description>用 AI 生成的纹理对 3D assets 进行处理</description>
+    </item>
+    
+    <item>
+      <title>Texture Lab</title>
+      <link>https://aihub.bitmagic.space/post/texture-lab/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/texture-lab/</guid>
+      <description>借助 AI，在几秒钟内为您的游戏生成 3D 纹理。还提供了在网站上生成的即用型免费纹理的数据库</description>
+    </item>
+    
+  </channel>
+</rss>

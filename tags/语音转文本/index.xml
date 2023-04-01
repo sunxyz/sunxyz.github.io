@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>语音转文本 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E6%9C%AC/</link>
+    <description>Recent content in 语音转文本 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VoicePen AI</title>
+      <link>https://aihub.bitmagic.space/post/voicepen-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/voicepen-ai/</guid>
+      <description>使用 AI 将音频内容转换为博客文章。 使用 VoicePen 轻松地将播客、网络研讨会或教程转换为博客文章，以实现更广泛的覆盖面和可访问性。</description>
+    </item>
+    
+  </channel>
+</rss>

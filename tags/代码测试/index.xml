@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>代码测试 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 代码测试 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AskCodi</title>
+      <link>https://aihub.bitmagic.space/post/askcodi/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/askcodi/</guid>
+      <description>编写语法、注释和测试。更快。容易。更好。AskCodi牢记开发人员的需求，以避免冗余任务，从而减少开发时间，增加执行时间</description>
+    </item>
+    
+    <item>
+      <title>Programminghelper</title>
+      <link>https://aihub.bitmagic.space/post/programminghelper/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/programminghelper/</guid>
+      <description>在 AI 的帮助下更快地编码。 只需键入文本说明即可生成代码。AI 将为您创建代码。立即测试</description>
+    </item>
+    
+  </channel>
+</rss>

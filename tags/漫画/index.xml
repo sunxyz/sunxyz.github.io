@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>漫画 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%BC%AB%E7%94%BB/</link>
+    <description>Recent content in 漫画 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%BC%AB%E7%94%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Canvas</title>
+      <link>https://aihub.bitmagic.space/post/neural-canvas/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/neural-canvas/</guid>
+      <description>神经画布是一种数字插图生成器服务，能够为您的漫画、博客文章、电子书、故事、收藏等生成独特的插图。使用它创建自己的 AI 生成的漫画。</description>
+    </item>
+    
+  </channel>
+</rss>

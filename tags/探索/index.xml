@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>探索 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%8E%A2%E7%B4%A2/</link>
+    <description>Recent content in 探索 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%8E%A2%E7%B4%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Experiments</title>
+      <link>https://aihub.bitmagic.space/post/ai-experiments/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-experiments/</guid>
+      <description>AI Experiments是Google对简单实验的展示，使任何人都可以更轻松地开始探索机器学习，通过图片，绘图，语言，音乐等。你可以在这里找到像TalkToBooks和TeachableMachine这样的工具。</description>
+    </item>
+    
+    <item>
+      <title>BoredHumans</title>
+      <link>https://aihub.bitmagic.space/post/boredhumans/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/boredhumans/</guid>
+      <description>在无聊的人类这个网站里，用户可以任意浏览站点里基于AI技术提供的内容，比如绘画和音乐等。 上网总会有百无聊赖的时候，那么这种情况下可以试试接下来要介绍的网站。 在无聊的人类这个网站里，用户可以任意浏览站点里基于AI技术提供的内容，比如绘画和音乐等。 后续还会有更多的网站内容加入，也可以就此了解一下网上都有什么有趣的AI项目</description>
+    </item>
+    
+  </channel>
+</rss>

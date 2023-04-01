@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>机械学习 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 机械学习 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%9C%BA%E6%A2%B0%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scribbling Speech-语音转动画</title>
+      <link>https://aihub.bitmagic.space/post/scribbling-speech-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E5%8A%A8%E7%94%BB/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/scribbling-speech-%E8%AF%AD%E9%9F%B3%E8%BD%AC%E5%8A%A8%E7%94%BB/</guid>
+      <description>Scribbling Speech是Google借助云语音API开发的一种在线AI工具。该工具可将实时言论转换为动画。通过语音输入，该工具使用机器学习和递归神经网络来生成由语言结构控制的图像</description>
+    </item>
+    
+  </channel>
+</rss>

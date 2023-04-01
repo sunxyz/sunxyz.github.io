@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netflix on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/netflix/</link>
+    <description>Recent content in Netflix on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Even Stranger Things-AI生成电影海报</title>
+      <link>https://aihub.bitmagic.space/post/even-stranger-things-ai%E7%94%9F%E6%88%90%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/even-stranger-things-ai%E7%94%9F%E6%88%90%E7%94%B5%E5%BD%B1%E6%B5%B7%E6%8A%A5/</guid>
+      <description>其中最疯狂的之一 – 随着科幻和奇幻Netflix系列“陌生人事物”（Stranger Things）的近期流行，Even Stranger Things也变得举世瞩目。这是一种在线AI驱动的工具，可识别图像中的内容并生成相同内容的陌生人海报。为此，用户必须上传图片，然后单击一下即可创建图片的陌生人事物海报。</description>
+    </item>
+    
+  </channel>
+</rss>

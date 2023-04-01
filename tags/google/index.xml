@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/google/</link>
+    <description>Recent content in Google on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTRify</title>
+      <link>https://aihub.bitmagic.space/post/ctrify/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ctrify/</guid>
+      <description>首个人工智能驱动的SEO行动平台 只需为我们的人工智能提供一个关键字即可创建在 Google 上排名的网站。提高您的 SERP 排名、自然点击率、停留时间和 Pogo 坚持，这要归功于我们来自数百万个真实桌面和移动设备的自然流量，这些设备来自来自世界各地顶级移动运营商的住宅 IP 的连接。</description>
+    </item>
+    
+    <item>
+      <title>谷歌AI</title>
+      <link>https://aihub.bitmagic.space/post/%E8%B0%B7%E6%AD%8Cai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E8%B0%B7%E6%AD%8Cai/</guid>
+      <description>官网地址:https://ai.google/tools/提供ML套件、DeepDream、TensorFlow.js、CoLabratory、Google开源等机器学习软件包和数据集以及学习资源。</description>
+    </item>
+    
+  </channel>
+</rss>

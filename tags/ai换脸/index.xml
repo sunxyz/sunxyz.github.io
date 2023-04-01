@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI换脸 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/ai%E6%8D%A2%E8%84%B8/</link>
+    <description>Recent content in AI换脸 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/ai%E6%8D%A2%E8%84%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FaceHub</title>
+      <link>https://aihub.bitmagic.space/post/facehub/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/facehub/</guid>
+      <description>在线AI智能图片视频换脸 FaceHub是一个在线智能图片视频换脸网站，支持图片换脸和视频换脸，内置免费脸型数据，当然也可以使用自己准备好的图片脸型进行替换，网站也支持下载，不过有水印，如果想去掉水印需要付费</description>
+    </item>
+    
+    <item>
+      <title>FaceSwapper</title>
+      <link>https://aihub.bitmagic.space/post/faceswapper/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/faceswapper/</guid>
+      <description>FaceSwapper是一款免费在线智能AI换脸工具/换脸软件，支持男女性别换脸，使用的适合只需上传要换脸的照片（支持jpg和png格式），无限制使用以及下载 你可以选择自己的照片换脸，当然网站自己也提供的一些素材你可以直接使用</description>
+    </item>
+    
+    <item>
+      <title>PhotoFunia</title>
+      <link>https://aihub.bitmagic.space/post/photofunia/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/photofunia/</guid>
+      <description>PhotoFunia换脸，一个免费的在线在线换脸工具，只需要上传两张人脸照片数据，后台即可自动进行换脸操作，能够自动匹配两张照片的颜色，换脸完成一键无水印下载换脸完成的照片到本地 不过他不是万能的，对照片的要求相对比较高，很多如果角度或者亮度不行的都会提示你图片不合格，无法处理；照片人脸角度、颜色需要基本相似</description>
+    </item>
+    
+  </channel>
+</rss>

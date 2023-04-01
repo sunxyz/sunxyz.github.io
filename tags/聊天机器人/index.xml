@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>聊天机器人 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+    <description>Recent content in 聊天机器人 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CodeAssist</title>
+      <link>https://aihub.bitmagic.space/post/codeassist/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/codeassist/</guid>
+      <description>CodeAssist（用于Intellij）是一个用于编程的AI助手/聊天机器人/副驾驶。它生成或更改代码，给定要进行的更改的说明。 安装后，您可以通过单击左下角的“CodeAssist”选项卡来打开它。 CodeAssist适用于所有流行的编程语言</description>
+    </item>
+    
+    <item>
+      <title>SamurAI</title>
+      <link>https://aihub.bitmagic.space/post/samurai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/samurai/</guid>
+      <description>SamurAI 是一个由 ChatGPT 提供支持的社区聊天机器人，可以帮助您启动、运行和发展您的 Discord 社区。它可以设置服务器、频道、管理邀请、问候用户和回答问题。</description>
+    </item>
+    
+    <item>
+      <title>思知OwnThink</title>
+      <link>https://aihub.bitmagic.space/post/%E6%80%9D%E7%9F%A5ownthink/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E6%80%9D%E7%9F%A5ownthink/</guid>
+      <description>ownthink致力于最大的中文开放知识图谱，目前已经对两千五百多万实体进行了融合，拥有亿级别的实体属性关系，知识还在不断更新中。 数据集包含： 歧义关系（mention -&amp;gt; entity） 全部知识（entity -&amp;gt; knowledge） 属性值（entity&amp;amp;attribute -&amp;gt; value） 知识图谱可视化检索：https://www.ownthink.com/knowledge.html 知识图谱数据使用方式见主页：https://www.ownthink.com/ 说明文档：https://www.ownthink.com/docs/kg/ 医疗知识图谱：http://www.openkg.cn/dataset/medical</description>
+    </item>
+    
+  </channel>
+</rss>

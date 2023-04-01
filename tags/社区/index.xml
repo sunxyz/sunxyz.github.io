@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>社区 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%A4%BE%E5%8C%BA/</link>
+    <description>Recent content in 社区 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%A4%BE%E5%8C%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SermonGPT</title>
+      <link>https://aihub.bitmagic.space/post/sermongpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/sermongpt/</guid>
+      <description>讲道GPT根据提示和其他细节（如事件和讲道风格）为您撰写讲道。</description>
+    </item>
+    
+  </channel>
+</rss>

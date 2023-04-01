@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>儿童故事 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%84%BF%E7%AB%A5%E6%95%85%E4%BA%8B/</link>
+    <description>Recent content in 儿童故事 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%84%BF%E7%AB%A5%E6%95%85%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StoriesForKids</title>
+      <link>https://aihub.bitmagic.space/post/storiesforkids/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/storiesforkids/</guid>
+      <description>一起阅读和创作。 在手机上的几秒钟内将现实生活中的情况变成有趣的故事和插图。</description>
+    </item>
+    
+    <item>
+      <title>StoryWizard</title>
+      <link>https://aihub.bitmagic.space/post/storywizard/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/storywizard/</guid>
+      <description>使用 AI 创建令人难以置信的儿童故事，帮助您生成具有生动图像和令人愉悦情节的独特而美丽的儿童故事。</description>
+    </item>
+    
+  </channel>
+</rss>

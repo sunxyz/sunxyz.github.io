@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技能 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 技能 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soofy</title>
+      <link>https://aihub.bitmagic.space/post/soofy/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/soofy/</guid>
+      <description>Soofy是一款AI语言学习应用程序，提供了一种掌握新语言的创新方法。Soofy 专注于练习和现实生活场景，为用户提供提高发音、写作和对话技巧的功能。从撰写论文和描述图像到使用 AI 进行辩论和角色扮演场景，Soofy 提供了广泛的语言选项和引人入胜的功能，以帮助您练习和提高语言技能。</description>
+    </item>
+    
+    <item>
+      <title>Yoodli AI</title>
+      <link>https://aihub.bitmagic.space/post/yoodli-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/yoodli-ai/</guid>
+      <description>通过来自他们的 AI 语音教练的个性化和私人反馈来提高您的沟通技巧。</description>
+    </item>
+    
+  </channel>
+</rss>

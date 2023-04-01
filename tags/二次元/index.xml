@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>二次元 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/</link>
+    <description>Recent content in 二次元 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AnimeAI</title>
+      <link>https://aihub.bitmagic.space/post/animeai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/animeai/</guid>
+      <description>动漫AI将您生成为顶级动漫中的主要英雄！您可以从自己的照片中成为进击的巨人、火影忍者、新世纪福音战士、赛博朋克和恶魔杀手动漫中的角色。获得 120 种个性化的独特艺术</description>
+    </item>
+    
+    <item>
+      <title>Draft</title>
+      <link>https://aihub.bitmagic.space/post/draft/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/draft/</guid>
+      <description>Draft.art是一个基于stable diffusion的AI智能绘图网站,在AI模型中只需要输入关键词,就能得到包含“创意”“设计思路”的图片</description>
+    </item>
+    
+    <item>
+      <title>NovelAI-小说、次元涩图生成器</title>
+      <link>https://aihub.bitmagic.space/post/novelai-%E5%B0%8F%E8%AF%B4%E6%AC%A1%E5%85%83%E6%B6%A9%E5%9B%BE%E7%94%9F%E6%88%90%E5%99%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/novelai-%E5%B0%8F%E8%AF%B4%E6%AC%A1%E5%85%83%E6%B6%A9%E5%9B%BE%E7%94%9F%E6%88%90%E5%99%A8/</guid>
+      <description>但是这个novelai绘画工具从开始到现在就没太平过，刚火起来就被日本大量的画师抵制，然后一堆人用它来做涩图 NovelAI本来是个AI写文章的网站，今年用p站上的图训练了二次元专属的AI模型。相对于一些通用的A绘画生成器来说，novelai在二次元图上更加的准确。 目前的功能有三种： 1.可以文字生成二次元图 2.可以用网站上的绘图工具画草图然后生成二次元图 3.可以上传图片生成二次元图</description>
+    </item>
+    
+  </channel>
+</rss>

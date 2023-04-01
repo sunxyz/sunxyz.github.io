@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音频编辑 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E9%9F%B3%E9%A2%91%E7%BC%96%E8%BE%91/</link>
+    <description>Recent content in 音频编辑 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E9%9F%B3%E9%A2%91%E7%BC%96%E8%BE%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Podcast</title>
+      <link>https://aihub.bitmagic.space/post/adobe-podcast/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/adobe-podcast/</guid>
+      <description>提供 2 个免费的快速工具来增强内容的音频。增强语音 – 通过消除所有背景噪音和回声来增强语音。 麦克风检查 – 从麦克风解锁高质量的声音。 主要产品承诺提供人工智能驱动的录音和编辑，所有这些都在网络上，并在候补名单上</description>
+    </item>
+    
+    <item>
+      <title>Eleven Labs</title>
+      <link>https://aihub.bitmagic.space/post/eleven-labs/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/eleven-labs/</guid>
+      <description>语音的未来。第一个以任何语音和任何语言生成长格式语音的平台。我们使用人工智能为寻求终极叙事质量的创作者和出版商带来最自然、最引人注目的声音。</description>
+    </item>
+    
+    <item>
+      <title>Lalal.ai</title>
+      <link>https://aihub.bitmagic.space/post/lalal-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/lalal-ai/</guid>
+      <description>下一代人声去除器和音乐源分离服务，可实现快速、简单和精确的词干提取。删除人声、器乐、鼓、贝斯、钢琴、电吉他、原声吉他和合成器轨道，而不会降低质量</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网易 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%BD%91%E6%98%93/</link>
+    <description>Recent content in 网易 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%BD%91%E6%98%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网易AI</title>
+      <link>https://aihub.bitmagic.space/post/%E7%BD%91%E6%98%93ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E7%BD%91%E6%98%93ai/</guid>
+      <description>聚焦于多媒体业务领域，基于多年的行业深耕，积累出丰富的技术成功与落地应用经验。可提供多媒体内容理解、音视频效率工具、语音/NLP/CV 能力组件等产品与服务，助力企业智能化升级，拓展智慧生产力。</description>
+    </item>
+    
+  </channel>
+</rss>

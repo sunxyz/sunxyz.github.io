@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>抠图 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%8A%A0%E5%9B%BE/</link>
+    <description>Recent content in 抠图 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%8A%A0%E5%9B%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hama – Image Editing</title>
+      <link>https://aihub.bitmagic.space/post/hama-image-editing/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/hama-image-editing/</guid>
+      <description>在一秒钟内从图像中删除人物或物体。</description>
+    </item>
+    
+    <item>
+      <title>Remove.bg</title>
+      <link>https://aihub.bitmagic.space/post/remove-bg/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/remove-bg/</guid>
+      <description>一键在 100 秒内自动删除背景 5%。多亏了 remove.bg 的聪明 AI，您可以缩短编辑时间 – 并获得更多乐趣！</description>
+    </item>
+    
+    <item>
+      <title>皮卡</title>
+      <link>https://aihub.bitmagic.space/post/%E7%9A%AE%E5%8D%A1/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E7%9A%AE%E5%8D%A1/</guid>
+      <description>皮卡智能抠图网站是一款可以提供在线抠图、去水印、一键生成卡通头像、图片变高清、视频剪辑-ps抠图-在线图片编辑软件-最美证件照-照片动漫等功能的SaaS网站，给个人提供在线功能使用，给企业提供API接口服务的企业。 提供如下AI应用 抠图/分割/去背景、通用抠图、头部抠图、 视频处理、视频抠图、视频动漫化、 照片变活、修复增强、修复/去水印、美化/自动曝光、老照片上色、人脸变清晰、 细分类目抠图、物体抠图、人像抠图、 艺术化、动漫化、风格化/风格迁移、卡通头像</description>
+    </item>
+    
+  </channel>
+</rss>

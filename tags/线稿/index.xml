@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>线稿 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%BA%BF%E7%A8%BF/</link>
+    <description>Recent content in 线稿 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%BA%BF%E7%A8%BF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Petalica paint</title>
+      <link>https://aihub.bitmagic.space/post/petalica-paint/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/petalica-paint/</guid>
+      <description>用AI自动为线稿上色，如果访问慢或者无法访问，请科学上网</description>
+    </item>
+    
+  </channel>
+</rss>

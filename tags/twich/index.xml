@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twich on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/twich/</link>
+    <description>Recent content in Twich on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/twich/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAPTURELAB</title>
+      <link>https://aihub.bitmagic.space/post/capturelab/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/capturelab/</guid>
+      <description>在 CAPTURELAB，我们会在您注册后立即自动获取您的 Twitch 内容。完成流式传输后，我们的 AI 将使用计算机视觉处理您的内容，检测您的最佳游戏时刻，并将其呈现给您进行编辑。使用该平台编辑、下载您的视频文件并将其发布在社交媒体上以增加您的观众。</description>
+    </item>
+    
+  </channel>
+</rss>

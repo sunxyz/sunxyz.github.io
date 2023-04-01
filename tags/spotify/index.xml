@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spotify on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/spotify/</link>
+    <description>Recent content in spotify on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ad Auris</title>
+      <link>https://aihub.bitmagic.space/post/ad-auris/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ad-auris/</guid>
+      <description>随时随地收听文章！ 创建文章播放列表并在Spotify，Apple Podcasts和Google Podcasts上收听</description>
+    </item>
+    
+  </channel>
+</rss>

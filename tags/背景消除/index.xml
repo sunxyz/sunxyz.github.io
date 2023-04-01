@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>背景消除 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%83%8C%E6%99%AF%E6%B6%88%E9%99%A4/</link>
+    <description>Recent content in 背景消除 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%83%8C%E6%99%AF%E6%B6%88%E9%99%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bg.Eraser</title>
+      <link>https://aihub.bitmagic.space/post/bg-eraser/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/bg-eraser/</guid>
+      <description>强大的AI修复和图片清理技术。在几秒钟内删除不需要的对象和水印。</description>
+    </item>
+    
+    <item>
+      <title>Cleanup.pictures</title>
+      <link>https://aihub.bitmagic.space/post/cleanup-pictures/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/cleanup-pictures/</guid>
+      <description>一种修饰技术，用于从照片中删除任何不需要的对象（对象删除）。它可用于删除不需要的人。它曾经与像inpaint这样的克隆工具一起使用，但今天使用人工智能可以提供更好的结果。</description>
+    </item>
+    
+    <item>
+      <title>Designify</title>
+      <link>https://aihub.bitmagic.space/post/designify/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/designify/</guid>
+      <description>使用您喜欢的照片创建自动设计。选择任何图像，通过自动删除背景、增强颜色、调整智能阴影等来创建 AI 驱动的设计。立即保存、下载或共享您的设计。</description>
+    </item>
+    
+    <item>
+      <title>Erase.bg</title>
+      <link>https://aihub.bitmagic.space/post/erase-bg/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/erase-bg/</guid>
+      <description>免费从图像中删除背景。 从人类、动物或物体的图像中删除背景，并免费下载高分辨率图像。</description>
+    </item>
+    
+    <item>
+      <title>Green Screen AI</title>
+      <link>https://aihub.bitmagic.space/post/green-screen-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/green-screen-ai/</guid>
+      <description>绿屏AI可让您将图片的背景更改为您能想到的任何内容！使用生成人工智能，你可以把你的狗放在外星丛林中，或者把你的猫变成一个太空牛仔。</description>
+    </item>
+    
+    <item>
+      <title>Hama – Image Editing</title>
+      <link>https://aihub.bitmagic.space/post/hama-image-editing/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/hama-image-editing/</guid>
+      <description>在一秒钟内从图像中删除人物或物体。</description>
+    </item>
+    
+    <item>
+      <title>Mokker</title>
+      <link>https://aihub.bitmagic.space/post/mokker/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/mokker/</guid>
+      <description>AI背景替换，从单个产品图像中即时替换专业产品照片。</description>
+    </item>
+    
+    <item>
+      <title>Photoroom</title>
+      <link>https://aihub.bitmagic.space/post/photoroom/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/photoroom/</guid>
+      <description>仅使用手机创建产品和肖像图片。删除背景，更改背景并展示产品。</description>
+    </item>
+    
+    <item>
+      <title>Visio Studio</title>
+      <link>https://aihub.bitmagic.space/post/visio-studio/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/visio-studio/</guid>
+      <description>先进的背景去除工具，由计算机视觉技术提供支持。Visio Studio 允许您直接从手机编辑和优化图片。</description>
+    </item>
+    
+  </channel>
+</rss>

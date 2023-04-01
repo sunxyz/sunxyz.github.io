@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>消除 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%B6%88%E9%99%A4/</link>
+    <description>Recent content in 消除 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%B6%88%E9%99%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cleanup.pictures</title>
+      <link>https://aihub.bitmagic.space/post/cleanup-pictures/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/cleanup-pictures/</guid>
+      <description>一种修饰技术，用于从照片中删除任何不需要的对象（对象删除）。它可用于删除不需要的人。它曾经与像inpaint这样的克隆工具一起使用，但今天使用人工智能可以提供更好的结果。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文本处理 生活日常 on Aihub</title>
+    <link>https://aihub.bitmagic.space/series/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+    <description>Recent content in 文本处理 生活日常 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/series/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple Books</title>
+      <link>https://aihub.bitmagic.space/post/apple-books/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/apple-books/</guid>
+      <description>由文本转语音AI讲述的有声读物现在可以通过Apple的Books获得。 最初仅适用于浪漫和小说书籍，其中列出了两种可用的数字声音：麦迪逊和杰克逊。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tts on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/tts/</link>
+    <description>Recent content in tts on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/tts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play.ht</title>
+      <link>https://aihub.bitmagic.space/post/play-ht/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/play-ht/</guid>
+      <description>AI 驱动的文本到语音生成器。使用我们的在线 AI 语音生成器和最佳合成语音生成逼真的文本到语音 （TTS） 音频。立即将文本转换为自然语音，并下载为MP3和WAV音频文件。</description>
+    </item>
+    
+    <item>
+      <title>TTSLabs</title>
+      <link>https://aihub.bitmagic.space/post/ttslabs/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ttslabs/</guid>
+      <description>TTSLabs 让 twitch 主播能够自定义他们的文本到语音捐赠、启用自定义语音、添加独特的声音剪辑等等！所有这些都具有AI TTS的强大功能以及与Twitch，Streamlabs和Streamelements的无缝集成。</description>
+    </item>
+    
+  </channel>
+</rss>

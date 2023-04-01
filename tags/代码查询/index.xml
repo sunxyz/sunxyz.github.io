@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>代码查询 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E6%9F%A5%E8%AF%A2/</link>
+    <description>Recent content in 代码查询 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E4%BB%A3%E7%A0%81%E6%9F%A5%E8%AF%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spellbox</title>
+      <link>https://aihub.bitmagic.space/post/spellbox/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/spellbox/</guid>
+      <description>适合忙碌程序员的 AI 编码助手。在几秒钟内解决任何 AI 编程或工程问题</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>悼念 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%82%BC%E5%BF%B5/</link>
+    <description>Recent content in 悼念 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%82%BC%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Words</title>
+      <link>https://aihub.bitmagic.space/post/finding-words/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/finding-words/</guid>
+      <description>AI讣告制作者由同理心。向您所爱的人致敬可能是一项艰巨而情绪化的任务。有了Empathy的Finding Words，你可以简单地回答一系列问题，我们的AI就会起草一份讣告来纪念他们。</description>
+    </item>
+    
+  </channel>
+</rss>

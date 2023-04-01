@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>肖像生成 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%82%96%E5%83%8F%E7%94%9F%E6%88%90/</link>
+    <description>Recent content in 肖像生成 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%82%96%E5%83%8F%E7%94%9F%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DreamPic.AI</title>
+      <link>https://aihub.bitmagic.space/post/dreampic-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/dreampic-ai/</guid>
+      <description>由你主演的AI生成的图片 为您和您的朋友创建 AI 生成的头像、用户图片和个人资料图片。上传您的照片，让 AI 完成这项工作。由稳定的扩散和梦幻亭提供支持</description>
+    </item>
+    
+    <item>
+      <title>Vana Portrait</title>
+      <link>https://aihub.bitmagic.space/post/vana-portrait/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/vana-portrait/</guid>
+      <description>你是一件艺术品。 Vana的“肖像”是一个生成艺术工作室，可以为您创作无限风格的自画像</description>
+    </item>
+    
+  </channel>
+</rss>

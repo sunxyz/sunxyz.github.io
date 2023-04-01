@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅行 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%97%85%E8%A1%8C/</link>
+    <description>Recent content in 旅行 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%97%85%E8%A1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Trip Planner</title>
+      <link>https://aihub.bitmagic.space/post/ai-trip-planner/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-trip-planner/</guid>
+      <description>AI Trip Planner是一款全球旅行计划应用程序，可自动为用户前往世界任何目的地的旅行创建详细的每日行程。所有用户需要做的就是指定他们的旅行长度和他们想要的目的地，应用程序将处理其余的工作</description>
+    </item>
+    
+    <item>
+      <title>getaiway</title>
+      <link>https://aihub.bitmagic.space/post/getaiway/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/getaiway/</guid>
+      <description>使用 AI 即时创建您的个性化旅行计划。还策划了一些预先制定的旅行计划。</description>
+    </item>
+    
+    <item>
+      <title>Journeai</title>
+      <link>https://aihub.bitmagic.space/post/journeai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/journeai/</guid>
+      <description>通过谷歌地图集成提供超个性化的旅行建议。无论您是喜欢古董店还是跳伞，带小孩，穿越撒哈拉沙漠还是公路旅行……这个应用程序可以在几秒钟内为你建立正确的旅行到世界任何地方。</description>
+    </item>
+    
+    <item>
+      <title>Vacation &amp; Travel Chat (GPT)</title>
+      <link>https://aihub.bitmagic.space/post/vacation-travel-chat-gpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/vacation-travel-chat-gpt/</guid>
+      <description>这个人工智能助手可以设计一个自定义的旅行，给你去哪里的灵感，甚至生成关于酒店、餐馆和景点的本地推荐。</description>
+    </item>
+    
+    <item>
+      <title>Where To</title>
+      <link>https://aihub.bitmagic.space/post/where-to/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/where-to/</guid>
+      <description>这个网站是关于帮助人们找到有趣和有趣的地方。当您单击“让我们找出答案”按钮时，它将显示您可以探索的不同地方。它可以是任何东西，从新餐厅到博物馆，甚至是主题公园。不管是什么，这个网站都旨在帮助您找到一些有趣的事情来做和看。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diffusion on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/diffusion/</link>
+    <description>Recent content in Diffusion on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Picasso</title>
+      <link>https://aihub.bitmagic.space/post/ai-picasso/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ai-picasso/</guid>
+      <description>使用强大的 AI 创建艺术。它会从您输入的文本中生成图像，就像您使用称为稳定扩散的 AI 所期望的那样。 AI 完成填充区域。您可以使用提示编辑填充区域。</description>
+    </item>
+    
+    <item>
+      <title>Diffusion Land</title>
+      <link>https://aihub.bitmagic.space/post/diffusion-land/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/diffusion-land/</guid>
+      <description>扩散土地允许您使用各种AI模型来生成图像。它们还具有几个预构建的概念，可用于生成某些类型的图像。</description>
+    </item>
+    
+    <item>
+      <title>Dreamer</title>
+      <link>https://aihub.bitmagic.space/post/dreamer/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/dreamer/</guid>
+      <description>集成 概念到AI的稳定扩散 使用新的斜杠命令生成图像。</description>
+    </item>
+    
+    <item>
+      <title>NeuralStudio</title>
+      <link>https://aihub.bitmagic.space/post/neuralstudio/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/neuralstudio/</guid>
+      <description>Neural Studio是一个多合一的照片和艺术工作室，由最新的AI技术提供支持，使创作者能够轻松实现他们的创意目标 使用简单的文本生成您自己的头像、艺术、微标和具有stablediffusion的逼真图像从图像中删除不需要的对象A升级，A过滤器和其他很酷的A编辑功能</description>
+    </item>
+    
+    <item>
+      <title>PromptBase</title>
+      <link>https://aihub.bitmagic.space/post/promptbase/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/promptbase/</guid>
+      <description>常用的AI模型中，DALL·E, GPT-3, Midjourney, Stable Diffusion，我们常常需要一些关键词去基于AI提示才能创作，这个工具可以为我们提供智能化的AI工具描述词，以便于我们创作更神器的作品</description>
+    </item>
+    
+    <item>
+      <title>Roll Art Die</title>
+      <link>https://aihub.bitmagic.space/post/roll-art-die/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/roll-art-die/</guid>
+      <description>在您的苹果硅设备上稳定扩散。 仅使用文本生成 AI 图稿。将您的梦想艺术品变为现实。 无需云订阅。</description>
+    </item>
+    
+    <item>
+      <title>Stableboost</title>
+      <link>https://aihub.bitmagic.space/post/stableboost/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/stableboost/</guid>
+      <description>上传几张你自己、亲人、宠物、产品或你喜欢的风格的照片，我们会自动训练一个AI模型，生成数百种不同风格的你的肖像。</description>
+    </item>
+    
+  </channel>
+</rss>

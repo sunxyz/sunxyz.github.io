@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>购物 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E8%B4%AD%E7%89%A9/</link>
+    <description>Recent content in 购物 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E8%B4%AD%E7%89%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ProductBot</title>
+      <link>https://aihub.bitmagic.space/post/productbot/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/productbot/</guid>
+      <description>ProductBot 是一个人工智能产品专家和推荐者，可帮助用户做出购买决定。用户可以指定他们的需求，该工具将建议相关产品。</description>
+    </item>
+    
+  </channel>
+</rss>

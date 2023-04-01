@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生产力 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B/</link>
+    <description>Recent content in 生产力 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E7%94%9F%E4%BA%A7%E5%8A%9B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WriteGPT</title>
+      <link>https://aihub.bitmagic.space/post/writegpt/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/writegpt/</guid>
+      <description>WriteGPT 使专业人士能够在日常任务中成为超人。通过仅使用无缝键盘的热键访问 writeGPT，克服非生产性的浏览习惯。此外，我们促进及时的工程，以有效地阅读，编写，重写，回复电子邮件，编码和研究任何内容。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>护肤 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E6%8A%A4%E8%82%A4/</link>
+    <description>Recent content in 护肤 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E6%8A%A4%E8%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AweMyFace</title>
+      <link>https://aihub.bitmagic.space/post/awemyface/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/awemyface/</guid>
+      <description>AweMyFace是一款护肤应用程序和AI驱动的完美皮肤指南。拍一张你的脸的照片，我们的人工智能会发现痤疮，并显示每个区域受影响区域的百分比：额头、太阳穴、T 区、鼻子、脸颊和下巴。任何即使用最近的眼睛也很难注意到的微小变化都不会被我们的护肤AI注意到。您将始终对变化有一个客观的了解。他们的AI以99.1%的准确率检测痤疮。</description>
+    </item>
+    
+    <item>
+      <title>Facial Assessment Tool</title>
+      <link>https://aihub.bitmagic.space/post/facial-assessment-tool/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/facial-assessment-tool/</guid>
+      <description>Qoves Studio的面部评估工具，它使用机器学习像临床医生一样分析您的面部，并建议改善您的日常工作。</description>
+    </item>
+    
+    <item>
+      <title>Glow AI</title>
+      <link>https://aihub.bitmagic.space/post/glow-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/glow-ai/</guid>
+      <description>介绍Glow AI，您的个性化护肤解决方案。我们的网络应用程序会根据您的皮肤类型和预算生成定制的护肤程序。</description>
+    </item>
+    
+  </channel>
+</rss>

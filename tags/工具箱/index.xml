@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具箱 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%B7%A5%E5%85%B7%E7%AE%B1/</link>
+    <description>Recent content in 工具箱 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%B7%A5%E5%85%B7%E7%AE%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TinyWow</title>
+      <link>https://aihub.bitmagic.space/post/tinywow/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/tinywow/</guid>
+      <description>人工智能驱动的实用工具，让您的生活更轻松。最常见的工具包括PDF，视频，图像，AI写入和转换器工具。</description>
+    </item>
+    
+  </channel>
+</rss>

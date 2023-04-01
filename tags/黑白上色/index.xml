@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>黑白上色 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E9%BB%91%E7%99%BD%E4%B8%8A%E8%89%B2/</link>
+    <description>Recent content in 黑白上色 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E9%BB%91%E7%99%BD%E4%B8%8A%E8%89%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>黑白上色（百度）</title>
+      <link>https://aihub.bitmagic.space/post/%E9%BB%91%E7%99%BD%E4%B8%8A%E8%89%B2%E7%99%BE%E5%BA%A6/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E9%BB%91%E7%99%BD%E4%B8%8A%E8%89%B2%E7%99%BE%E5%BA%A6/</guid>
+      <description>百度AI开放平台提供，黑白图像上色，智能识别黑白图像内容并填充色彩，使黑白图像变得鲜活 演示效果：</description>
+    </item>
+    
+  </channel>
+</rss>

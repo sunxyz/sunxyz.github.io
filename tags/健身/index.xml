@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>健身 on Aihub</title>
+    <link>https://aihub.bitmagic.space/tags/%E5%81%A5%E8%BA%AB/</link>
+    <description>Recent content in 健身 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%81%A5%E8%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GymGenie</title>
+      <link>https://aihub.bitmagic.space/post/gymgenie/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/gymgenie/</guid>
+      <description>GymGenie 是一个人工智能驱动的网络应用程序，可根据个人健身房目标提供定制的锻炼程序。它利用先进的算法和机器学习技术来生成个性化的锻炼计划，为希望实现健身目标的人们提供独特而方便的解决方案。凭借其创新的方法和对无障碍健身解决方案不断增长的需求，GymGenie 为希望进入健康和保健领域的个人提供了绝佳的机会。</description>
+    </item>
+    
+  </channel>
+</rss>
