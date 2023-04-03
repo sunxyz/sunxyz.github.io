@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>电子商务 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/</link>
+    <description>Recent content in 电子商务 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECommerce Prompt Generator</title>
+      <link>https://aihub.bitmagic.space/post/ecommerce-prompt-generator/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/ecommerce-prompt-generator/</guid>
+      <description>由提示工程师构建的现成 ChatGPT 提示食谱，可帮助您快速设置商店和营销活动！</description>
+    </item>
+    
+    <item>
+      <title>Maverick</title>
+      <link>https://aihub.bitmagic.space/post/maverick/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/maverick/</guid>
+      <description>利用自动化个性化视频与客户建立牢固的关系。我们在Maverick通过人工智能和深度技术协助电子商务品牌，在线零售商，医疗保健等不同业务，以生成数千个独特的个性化视频。您需要录制一次自己，Maverick 将制作数千个独特的定制视频，您可以在其中按名称称呼每个消费者。那你还等什么？向您的客户发送自动个性化视频并提高转化率。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -328,6 +328,17 @@ body {
   right: 0;
   top: 0; }
 
+.c-case__category {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+  color: #fff;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 0.6rem;
+  height: 2rem;
+  line-height: 2rem; }
+
 .c-case__info {
   background: var(--blue-500);
   bottom: 0;
@@ -460,8 +471,7 @@ body {
 .c-tags {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
-  margin-top: -1.6rem; }
+  justify-content: center; }
   @media (max-width: 40em) {
     .c-tags {
       margin-top: 0; } }
@@ -489,6 +499,15 @@ a.c-tags__label:hover, a.link:hover {
 
 .lead + .c-tags {
   margin-top: -1.6rem; }
+
+.center {
+  text-align: center; }
+
+a.sub {
+  color: #666; }
+
+.dark-theme a.sub {
+  color: #eee; }
 
 :root {
   --header-height: 3rem;

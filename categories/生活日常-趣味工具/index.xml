@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活日常 趣味工具 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 生活日常 趣味工具 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thing Translator-事物翻译器</title>
+      <link>https://aihub.bitmagic.space/post/thing-translator-%E4%BA%8B%E7%89%A9%E7%BF%BB%E8%AF%91%E5%99%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/thing-translator-%E4%BA%8B%E7%89%A9%E7%BF%BB%E8%AF%91%E5%99%A8/</guid>
+      <description>Thing Translator可以是您旅行时使用的便捷工具。它使用户可以将手机摄像头对准特定的事物，并且该工具将帮助您用不同的语言说出来。该工具是Google的AI实验项目的一部分，可让用户在不了解Google的情况下使用Google的机器学习API。此外，它使用了Cloud vision API和Translate API。</description>
+    </item>
+    
+    <item>
+      <title>WatchNow</title>
+      <link>https://aihub.bitmagic.space/post/watchnow/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/watchnow/</guid>
+      <description>获取个性化的电影和节目推荐。输入您观看和喜欢的电影或节目的标题，以获得更好的推荐</description>
+    </item>
+    
+  </channel>
+</rss>

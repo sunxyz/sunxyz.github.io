@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>游戏辅助 趣味工具 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 游戏辅助 趣味工具 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Booom.ai</title>
+      <link>https://aihub.bitmagic.space/post/booom-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/booom-ai/</guid>
+      <description>生成一个有趣的琐事游戏，您可以围绕输入的主题进行游戏。您可以自己玩，也可以和朋友一起玩。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>网站播客 设计辅助 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</link>
+    <description>Recent content in 网站播客 设计辅助 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Studio</title>
+      <link>https://aihub.bitmagic.space/post/studio/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/studio/</guid>
+      <description>Studio 的第一个版本是一个用于创建现代网站的 AI 增强设计应用程序。它具有与众不同的强大体验：突出显示您卡住的区域。惊叹于设计建议出现在您的眼前。对它说话。观看多步骤任务自动完成。按一个按钮。观察您的设计是否适合所有屏幕尺寸。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>翻译辅助 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E7%BF%BB%E8%AF%91%E8%BE%85%E5%8A%A9/</link>
+    <description>Recent content in 翻译辅助 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E7%BF%BB%E8%AF%91%E8%BE%85%E5%8A%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wisio</title>
+      <link>https://aihub.bitmagic.space/post/wisio/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/wisio/</guid>
+      <description>Wisio是一个人工智能驱动的科学写作平台，为文本提供个性化的建议，从任何语言翻译成科学英语，即时搜索和参考最新发现。</description>
+    </item>
+    
+  </channel>
+</rss>

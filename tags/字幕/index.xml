@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2023</copyright>
-    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%AD%97%E5%B9%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/tags/%E5%AD%97%E5%B9%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>智影</title>
+      <link>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</guid>
+      <description>腾讯智影出品，智能创作工具，为数不多的免费工具，当然后期应该会收费了 提供文本转语音，数百种音色随你选择，同时提供众多AI智能剪辑创作工具等</description>
+    </item>
+    
     <item>
       <title>Captions</title>
       <link>https://aihub.bitmagic.space/post/captions/</link>
@@ -42,15 +51,6 @@
       
       <guid>https://aihub.bitmagic.space/post/%E5%AD%97%E5%B9%95%E9%85%B1/</guid>
       <description>幕酱利用AI深度学习技术，提供自动在线字幕生成,字幕制作,语音转字幕,语音自动生成字幕,字幕翻译功能,字幕格式转换 基于AI人工智能，在线字幕自动生成、自动翻译、格式转换，在线制作双语字幕；支持中文、英文、粤语、日语、韩语、德语、法语、西班牙语等语种，在线语音转字幕工具 付费情况：60秒内短视频免费，性价比极高</description>
-    </item>
-    
-    <item>
-      <title>智影</title>
-      <link>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</guid>
-      <description>腾讯智影出品，智能创作工具，为数不多的免费工具，当然后期应该会收费了 提供文本转语音，数百种音色随你选择，同时提供众多AI智能剪辑创作工具等</description>
     </item>
     
   </channel>

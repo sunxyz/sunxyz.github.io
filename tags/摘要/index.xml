@@ -224,14 +224,5 @@
       <description>让所有人都能接触到写作艺术。无论您是需要减少单词，进一步阐述还是只是改写句子，Writely都可以提供帮助！</description>
     </item>
     
-    <item>
-      <title>YouTube Summarized</title>
-      <link>https://aihub.bitmagic.space/post/youtube-summarized/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/youtube-summarized/</guid>
-      <description>此Chrome扩展程序使您能够使用OpenAI密钥汇总任何长度的YouTube视频。它对于创建注释或查找视频的要点非常有用，而无需观看它。</description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图像处理 开放平台 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</link>
+    <description>Recent content in 图像处理 开放平台 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>美图AI</title>
+      <link>https://aihub.bitmagic.space/post/%E7%BE%8E%E5%9B%BEai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E7%BE%8E%E5%9B%BEai/</guid>
+      <description>美图AI开放平台 AI服务平台，专注于人脸技术、人体技术、图像识别、图像处理、图像生成等核心领域</description>
+    </item>
+    
+  </channel>
+</rss>

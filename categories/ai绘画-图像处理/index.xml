@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI绘画 图像处理 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+    <description>Recent content in AI绘画 图像处理 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generated Photos</title>
+      <link>https://aihub.bitmagic.space/post/generated-photos/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/generated-photos/</guid>
+      <description>使用完全由 AI 生成的照片增强您的创意作品。通过我们排序和标记的应用程序查找模型图像，或通过 API 集成图像。</description>
+    </item>
+    
+    <item>
+      <title>Playground AI</title>
+      <link>https://aihub.bitmagic.space/post/playground-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/playground-ai/</guid>
+      <description>游乐场AI是一个免费使用的在线AI图像创建者。使用它来创建艺术、社交媒体帖子、演示文稿、海报、视频、徽标等。</description>
+    </item>
+    
+  </channel>
+</rss>

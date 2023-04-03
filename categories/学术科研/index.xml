@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学术科研 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94/</link>
+    <description>Recent content in 学术科研 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk To Books</title>
+      <link>https://aihub.bitmagic.space/post/talk-to-books/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/talk-to-books/</guid>
+      <description>一种探索想法和发现书籍的新方式。发表声明或提出问题，使用实验性人工智能浏览书籍中的段落。</description>
+    </item>
+    
+  </channel>
+</rss>

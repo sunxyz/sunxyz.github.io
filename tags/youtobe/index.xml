@@ -98,14 +98,5 @@
       <description>通过为人们提供 AI 评级来帮助人们优化他们的 YouTube 缩略图。 选择一个图像或将其拖到网站上，您将获得有关改进缩略图的建议。</description>
     </item>
     
-    <item>
-      <title>YouTube Summarized</title>
-      <link>https://aihub.bitmagic.space/post/youtube-summarized/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/youtube-summarized/</guid>
-      <description>此Chrome扩展程序使您能够使用OpenAI密钥汇总任何长度的YouTube视频。它对于创建注释或查找视频的要点非常有用，而无需观看它。</description>
-    </item>
-    
   </channel>
 </rss>

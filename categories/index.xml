@@ -7,6 +7,816 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2023</copyright>
-    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI绘画</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>办公辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文本处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>视频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>音频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D创作</title>
+      <link>https://aihub.bitmagic.space/categories/3d%E5%88%9B%E4%BD%9C/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/3d%E5%88%9B%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D创作 游戏辅助</title>
+      <link>https://aihub.bitmagic.space/categories/3d%E5%88%9B%E4%BD%9C-%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/3d%E5%88%9B%E4%BD%9C-%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI应用</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI应用 AI绘画</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8-ai%E7%BB%98%E7%94%BB/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8-ai%E7%BB%98%E7%94%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI应用 AI绘画 图像处理</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8-ai%E7%BB%98%E7%94%BB-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8-ai%E7%BB%98%E7%94%BB-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI应用 图像处理</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E5%BA%94%E7%94%A8-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI绘画 图像处理</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI绘画 故事小说</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI绘画 电脑应用</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI绘画 移动应用</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI绘画 设计辅助</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI绘画 趣味工具</title>
+      <link>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/ai%E7%BB%98%E7%94%BB-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 图像处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 媒体社交</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 文本处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 文本处理 智能总结</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 文本处理 网站播客</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 时尚前沿</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%97%B6%E5%B0%9A%E5%89%8D%E6%B2%BF/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E6%97%B6%E5%B0%9A%E5%89%8D%E6%B2%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>产品营销 网站播客</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BA%A7%E5%93%81%E8%90%A5%E9%94%80-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>代码开发</title>
+      <link>https://aihub.bitmagic.space/categories/%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E4%BB%A3%E7%A0%81%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>创意灵感</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>创意灵感 办公辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>创意灵感 媒体社交</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>办公辅助 图像处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>办公辅助 媒体社交</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>办公辅助 生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>办公辅助 网站播客</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>办公辅助 视频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>医疗医学</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8C%BB%E7%96%97%E5%8C%BB%E5%AD%A6/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8C%BB%E7%96%97%E5%8C%BB%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>医疗医学 开放平台</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%8C%BB%E7%96%97%E5%8C%BB%E5%AD%A6-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%8C%BB%E7%96%97%E5%8C%BB%E5%AD%A6-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 媒体社交</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 开放平台</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 电脑应用 移动应用</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8-%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8-%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 移动应用</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 视频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 视频处理 音频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 设计辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 趣味工具</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理 辅助搜索</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>媒体社交</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>媒体社交 生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>媒体社交 视频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育 学术科研</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育 学术科研 生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育 故事小说</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育 生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育 趣味工具</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学习教育 辅助搜索</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>学术科研</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%AD%A6%E6%9C%AF%E7%A7%91%E7%A0%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开放平台</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开放平台 音频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>故事小说</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>故事小说 游戏辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4-%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%95%85%E4%BA%8B%E5%B0%8F%E8%AF%B4-%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据SQL</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%95%B0%E6%8D%AEsql/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%95%B0%E6%8D%AEsql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文本处理 智能总结</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文本处理 生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文本处理 电子邮件</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文本处理 网站播客</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%96%87%E6%9C%AC%E5%A4%84%E7%90%86-%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>时尚前沿</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%97%B6%E5%B0%9A%E5%89%8D%E6%B2%BF/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%97%B6%E5%B0%9A%E5%89%8D%E6%B2%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能总结</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能总结 辅助搜索</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%99%BA%E8%83%BD%E6%80%BB%E7%BB%93-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>法律法规</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏辅助 趣味工具</title>
+      <link>https://aihub.bitmagic.space/categories/%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E6%B8%B8%E6%88%8F%E8%BE%85%E5%8A%A9-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活日常</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活日常 趣味工具</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生活日常 辅助搜索</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8-%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电子商务</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电子邮件</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电脑应用</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%94%B5%E8%84%91%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移动应用</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网站播客</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网站播客 设计辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%BD%91%E7%AB%99%E6%92%AD%E5%AE%A2-%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>翻译辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%BF%BB%E8%AF%91%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%BF%BB%E8%AF%91%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>翻译辅助 视频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E7%BF%BB%E8%AF%91%E8%BE%85%E5%8A%A9-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E7%BF%BB%E8%AF%91%E8%BE%85%E5%8A%A9-%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>视频处理 音频处理</title>
+      <link>https://aihub.bitmagic.space/categories/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86-%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>训练模型</title>
+      <link>https://aihub.bitmagic.space/categories/%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>设计辅助</title>
+      <link>https://aihub.bitmagic.space/categories/%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E8%AE%BE%E8%AE%A1%E8%BE%85%E5%8A%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>趣味工具</title>
+      <link>https://aihub.bitmagic.space/categories/%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>辅助搜索</title>
+      <link>https://aihub.bitmagic.space/categories/%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E8%BE%85%E5%8A%A9%E6%90%9C%E7%B4%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>金融财务</title>
+      <link>https://aihub.bitmagic.space/categories/%E9%87%91%E8%9E%8D%E8%B4%A2%E5%8A%A1/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/categories/%E9%87%91%E8%9E%8D%E8%B4%A2%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

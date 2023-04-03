@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图像处理 媒体社交 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</link>
+    <description>Recent content in 图像处理 媒体社交 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photor AI</title>
+      <link>https://aihub.bitmagic.space/post/photor-ai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/photor-ai/</guid>
+      <description>Photor AI是一种工具，它使用先进的图像识别和机器学习技术来分析和选择最佳图像，供LinkedIn，社交媒体和约会应用程序等平台上的专业或个人使用。它可以帮助您展示最好的自己。</description>
+    </item>
+    
+    <item>
+      <title>Pixelhunter</title>
+      <link>https://aihub.bitmagic.space/post/pixelhunter/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/pixelhunter/</guid>
+      <description>手动裁剪每个图像可能会很烦人。Pixelhunter利用惊人的Uploadcare智能API以更智能的方式自动识别对象和裁剪图片。</description>
+    </item>
+    
+    <item>
+      <title>ThumbnailAi</title>
+      <link>https://aihub.bitmagic.space/post/thumbnailai/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/thumbnailai/</guid>
+      <description>通过为人们提供 AI 评级来帮助人们优化他们的 YouTube 缩略图。 选择一个图像或将其拖到网站上，您将获得有关改进缩略图的建议。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,61 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2023</copyright>
-    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe Podcast</title>
+      <link>https://aihub.bitmagic.space/post/adobe-podcast/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/adobe-podcast/</guid>
+      <description>提供 2 个免费的快速工具来增强内容的音频。增强语音 – 通过消除所有背景噪音和回声来增强语音。 麦克风检查 – 从麦克风解锁高质量的声音。 主要产品承诺提供人工智能驱动的录音和编辑，所有这些都在网络上，并在候补名单上</description>
+    </item>
+    
+    <item>
+      <title>DallE-2</title>
+      <link>https://aihub.bitmagic.space/post/dalle-2/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/dalle-2/</guid>
+      <description>在过去的几年里，人工智能（AI）取得了极大的进展，而AI的新产品中有AI图像生成器。这是一种能够将输入的语句转换为图像的工具。文本转图像的AI工具有许多，但最突出的就属DALL-E 2、Stable Diffusion和Midjourney了 DALL-E 2由OpenAI开发，它通过一段文本描述生成图像。其使用超过100亿个参数训练的GPT-3转化器模型，能够解释自然语言输入并生成相应的图像 DALL-E 2主要由两部分组成——将用户输入转换为图像的表示（称为Prior），然后是将这种表示转换为实际的照片（称为Decoder） 其中使用到的文本和图像嵌入来自另一个叫做CLIP（对比语言-图像预训练）的网络，这也是由OpenAI研发的。CLIP是一种神经网络，为输入的图像返回最佳的标题。它所做的事情与DALL-E 2所做的相反——它是将图像转换为文本，而DALL-E 2是将文本转换为图像。引入CLIP的目的是为了学习物体的视觉和文字表示之间的联系 ALL-E 2的工作是训练两个模型。第一个是Prior，接受文本标签并创建CLIP图像嵌入。第二个是Decoder，其接受CLIP图像嵌入并生成图像。模型训练完成之后，推理的流程如下： 输入的文本被转化为使用神经网络的CLIP文本嵌入 使用主成分分析（Principal Component Analysis）降低文本嵌入的维度 使用文本嵌入创建图像嵌入 进入Decoder步骤后，扩散模型被用来将图像嵌入转化为图像 图像被从64×64放大到256×256，最后使用卷积神经网络放大到1024×1024</description>
+    </item>
+    
+    <item>
+      <title>Type AI</title>
+      <link>https://aihub.bitmagic.space/post/type-ai/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/type-ai/</guid>
+      <description>AI 驱动的文档编辑器，可帮助您非常快速地编写。它可以让你更快、更容易地写作。</description>
+    </item>
+    
+    <item>
+      <title>Writer</title>
+      <link>https://aihub.bitmagic.space/post/writer/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/writer/</guid>
+      <description>发现 Writer，适用于团队的 AI 写作平台。随时随地制作清晰、一致且符合品牌的内容。立即免费试用。</description>
+    </item>
+    
+    <item>
+      <title>京东AI</title>
+      <link>https://aihub.bitmagic.space/post/%E4%BA%AC%E4%B8%9Cai/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E4%BA%AC%E4%B8%9Cai/</guid>
+      <description>京东AI开放平台 JD AI NeuHub是京东人工智能AI开放平台，提供全球领先的及声学、语义、对话、机器学习、知识表示及推理等多项人工智能技术，通过平台赋能至，客服，商业，市政，医疗等领域、让社会共享AI领域最新的应用场景和解决方案，帮您提升竞争力。</description>
+    </item>
+    
+    <item>
+      <title>智影</title>
+      <link>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</guid>
+      <description>腾讯智影出品，智能创作工具，为数不多的免费工具，当然后期应该会收费了 提供文本转语音，数百种音色随你选择，同时提供众多AI智能剪辑创作工具等</description>
+    </item>
+    
     <item>
       <title>5-Out</title>
       <link>https://aihub.bitmagic.space/post/5-out/</link>
@@ -69,15 +123,6 @@
       
       <guid>https://aihub.bitmagic.space/post/adobe-firefly-%E5%88%9B%E6%84%8F%E6%96%87%E6%9C%AC%E8%BD%AC%E5%9B%BE%E5%83%8F/</guid>
       <description>3月21日 Adobe 发布Firefly；Adobe Firefly 能够根据文本提示词创建图像，并提供数百种风格可以对结果进行调整，帮助创意专业人士和艺术家、设计师提供更多的创作灵感。 Adobe Firefly 将提供新的创作方式，能够显著改善创意工作流程。Firefly 是 Adobe 过去 40 年来图像生产技术的自然延伸，旨在让人们能够按照他们的想象精确地将自己的想法变为现实。 Firefly 可以在 Web 上访问，并支持电脑上的 Chrome、Safari 和 Edge 浏览器，但是目前还不支持平板电脑或移动设备。而且，现在 Firefly 仅支持英文提示，将来会支持更多语言提示词。 申请内测资格：https://firefly.adobe.com/</description>
-    </item>
-    
-    <item>
-      <title>Adobe Podcast</title>
-      <link>https://aihub.bitmagic.space/post/adobe-podcast/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/adobe-podcast/</guid>
-      <description>提供 2 个免费的快速工具来增强内容的音频。增强语音 – 通过消除所有背景噪音和回声来增强语音。 麦克风检查 – 从麦克风解锁高质量的声音。 主要产品承诺提供人工智能驱动的录音和编辑，所有这些都在网络上，并在候补名单上</description>
     </item>
     
     <item>
@@ -1752,15 +1797,6 @@
       
       <guid>https://aihub.bitmagic.space/post/daft-art/</guid>
       <description>AI专辑封面生成器。 创建您梦寐以求的专辑封面</description>
-    </item>
-    
-    <item>
-      <title>DallE-2</title>
-      <link>https://aihub.bitmagic.space/post/dalle-2/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/dalle-2/</guid>
-      <description>在过去的几年里，人工智能（AI）取得了极大的进展，而AI的新产品中有AI图像生成器。这是一种能够将输入的语句转换为图像的工具。文本转图像的AI工具有许多，但最突出的就属DALL-E 2、Stable Diffusion和Midjourney了 DALL-E 2由OpenAI开发，它通过一段文本描述生成图像。其使用超过100亿个参数训练的GPT-3转化器模型，能够解释自然语言输入并生成相应的图像 DALL-E 2主要由两部分组成——将用户输入转换为图像的表示（称为Prior），然后是将这种表示转换为实际的照片（称为Decoder） 其中使用到的文本和图像嵌入来自另一个叫做CLIP（对比语言-图像预训练）的网络，这也是由OpenAI研发的。CLIP是一种神经网络，为输入的图像返回最佳的标题。它所做的事情与DALL-E 2所做的相反——它是将图像转换为文本，而DALL-E 2是将文本转换为图像。引入CLIP的目的是为了学习物体的视觉和文字表示之间的联系 ALL-E 2的工作是训练两个模型。第一个是Prior，接受文本标签并创建CLIP图像嵌入。第二个是Decoder，其接受CLIP图像嵌入并生成图像。模型训练完成之后，推理的流程如下： 输入的文本被转化为使用神经网络的CLIP文本嵌入 使用主成分分析（Principal Component Analysis）降低文本嵌入的维度 使用文本嵌入创建图像嵌入 进入Decoder步骤后，扩散模型被用来将图像嵌入转化为图像 图像被从64×64放大到256×256，最后使用卷积神经网络放大到1024×1024</description>
     </item>
     
     <item>
@@ -3552,15 +3588,6 @@
       
       <guid>https://aihub.bitmagic.space/post/katteb/</guid>
       <description>Katteb AI可以快速轻松地为您的博客和在线商店创建内容。</description>
-    </item>
-    
-    <item>
-      <title>Kayyo</title>
-      <link>https://aihub.bitmagic.space/post/kayyo/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/kayyo/</guid>
-      <description>AI 培训师将分析您的动作并提供个性化的反馈和建议，以帮助您将训练提升到一个新的水平。根据您的目标和能力量身定制的个性化训练计划和练习。每个练习的详细视频演示和说明。进度跟踪可帮助您监控改进。虚拟陪练伙伴在模拟战斗中练习您的技能</description>
     </item>
     
     <item>
@@ -5706,6 +5733,15 @@
     </item>
     
     <item>
+      <title>regex-用AI正则表达式</title>
+      <link>https://aihub.bitmagic.space/post/regex-%E7%94%A8ai%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/regex-%E7%94%A8ai%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</guid>
+      <description>这是一个强大的正则表达式在线测试工具。它可以帮助您编写和测试正则表达式，以匹配和操作文本中的特定模式。 以下是regex.ai的使用教程，包括功能和注意事项： 以上就是regex.ai的使用教程和注意事项。祝您在编写和测试正则表达式时取得好成果！</description>
+    </item>
+    
+    <item>
       <title>Regie</title>
       <link>https://aihub.bitmagic.space/post/regie/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
@@ -7083,15 +7119,6 @@
     </item>
     
     <item>
-      <title>Type AI</title>
-      <link>https://aihub.bitmagic.space/post/type-ai/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/type-ai/</guid>
-      <description>AI 驱动的文档编辑器，可帮助您非常快速地编写。它可以让你更快、更容易地写作。</description>
-    </item>
-    
-    <item>
       <title>Type Studio</title>
       <link>https://aihub.bitmagic.space/post/type-studio/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
@@ -7713,15 +7740,6 @@
     </item>
     
     <item>
-      <title>Writer</title>
-      <link>https://aihub.bitmagic.space/post/writer/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/writer/</guid>
-      <description>发现 Writer，适用于团队的 AI 写作平台。随时随地制作清晰、一致且符合品牌的内容。立即免费试用。</description>
-    </item>
-    
-    <item>
       <title>Writers Brew</title>
       <link>https://aihub.bitmagic.space/post/writers-brew/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
@@ -7857,15 +7875,6 @@
     </item>
     
     <item>
-      <title>YouTube Summarized</title>
-      <link>https://aihub.bitmagic.space/post/youtube-summarized/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/youtube-summarized/</guid>
-      <description>此Chrome扩展程序使您能够使用OpenAI密钥汇总任何长度的YouTube视频。它对于创建注释或查找视频的要点非常有用，而无需观看它。</description>
-    </item>
-    
-    <item>
       <title>Zevi.ai</title>
       <link>https://aihub.bitmagic.space/post/zevi-ai/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
@@ -7893,30 +7902,12 @@
     </item>
     
     <item>
-      <title>中国版ChatGPT：MOSS</title>
-      <link>https://aihub.bitmagic.space/post/%E4%B8%AD%E5%9B%BD%E7%89%88chatgptmoss/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/%E4%B8%AD%E5%9B%BD%E7%89%88chatgptmoss/</guid>
-      <description>2月20日，复旦团队发布国内首个类ChatGPT模型MOSS，当晚不少测试的网友发现，MOSS已经显示服务器流量过载，只能第二天再重试。2月21日，复旦团队在MOSS官网发布公告称：首先非常感谢大家的关注！MOSS还是一个非常不成熟的模型，距离ChatGPT还有很长的路需要走。值得注意的是，MOSS被多方注册商标。 MOSS是《流浪地球》系列电影中的智能量子计算机，是领航员空间站核心智能主机，有自我意识、自我迭代、自我更新的特点。 天眼查App显示，MOSS被多方注册商标，申请人包括科技公司、电商公司、传媒公司以及自然人许某某、谭某某等，国际分类包括科学仪器、灯具空调、运输贮藏等。最近的一枚“MOSS”商标是某科技公司申请于2023年1月，国际分类为手工器械，目前商标状态为申请中。 2023年开年，ChatGPT迅速火遍全球，短短两个月时间月活突破一亿。ChatGPT的大火引发了全球科技巨头的竞赛，国内的“中国版ChatGPT”争夺战也是一触即发。在国内众多大厂中，百度是最早做出明确表态的公司之一，2月初就正式宣布将在3月上线百度版ChatGPT“文心一言”，打响第一枪。基于指令学习技术的类ChatGPT模型在我国能否开发成功，成为业界关注的一个焦点。 2月20日，复旦大学自然语言处理实验室宣布，国内第一个对话式大型语言模型MOSS已由邱锡鹏教授团队发布至公开平台（https://moss.fastnlp.top/），并邀公众参与内测。</description>
-    </item>
-    
-    <item>
       <title>云从科技</title>
       <link>https://aihub.bitmagic.space/post/%E4%BA%91%E4%BB%8E%E7%A7%91%E6%8A%80/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://aihub.bitmagic.space/post/%E4%BA%91%E4%BB%8E%E7%A7%91%E6%8A%80/</guid>
       <description>云从科技拥有世界领先、自主可控的核心技术，在人脸识别、3D结构光、跨镜追踪ReID、3D人体重建、语音识别、OCR文字识别等领域打破多项世界纪录，形成从智能感知到认知决策的技术闭环</description>
-    </item>
-    
-    <item>
-      <title>京东AI</title>
-      <link>https://aihub.bitmagic.space/post/%E4%BA%AC%E4%B8%9Cai/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/%E4%BA%AC%E4%B8%9Cai/</guid>
-      <description>京东AI开放平台 JD AI NeuHub是京东人工智能AI开放平台，提供全球领先的及声学、语义、对话、机器学习、知识表示及推理等多项人工智能技术，通过平台赋能至，客服，商业，市政，医疗等领域、让社会共享AI领域最新的应用场景和解决方案，帮您提升竞争力。</description>
     </item>
     
     <item>
@@ -8019,15 +8010,6 @@
     </item>
     
     <item>
-      <title>微软Bing引入ChatGPT</title>
-      <link>https://aihub.bitmagic.space/post/%E5%BE%AE%E8%BD%AFbing%E5%BC%95%E5%85%A5chatgpt/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/%E5%BE%AE%E8%BD%AFbing%E5%BC%95%E5%85%A5chatgpt/</guid>
-      <description>微软近日宣布在必应搜索引擎及 Edge 浏览器中整合 OpenAI 旗下人工智能技术，提供全新的聊天体验。新版必应体验建构于 4 项创新科技之上： 新一代的 OpenAI 模型 必应搜索引擎以及 Edge 浏览器聊天和撰写等功能将在新一代的 OpenAI 大型人工智能语言模型上运作，其吸取并优化 ChatGPT 与 GPT-3.5 的精华，速度更快、更准确、功能更强大。 Microsoft Prometheus 模型 微软开发了一套专门使用 OpenAI 模型的方法，能够充分利用其技术，该模型称之为 Prometheus，让用户在更安全的环境下，获取相关度更高、即时且更精准的搜索结果。 将 AI 应用于核心搜索算法 微软将 AI 模型应用至必应搜索引擎的核心排名中，搜索引擎的相关度推向近二十年来的新巅峰。通过 AI 模型，提升了基本搜索的精准度与相关性。 全新用户体验 微软重新构想了用户与搜索引擎、浏览器和聊天的交互方式，并将三者合而为一，用户带来突破性的网络体验。</description>
-    </item>
-    
-    <item>
       <title>快速涂鸦</title>
       <link>https://aihub.bitmagic.space/post/%E5%BF%AB%E9%80%9F%E6%B6%82%E9%B8%A6/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
@@ -8052,15 +8034,6 @@
       
       <guid>https://aihub.bitmagic.space/post/%E6%96%87%E5%BF%83/</guid>
       <description>百度文心大模型源于产业、服务于产业，是产业级知识增强大模型。百度通过大模型与国产深度学习框架融合发展，打造了自主创新的AI底座，大幅降低了AI开发和应用的门槛，满足真实场景中的应用需求，真正发挥大模型驱动AI规模化应用的产业价值。 文心大模型的一大特色是“知识增强”，即引入知识图谱，将数据与知识融合，提升了学习效率及可解释性 1、知识增强：从大规模知识和海量数据中融合学习，提升了学习效率、可解释性、及模型效果 2、产业级：源于产业实践，服务于产业实践，满足真实场景中的应用需求 1、模型效果优：所需标注数据少，在各场景上的效果处于业界领先水平 2、生成能力强：拥有丰富的AI内容生成（AIGC）能力 3、应用门槛低：文心大模型提供了丰富的平台与工具，包括大模型开发套件、API以及内置文心大模型能力的EasyDL和BML开发平台 4、应用场景广：目前，文心大模型已支持数百家企业与机构，开发者数量超过6万，已在数百个场景中落地应用</description>
-    </item>
-    
-    <item>
-      <title>智影</title>
-      <link>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</guid>
-      <description>腾讯智影出品，智能创作工具，为数不多的免费工具，当然后期应该会收费了 提供文本转语音，数百种音色随你选择，同时提供众多AI智能剪辑创作工具等</description>
     </item>
     
     <item>
@@ -8115,15 +8088,6 @@
       
       <guid>https://aihub.bitmagic.space/post/%E7%99%BE%E5%BA%A6ai/</guid>
       <description>百度AI开放平台 全球领先的人工智能服务平台</description>
-    </item>
-    
-    <item>
-      <title>百度官宣文心一言AI大模型</title>
-      <link>https://aihub.bitmagic.space/post/%E7%99%BE%E5%BA%A6%E5%AE%98%E5%AE%A3%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80ai%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://aihub.bitmagic.space/post/%E7%99%BE%E5%BA%A6%E5%AE%98%E5%AE%A3%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%80ai%E5%A4%A7%E6%A8%A1%E5%9E%8B/</guid>
-      <description>百度2月7日在其微信公众号官宣：大模型新项目文心一言(英文名ERNIE Bot)敬请期待。 注释：①.百度在人工智能四层架构中，有全栈布局。包括底层的芯片、深度学习框架、大模型以及最上层的搜索等应用。文心一言，位于模型层。 ②.百度在人工智能领域深耕数十年，拥有产业级知识增强文心大模型ERNIE ，具备跨模态、跨语言的深度语义理解与生成能力。</description>
     </item>
     
     <item>

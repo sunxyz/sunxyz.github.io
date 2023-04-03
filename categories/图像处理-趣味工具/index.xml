@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图像处理 趣味工具 on Aihub</title>
+    <link>https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 图像处理 趣味工具 on Aihub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2023</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aihub.bitmagic.space/categories/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86-%E8%B6%A3%E5%91%B3%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Nostalgia</title>
+      <link>https://aihub.bitmagic.space/post/deep-nostalgia/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aihub.bitmagic.space/post/deep-nostalgia/</guid>
+      <description>使用令人难以置信的技术为家庭照片中的面孔制作动画。该工具已经完成了超过 1.06 亿个动画，而且还在不断增加！ 这项非凡的照片动画技术由MyHeritage从D-ID获得许可，D-ID是一家专门使用深度学习进行视频重演的公司。Deep Nostalgia™ 可以非常准确地将驱动程序应用于静态照片中的面部，创建一个可以与朋友和家人分享的短视频。</description>
+    </item>
+    
+  </channel>
+</rss>
