@@ -26,6 +26,9 @@
     <loc>https://aihub.bitmagic.space/categories/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aihub.bitmagic.space/post/character-ai/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aihub.bitmagic.space/tags/dalle-2/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,6 +56,9 @@
     <loc>https://aihub.bitmagic.space/post/%E4%BA%AC%E4%B8%9Cai/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aihub.bitmagic.space/categories/%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,7 +74,13 @@
     <loc>https://aihub.bitmagic.space/post/%E6%99%BA%E5%BD%B1/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://aihub.bitmagic.space/tags/%E7%A4%BE%E4%BA%A4/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aihub.bitmagic.space/tags/%E8%89%BA%E6%9C%AF/</loc>
+    <lastmod>2023-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aihub.bitmagic.space/tags/%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1/</loc>
     <lastmod>2023-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aihub.bitmagic.space/tags/%E8%A7%86%E9%A2%91%E5%89%AA%E8%BE%91/</loc>
@@ -525,9 +537,6 @@
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aihub.bitmagic.space/post/channel/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aihub.bitmagic.space/post/character-ai/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aihub.bitmagic.space/post/charm/</loc>
@@ -3083,9 +3092,6 @@
     <loc>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%8A%9E%E5%85%AC%E8%BE%85%E5%8A%A9/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aihub.bitmagic.space/categories/%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F-%E5%AA%92%E4%BD%93%E7%A4%BE%E4%BA%A4/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aihub.bitmagic.space/tags/%E5%88%9B%E9%80%A0/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -3770,9 +3776,6 @@
     <loc>https://aihub.bitmagic.space/tags/%E7%A4%BC%E7%89%A9/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aihub.bitmagic.space/tags/%E7%A4%BE%E4%BA%A4/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aihub.bitmagic.space/tags/%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -3960,9 +3963,6 @@
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aihub.bitmagic.space/tags/%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aihub.bitmagic.space/tags/%E8%99%9A%E6%8B%9F%E5%BD%A2%E8%B1%A1/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aihub.bitmagic.space/tags/%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E/</loc>
@@ -4214,5 +4214,7 @@
     <loc>https://aihub.bitmagic.space/model/</loc>
   </url><url>
     <loc>https://aihub.bitmagic.space/application/</loc>
+  </url><url>
+    <loc>https://aihub.bitmagic.space/prompts/</loc>
   </url>
 </urlset>
