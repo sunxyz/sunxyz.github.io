@@ -4211,10 +4211,10 @@
     <loc>https://aihub.bitmagic.space/tags/%E9%BB%91%E7%99%BD%E7%85%A7%E7%89%87/</loc>
     <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aihub.bitmagic.space/model/</loc>
-  </url><url>
     <loc>https://aihub.bitmagic.space/application/</loc>
   </url><url>
     <loc>https://aihub.bitmagic.space/prompts/</loc>
+  </url><url>
+    <loc>https://aihub.bitmagic.space/model/</loc>
   </url>
 </urlset>
